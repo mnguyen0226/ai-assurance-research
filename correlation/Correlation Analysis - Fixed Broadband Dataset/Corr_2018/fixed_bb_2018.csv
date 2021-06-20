@@ -1,0 +1,1001 @@
+,logrecno,provider_id,frn,providername,dbaname,holdingcompanyname,hoconum,hocofinal,stateabbr,blockcode,techcode,consumer,maxaddown,maxadup,business
+0,46429531,55262,18756155,"VSAT Systems, LLC",Skycasters,"VSAT Systems, LLC",300167,"VSAT Systems, LLC",DE,100050505043007,60,1,2.0,1.3,1
+1,4535616,55394,4372322,UNITED STATES CELLULAR CORPORATION,United States Cellular Corporation,"Telephone and Data Systems, Inc.",131310,"Telephone and Data Systems, Inc.",CA,60230012002165,70,1,2.0,0.064,0
+2,4448974,55394,4372322,UNITED STATES CELLULAR CORPORATION,United States Cellular Corporation,"Telephone and Data Systems, Inc.",131310,"Telephone and Data Systems, Inc.",WI,550791853003001,70,1,2.0,0.064,0
+3,2211991,54692,6115901,ERIE COUNTY CABLEVISION INC  DBA =  THE CABLESYSTEM,Buckeye Cablesystem,"Block Communications, Inc.",130137,"Block Communications, Inc.",OH,390430414002059,42,1,300.0,10.0,1
+4,48694132,59349,1568880,GCI Communication Corp.,GCI Communication Corp.,GCI Holdings LLC,130534,GCI Holdings LLC,ID,160139602002047,60,0,0.0,0.0,1
+5,68486495,54694,12369286,"HNS License Sub, LLC",HughesNet,"Hughes Network Systems, LLC",130627,"Hughes Network Systems, LLC",TX,481410023004006,60,1,25.0,3.0,1
+6,63811127,55262,18756155,"VSAT Systems, LLC",Skycasters,"VSAT Systems, LLC",300167,"VSAT Systems, LLC",OK,400399604006176,60,1,2.0,1.3,1
+7,40471283,67058,3801651,"SOUTHWESTERN BELL TELEPHONE COMPANY, L.P.",AT&T Southwest,AT&T Inc.,130077,AT&T Inc.,TX,480850310043009,10,1,6.0,0.512,0
+8,50899730,54694,12369286,"HNS License Sub, LLC",HughesNet,"Hughes Network Systems, LLC",130627,"Hughes Network Systems, LLC",IN,181630107002015,60,1,25.0,3.0,1
+9,5178012,55394,4372322,UNITED STATES CELLULAR CORPORATION,United States Cellular Corporation,"Telephone and Data Systems, Inc.",131310,"Telephone and Data Systems, Inc.",MO,291534702005072,70,1,2.0,0.064,0
+10,60834313,55262,18756155,"VSAT Systems, LLC",Skycasters,"VSAT Systems, LLC",300167,"VSAT Systems, LLC",NY,360750216043049,60,1,2.0,1.3,1
+11,33736450,59351,3576352,Frontier Communications Corporation,GTE-SW DBA VERIZON SW INC TX,Frontier Communications Corporation,130258,Frontier Communications Corporation,TX,482012517002015,10,1,3.0,0.384,1
+12,11788610,56004,4963088,"ViaSat, Inc.",Viasat Inc,"ViaSat, Inc.",290111,"ViaSat, Inc.",IN,180010305001052,60,1,35.0,3.0,1
+13,34250437,59351,3576352,Frontier Communications Corporation,Frontier Communications Corporation,Frontier Communications Corporation,130258,Frontier Communications Corporation,FL,121150002001042,11,1,12.0,1.0,1
+14,32998385,59351,3576352,Frontier Communications Corporation,Frontier North Illinois  GTE,Frontier Communications Corporation,130258,Frontier Communications Corporation,IL,171990213003071,11,1,3.0,0.384,1
+15,2676739,54891,8293649,"All West/Wyoming, Inc.",All West/Wyoming Inc.,"All West Communications, Inc.",130037,"All West Communications, Inc.",WY,560419754003000,70,1,50.0,5.0,1
+16,50730022,54694,12369286,"HNS License Sub, LLC",HughesNet,"Hughes Network Systems, LLC",130627,"Hughes Network Systems, LLC",IN,180499534002046,60,1,25.0,3.0,1
+17,42279155,59349,1568880,GCI Communication Corp.,GCI Communication Corp.,GCI Holdings LLC,130534,GCI Holdings LLC,AK,22900001002179,60,0,0.0,0.0,1
+18,68592951,54694,12369286,"HNS License Sub, LLC",HughesNet,"Hughes Network Systems, LLC",130627,"Hughes Network Systems, LLC",TX,482012410004035,60,1,25.0,3.0,1
+19,42407775,59349,1568880,GCI Communication Corp.,GCI Communication Corp.,GCI Holdings LLC,130534,GCI Holdings LLC,AZ,40136153001016,60,0,0.0,0.0,1
+20,43270844,54694,12369286,"HNS License Sub, LLC",HughesNet,"Hughes Network Systems, LLC",130627,"Hughes Network Systems, LLC",AR,50959501001000,60,1,25.0,3.0,1
+21,42184839,55262,18756155,"VSAT Systems, LLC",Skycasters,"VSAT Systems, LLC",300167,"VSAT Systems, LLC",AL,10970033011089,60,1,2.0,1.3,1
+22,15413291,56004,4963088,"ViaSat, Inc.",Viasat Inc,"ViaSat, Inc.",290111,"ViaSat, Inc.",NY,360259708003014,60,1,35.0,3.0,1
+23,71583248,55262,18756155,"VSAT Systems, LLC",Skycasters,"VSAT Systems, LLC",300167,"VSAT Systems, LLC",WA,530150019003027,60,1,2.0,1.3,1
+24,15925966,56004,4963088,"ViaSat, Inc.",Viasat Inc,"ViaSat, Inc.",290111,"ViaSat, Inc.",OH,390998136007025,60,1,100.0,3.0,1
+25,33618933,59351,3576352,Frontier Communications Corporation,Frontier West Virginia,Frontier Communications Corporation,130258,Frontier Communications Corporation,WV,540039711012047,11,1,18.0,1.0,1
+26,34120704,59351,3576352,Frontier Communications Corporation,Frontier Communications Corporation,Frontier Communications Corporation,130258,Frontier Communications Corporation,CA,61110053051071,50,1,115.0,115.0,1
+27,38321209,67056,1857952,"BellSouth Telecommunications, Inc.",AT&T Mississippi,AT&T Inc.,130077,AT&T Inc.,MS,280990101003018,10,1,6.0,0.512,0
+28,19841481,56300,19027440,CSC Holdings LLC,Cablevision,"Altice USA, Inc.",130370,Altice,NY,360595203003006,43,1,400.0,35.0,1
+29,45797590,54694,12369286,"HNS License Sub, LLC",HughesNet,"Hughes Network Systems, LLC",130627,"Hughes Network Systems, LLC",CO,80050071011070,60,1,25.0,3.0,1
+30,2955989,55027,6254403,Crown Castle Fiber LLC,Crown Castle Fiber,Crown Castle International Corp.,400092,Crown Castle International Corp.,CT,90010705001012,50,0,0.0,0.0,1
+31,5285446,55394,4372322,UNITED STATES CELLULAR CORPORATION,United States Cellular Corporation,"Telephone and Data Systems, Inc.",131310,"Telephone and Data Systems, Inc.",NC,370939701025009,70,1,2.0,0.064,0
+32,55378459,55262,18756155,"VSAT Systems, LLC",Skycasters,"VSAT Systems, LLC",300167,"VSAT Systems, LLC",MI,261319701002078,60,1,2.0,1.3,1
+33,45006804,55262,18756155,"VSAT Systems, LLC",Skycasters,"VSAT Systems, LLC",300167,"VSAT Systems, LLC",CA,60290004001014,60,1,2.0,1.3,1
+34,12342133,56004,4963088,"ViaSat, Inc.",Viasat Inc,"ViaSat, Inc.",290111,"ViaSat, Inc.",KY,210819201003041,60,1,35.0,3.0,1
+35,46222368,59349,1568880,GCI Communication Corp.,GCI Communication Corp.,GCI Holdings LLC,130534,GCI Holdings LLC,CT,90093519002021,60,0,0.0,0.0,1
+36,17594765,56004,4963088,"ViaSat, Inc.",Viasat Inc,"ViaSat, Inc.",290111,"ViaSat, Inc.",TX,480539603004028,60,1,35.0,3.0,1
+37,48921946,54694,12369286,"HNS License Sub, LLC",HughesNet,"Hughes Network Systems, LLC",130627,"Hughes Network Systems, LLC",ID,160679704001190,60,1,25.0,3.0,1
+38,60000259,59349,1568880,GCI Communication Corp.,GCI Communication Corp.,GCI Holdings LLC,130534,GCI Holdings LLC,NY,360179702005015,60,0,0.0,0.0,1
+39,72780036,55262,18756155,"VSAT Systems, LLC",Skycasters,"VSAT Systems, LLC",300167,"VSAT Systems, LLC",WI,551259502003142,60,1,2.0,1.3,1
+40,54432390,55262,18756155,"VSAT Systems, LLC",Skycasters,"VSAT Systems, LLC",300167,"VSAT Systems, LLC",MA,250072002003060,60,1,2.0,1.3,1
+41,25646621,58435,3765617,"Armstrong Utilities, Inc.","Armstrong Utilities, Inc.","Armstrong Holdings, Inc.",130071,"Armstrong Holdings, Inc.",OH,390998124003015,50,0,0.0,0.0,1
+42,35160620,59538,3474327,"Cable One, Inc.",Cable ONE,"Cable One, Inc.",130183,"Cable One, Inc.",AL,11210102012091,42,1,1000.0,50.0,1
+43,24176077,57842,17326893,Matt Hemmer,Ptera,Ptera Inc.,310058,Ptera Inc.,WA,530630141002071,70,1,25.0,10.0,1
+44,35029387,59534,9232554,"Telecommunications Management, LLC d/b/a NewWave Communications",NewWave,Canle One,130183,"Cable One, Inc.",TX,481499703004013,42,1,1000.0,50.0,1
+45,4841533,55394,4372322,UNITED STATES CELLULAR CORPORATION,United States Cellular Corporation,"Telephone and Data Systems, Inc.",131310,"Telephone and Data Systems, Inc.",IL,171430005003053,70,1,2.0,0.064,0
+46,71992406,54694,12369286,"HNS License Sub, LLC",HughesNet,"Hughes Network Systems, LLC",130627,"Hughes Network Systems, LLC",WV,541090031003000,60,1,25.0,3.0,1
+47,57369668,55262,18756155,"VSAT Systems, LLC",Skycasters,"VSAT Systems, LLC",300167,"VSAT Systems, LLC",MO,290270702002085,60,1,2.0,1.3,1
+48,64476515,55262,18756155,"VSAT Systems, LLC",Skycasters,"VSAT Systems, LLC",300167,"VSAT Systems, LLC",OR,410359703001043,60,1,2.0,1.3,1
+49,67320657,55262,18756155,"VSAT Systems, LLC",Skycasters,"VSAT Systems, LLC",300167,"VSAT Systems, LLC",TN,471670405002006,60,1,2.0,1.3,1
+50,29934189,58876,18626853,"CenturyLink, Inc.",CenturyLink,"CenturyLink, Inc.",130228,"CenturyLink, Inc.",KS,200610008002191,12,1,10.0,1.0,1
+51,58086384,59349,1568880,GCI Communication Corp.,GCI Communication Corp.,GCI Holdings LLC,130534,GCI Holdings LLC,NE,310539638002034,60,0,0.0,0.0,1
+52,3890850,55394,4372322,UNITED STATES CELLULAR CORPORATION,United States Cellular Corporation,"Telephone and Data Systems, Inc.",131310,"Telephone and Data Systems, Inc.",OK,400819614004006,70,1,2.0,0.064,0
+53,38100047,67056,1857952,"BellSouth Telecommunications, Inc.",AT&T Kentucky,AT&T Inc.,130077,AT&T Inc.,KY,210830208002010,70,1,10.0,1.0,0
+54,26916765,58623,25646373,"Charter Communications, Inc.",Charter Communications Inc,Charter Communications,130235,Charter Communications,SC,450790105012009,43,1,940.0,35.0,1
+55,21204532,56692,16082927,E-Vergent.Com LLC,"E-vergent.com, LLC","E-Vergent.com, LLC",160115,"E-Vergent.com, LLC",IL,170898507032021,70,1,65.0,10.0,1
+56,58825596,55262,18756155,"VSAT Systems, LLC",Skycasters,"VSAT Systems, LLC",300167,"VSAT Systems, LLC",NV,320239604023071,60,1,2.0,1.3,1
+57,55942708,54694,12369286,"HNS License Sub, LLC",HughesNet,"Hughes Network Systems, LLC",130627,"Hughes Network Systems, LLC",MN,271711004002010,60,1,25.0,3.0,1
+58,4214523,55394,4372322,UNITED STATES CELLULAR CORPORATION,United States Cellular Corporation,"Telephone and Data Systems, Inc.",131310,"Telephone and Data Systems, Inc.",VA,510839302011051,70,1,2.0,0.064,0
+59,37528718,67056,1857952,"BellSouth Telecommunications, Inc.",AT&T Florida,AT&T Inc.,130077,AT&T Inc.,FL,120610509043091,11,1,12.0,0.512,0
+60,9503283,56004,4963088,"ViaSat, Inc.",Viasat Inc,"ViaSat, Inc.",290111,"ViaSat, Inc.",CA,60590626292000,60,1,35.0,3.0,1
+61,5906181,55574,3768165,"COMCAST CABLE COMMUNICATIONS, LLC",Comcast,Comcast Corporation,130317,Comcast Corporation,CA,60310004045057,43,1,987.0,35.0,1
+62,35105142,59538,3474327,"Cable One, Inc.",Cable ONE,"Cable One, Inc.",130183,"Cable One, Inc.",MO,290019509002026,42,1,300.0,10.0,1
+63,22357986,57021,14817357,"Unite Private Networks, L.L.C.",Unite Private Networks,"Fiber Platform, LLC",350042,"Fiber Platform, LLC",TX,480990107023013,50,0,0.0,0.0,1
+64,2275797,54694,12369286,"HNS License Sub, LLC",HughesNet,"Hughes Network Systems, LLC",130627,"Hughes Network Systems, LLC",HI,150010219021354,60,1,5.0,0.4,1
+65,20752657,56573,19156843,North Coast Wireless Communications,"North Coast Wireless Communications, LLC.",North Coast Wireless Communications,410073,North Coast Wireless Communications,OH,391390019005015,70,1,25.0,3.0,1
+66,35236069,59789,7494776,"Consolidated Communications Holdings, Inc.",Consolidated Communications,"Consolidated Communications, Inc.",130335,"Consolidated Communications, Inc.",TX,481576757002038,11,1,6.0,1.0,1
+67,57957707,55262,18756155,"VSAT Systems, LLC",Skycasters,"VSAT Systems, LLC",300167,"VSAT Systems, LLC",MT,300439622021006,60,1,2.0,1.3,1
+68,57823476,54694,12369286,"HNS License Sub, LLC",HughesNet,"Hughes Network Systems, LLC",130627,"Hughes Network Systems, LLC",MT,300330001001716,60,1,25.0,3.0,1
+69,60829998,55262,18756155,"VSAT Systems, LLC",Skycasters,"VSAT Systems, LLC",300167,"VSAT Systems, LLC",NY,360750202002000,60,1,2.0,1.3,1
+70,19234967,56004,4963088,"ViaSat, Inc.",Viasat Inc,"ViaSat, Inc.",290111,"ViaSat, Inc.",WI,551151004002028,60,1,100.0,3.0,1
+71,73149981,55262,18756155,"VSAT Systems, LLC",Skycasters,"VSAT Systems, LLC",300167,"VSAT Systems, LLC",PR,720199524002036,60,1,2.0,1.3,1
+72,47267663,54694,12369286,"HNS License Sub, LLC",HughesNet,"Hughes Network Systems, LLC",130627,"Hughes Network Systems, LLC",FL,121050106032002,60,1,25.0,3.0,1
+73,45582889,55262,18756155,"VSAT Systems, LLC",Skycasters,"VSAT Systems, LLC",300167,"VSAT Systems, LLC",CA,61130103022019,60,1,2.0,1.3,1
+74,6037280,55574,3768165,"COMCAST CABLE COMMUNICATIONS, LLC",Comcast,Comcast Corporation,130317,Comcast Corporation,CO,80410041004015,43,1,987.0,35.0,1
+75,60791089,55262,18756155,"VSAT Systems, LLC",Skycasters,"VSAT Systems, LLC",300167,"VSAT Systems, LLC",NY,360610221022005,60,1,2.0,1.3,1
+76,20343236,56463,14561450,Little Apple Technologies,Little Apple Technologies,LAT Inc.,140055,LAT Inc.,MT,300670001002153,70,1,25.0,3.0,1
+77,16178878,56004,4963088,"ViaSat, Inc.",Viasat Inc,"ViaSat, Inc.",290111,"ViaSat, Inc.",OK,400710011002220,60,1,35.0,3.0,1
+78,42855530,55262,18756155,"VSAT Systems, LLC",Skycasters,"VSAT Systems, LLC",300167,"VSAT Systems, LLC",AZ,40131132012007,60,1,2.0,1.3,1
+79,29183466,58781,18269993,"CableSouth Media III, LLC",CableSouth Media,"CableSouth Media III, LLC",370020,"CableSouth Media III, LLC",LA,220290002003078,42,1,50.0,10.0,1
+80,16451250,56004,4963088,"ViaSat, Inc.",Viasat Inc,"ViaSat, Inc.",290111,"ViaSat, Inc.",OR,410390021011055,60,1,35.0,3.0,1
+81,29356580,58865,18587436,"Tri-County Telephone Association, Inc. (KS)",TRI-COUNTY TELEPHONE,"Tri-County Telephone Association, Inc. (KS)",410172,"Tri-County Telephone Association, Inc. (KS)",KS,200410845001189,50,1,1000.0,200.0,1
+82,5775129,55543,2212314,Kingdom Telephone Company,Kingdom Telephone Company,Kingdom Telephone Company,130697,Kingdom Telephone Company,MO,290190019024021,50,1,1000.0,1000.0,1
+83,65645655,55262,18756155,"VSAT Systems, LLC",Skycasters,"VSAT Systems, LLC",300167,"VSAT Systems, LLC",PA,420792153002048,60,1,2.0,1.3,1
+84,45556841,55262,18756155,"VSAT Systems, LLC",Skycasters,"VSAT Systems, LLC",300167,"VSAT Systems, LLC",CA,61070022042010,60,1,2.0,1.3,1
+85,55875434,54694,12369286,"HNS License Sub, LLC",HughesNet,"Hughes Network Systems, LLC",130627,"Hughes Network Systems, LLC",MN,271230401003020,60,1,25.0,3.0,1
+86,65781080,55262,18756155,"VSAT Systems, LLC",Skycasters,"VSAT Systems, LLC",300167,"VSAT Systems, LLC",PA,421298064001013,60,1,2.0,1.3,1
+87,11596356,56004,4963088,"ViaSat, Inc.",Viasat Inc,"ViaSat, Inc.",290111,"ViaSat, Inc.",IL,170999637002032,60,1,35.0,3.0,1
+88,54649278,59349,1568880,GCI Communication Corp.,GCI Communication Corp.,GCI Holdings LLC,130534,GCI Holdings LLC,MI,260710004001011,60,0,0.0,0.0,1
+89,13057850,56004,4963088,"ViaSat, Inc.",Viasat Inc,"ViaSat, Inc.",290111,"ViaSat, Inc.",MI,260210102002030,60,1,100.0,3.0,1
+90,43005544,59349,1568880,GCI Communication Corp.,GCI Communication Corp.,GCI Holdings LLC,130534,GCI Holdings LLC,AR,50070210013038,60,0,0.0,0.0,1
+91,43682875,59349,1568880,GCI Communication Corp.,GCI Communication Corp.,GCI Holdings LLC,130534,GCI Holdings LLC,CA,60371347201000,60,0,0.0,0.0,1
+92,10235046,56004,4963088,"ViaSat, Inc.",Viasat Inc,"ViaSat, Inc.",290111,"ViaSat, Inc.",FL,120174503041064,60,1,100.0,3.0,1
+93,46875268,59349,1568880,GCI Communication Corp.,GCI Communication Corp.,GCI Holdings LLC,130534,GCI Holdings LLC,FL,121199117021002,60,0,0.0,0.0,1
+94,23634204,57508,16346991,"Brevard Wireless, Inc.",Florida High Speed Internet,"Brevard Wireless, Inc.",240010,"Brevard Wireless, Inc.",FL,120939104032010,70,1,50.0,50.0,1
+95,30332645,58876,18626853,"CenturyLink, Inc.",CenturyLink,"CenturyLink, Inc.",130228,"CenturyLink, Inc.",NC,371510306001049,12,1,3.0,0.512,1
+96,18470084,56004,4963088,"ViaSat, Inc.",Viasat Inc,"ViaSat, Inc.",290111,"ViaSat, Inc.",UT,490379420002026,60,1,35.0,3.0,1
+97,71689960,55262,18756155,"VSAT Systems, LLC",Skycasters,"VSAT Systems, LLC",300167,"VSAT Systems, LLC",WA,530610518022008,60,1,2.0,1.3,1
+98,3138948,55027,6254403,Crown Castle Fiber LLC,Crown Castle Fiber,Crown Castle International Corp.,400092,Crown Castle International Corp.,NY,360811199001006,50,0,0.0,0.0,1
+99,67160977,55262,18756155,"VSAT Systems, LLC",Skycasters,"VSAT Systems, LLC",300167,"VSAT Systems, LLC",TN,470430604021013,60,1,2.0,1.3,1
+100,14818716,56004,4963088,"ViaSat, Inc.",Viasat Inc,"ViaSat, Inc.",290111,"ViaSat, Inc.",NE,311199613002209,60,1,100.0,3.0,1
+101,29196047,58832,1961416,CITIZENS TELEPHONE CO.,Comporium,"Comporium, Inc.",131125,"Comporium, Inc.",NC,371759606001038,42,1,750.0,20.0,1
+102,69893623,55262,18756155,"VSAT Systems, LLC",Skycasters,"VSAT Systems, LLC",300167,"VSAT Systems, LLC",TX,484530021071004,60,1,2.0,1.3,1
+103,50579788,59349,1568880,GCI Communication Corp.,GCI Communication Corp.,GCI Holdings LLC,130534,GCI Holdings LLC,IN,181095108002045,60,0,0.0,0.0,1
+104,37545215,67056,1857952,"BellSouth Telecommunications, Inc.",AT&T Florida,AT&T Inc.,130077,AT&T Inc.,FL,121270905001006,11,1,18.0,0.768,0
+105,2608763,54860,4319414,"NuVox, Inc.","Windstream NuVox, Inc.","Windstream Holdings, Inc.",131413,"Windstream Holdings, Inc.",FL,121270832061087,30,0,0.0,0.0,1
+106,49445702,59349,1568880,GCI Communication Corp.,GCI Communication Corp.,GCI Holdings LLC,130534,GCI Holdings LLC,IL,171635033322020,60,0,0.0,0.0,1
+107,39031502,67057,1551530,AT&T California,AT&T California,AT&T Inc.,130077,AT&T Inc.,CA,60133770001012,50,1,1000.0,1000.0,0
+108,65004551,54694,12369286,"HNS License Sub, LLC",HughesNet,"Hughes Network Systems, LLC",130627,"Hughes Network Systems, LLC",PA,420034513001116,60,1,25.0,3.0,1
+109,35057203,59534,9232554,"Telecommunications Management, LLC d/b/a NewWave Communications",NewWave,Canle One,130183,"Cable One, Inc.",IL,171579506005021,42,1,1000.0,50.0,1
+110,20091844,56413,2930980,W A T C H TV,Watch Communications,Benton Ridge Telephone Company,130116,Benton Ridge Telephone Company,OH,391590501002003,70,1,15.0,3.0,1
+111,11970533,56004,4963088,"ViaSat, Inc.",Viasat Inc,"ViaSat, Inc.",290111,"ViaSat, Inc.",IN,181139725001021,60,1,35.0,3.0,1
+112,29556278,58876,18626853,"CenturyLink, Inc.",CenturyLink,"CenturyLink, Inc.",130228,"CenturyLink, Inc.",AR,50850202021030,11,1,10.0,0.768,1
+113,31465453,59137,3709458,"Salina Spavinaw Telephone Co., Inc.",Salina-Spavinaw Telephone Company,"Salina Spavinaw Telephone Co., Inc.",131152,"Salina Spavinaw Telephone Co., Inc.",OK,400970405023104,50,1,100.0,100.0,1
+114,15437196,56004,4963088,"ViaSat, Inc.",Viasat Inc,"ViaSat, Inc.",290111,"ViaSat, Inc.",NY,360319610001020,60,1,100.0,3.0,1
+115,4973709,55394,4372322,UNITED STATES CELLULAR CORPORATION,United States Cellular Corporation,"Telephone and Data Systems, Inc.",131310,"Telephone and Data Systems, Inc.",KS,201550013002029,70,1,2.0,0.064,0
+116,48737518,59349,1568880,GCI Communication Corp.,GCI Communication Corp.,GCI Holdings LLC,130534,GCI Holdings LLC,ID,160399604002206,60,0,0.0,0.0,1
+117,16171208,56004,4963088,"ViaSat, Inc.",Viasat Inc,"ViaSat, Inc.",290111,"ViaSat, Inc.",OK,400659683001356,60,1,35.0,3.0,1
+118,45229124,55262,18756155,"VSAT Systems, LLC",Skycasters,"VSAT Systems, LLC",300167,"VSAT Systems, LLC",CA,60590525223007,60,1,2.0,1.3,1
+119,71077848,55262,18756155,"VSAT Systems, LLC",Skycasters,"VSAT Systems, LLC",300167,"VSAT Systems, LLC",VA,511498505011074,60,1,2.0,1.3,1
+120,52037004,59349,1568880,GCI Communication Corp.,GCI Communication Corp.,GCI Holdings LLC,130534,GCI Holdings LLC,KS,202019786001124,60,0,0.0,0.0,1
+121,16751949,56004,4963088,"ViaSat, Inc.",Viasat Inc,"ViaSat, Inc.",290111,"ViaSat, Inc.",PA,420691022001010,60,1,100.0,3.0,1
+122,42773834,55262,18756155,"VSAT Systems, LLC",Skycasters,"VSAT Systems, LLC",300167,"VSAT Systems, LLC",AZ,40019450021444,60,1,2.0,1.3,1
+123,40200483,67058,3801651,"SOUTHWESTERN BELL TELEPHONE COMPANY, L.P.",AT&T Southwest,AT&T Inc.,130077,AT&T Inc.,MO,290997007004025,50,1,1000.0,1000.0,0
+124,22723921,57146,10910446,"BelWave Communications, Inc.",BelWave Communications,"BelWave Communications, Inc.",300017,"BelWave Communications, Inc.",TX,481130166063046,70,0,0.0,0.0,1
+125,54619590,59349,1568880,GCI Communication Corp.,GCI Communication Corp.,GCI Holdings LLC,130534,GCI Holdings LLC,MI,260490133014021,60,0,0.0,0.0,1
+126,40988623,67058,3801651,"SOUTHWESTERN BELL TELEPHONE COMPANY, L.P.",AT&T Southwest,AT&T Inc.,130077,AT&T Inc.,TX,484391113081010,12,1,100.0,20.0,0
+127,20007336,56375,2586998,Webb-Dickens Telephone Corporation,Premier Communications,Mutual Telephone Company (IA),130877,Mutual Telephone Company (IA),IA,190410801003056,50,1,1000.0,20.0,1
+128,7899499,55759,22411730,AFES Network Services LLC,AFES Network Services LLC,AFES Network Services LLC,270006,AFES Network Services LLC,CA,61130114003024,70,1,20.0,15.0,1
+129,27235305,58623,25646373,"Charter Communications, Inc.",Charter Communications Inc,Charter Communications,130235,Charter Communications,NY,360750202002051,43,1,940.0,35.0,1
+130,48307341,54694,12369286,"HNS License Sub, LLC",HughesNet,"Hughes Network Systems, LLC",130627,"Hughes Network Systems, LLC",GA,132579701002094,60,1,25.0,3.0,1
+131,72747318,55262,18756155,"VSAT Systems, LLC",Skycasters,"VSAT Systems, LLC",300167,"VSAT Systems, LLC",WI,551050012012040,60,1,2.0,1.3,1
+132,48064670,59349,1568880,GCI Communication Corp.,GCI Communication Corp.,GCI Holdings LLC,130534,GCI Holdings LLC,GA,132999502004029,60,0,0.0,0.0,1
+133,172832,53821,20841573,"Valnet Holdings, LLC",Valnet Telecommunications LLC,"Valnet Holdings, LLC",240099,"Valnet Holdings, LLC",KS,201259501002142,70,1,25.0,5.0,1
+134,15018509,56004,4963088,"ViaSat, Inc.",Viasat Inc,"ViaSat, Inc.",290111,"ViaSat, Inc.",NJ,340210043044025,60,1,35.0,3.0,1
+135,50236634,55262,18756155,"VSAT Systems, LLC",Skycasters,"VSAT Systems, LLC",300167,"VSAT Systems, LLC",IL,171090110002121,60,1,2.0,1.3,1
+136,35996550,63345,1731470,"Puerto Rico Telephone Company, Inc.",PRT_CLARO,América Móvil,170001,América Móvil,PR,721455603003021,50,1,1000.0,120.0,0
+137,25574171,58368,2476281,Consolidated Telcom,Consolidated Telcom,Consolidated Telcom,130337,Consolidated Telcom,ND,380019656001278,50,1,1000.0,100.0,1
+138,37853930,67056,1857952,"BellSouth Telecommunications, Inc.",AT&T Georgia,AT&T Inc.,130077,AT&T Inc.,GA,130730302021019,11,1,18.0,0.768,0
+139,44720472,54694,12369286,"HNS License Sub, LLC",HughesNet,"Hughes Network Systems, LLC",130627,"Hughes Network Systems, LLC",CA,60730212041019,60,1,25.0,3.0,1
+140,68779825,54694,12369286,"HNS License Sub, LLC",HughesNet,"Hughes Network Systems, LLC",130627,"Hughes Network Systems, LLC",TX,482939706003165,60,1,25.0,3.0,1
+141,4930780,55394,4372322,UNITED STATES CELLULAR CORPORATION,United States Cellular Corporation,"Telephone and Data Systems, Inc.",131310,"Telephone and Data Systems, Inc.",KS,200959611002225,70,1,2.0,0.064,0
+142,68788287,54694,12369286,"HNS License Sub, LLC",HughesNet,"Hughes Network Systems, LLC",130627,"Hughes Network Systems, LLC",TX,483030014003025,60,1,25.0,3.0,1
+143,31693101,59195,9558909,"DigitalPath, Inc",DigitalPath,"DigitalPath, Inc.",190123,"DigitalPath, Inc.",CA,61030011001035,70,1,25.0,5.0,1
+144,61523214,55262,18756155,"VSAT Systems, LLC",Skycasters,"VSAT Systems, LLC",300167,"VSAT Systems, LLC",NC,370010213001055,60,1,2.0,1.3,1
+145,50989602,55262,18756155,"VSAT Systems, LLC",Skycasters,"VSAT Systems, LLC",300167,"VSAT Systems, LLC",IN,180499535001055,60,1,2.0,1.3,1
+146,8436047,55990,18392704,"Sound Internet Services, Inc.",PogoZone,"Sound Internet Services, Inc.",290093,"Sound Internet Services, Inc.",WA,530730104042080,70,1,25.0,10.0,1
+147,33549638,59351,3576352,Frontier Communications Corporation,Frontier Telephone of Rochester New York,Frontier Communications Corporation,130258,Frontier Communications Corporation,NY,360690506013016,11,1,12.0,1.0,1
+148,41435426,67060,2716561,"Wisconsin Bell, Inc.","Wisconsin Bell, Inc.",AT&T Inc.,130077,AT&T Inc.,WI,551170008003020,10,1,3.0,0.384,0
+149,72804417,55262,18756155,"VSAT Systems, LLC",Skycasters,"VSAT Systems, LLC",300167,"VSAT Systems, LLC",WI,551351012003030,60,1,2.0,1.3,1
+150,29635393,58876,18626853,"CenturyLink, Inc.",CenturyLink,"CenturyLink, Inc.",130228,"CenturyLink, Inc.",CO,80679711001113,10,1,1.5,0.5,1
+151,46793140,59349,1568880,GCI Communication Corp.,GCI Communication Corp.,GCI Holdings LLC,130534,GCI Holdings LLC,FL,121030208002021,60,0,0.0,0.0,1
+152,45523728,55262,18756155,"VSAT Systems, LLC",Skycasters,"VSAT Systems, LLC",300167,"VSAT Systems, LLC",CA,60971513091016,60,1,2.0,1.3,1
+153,64781551,59349,1568880,GCI Communication Corp.,GCI Communication Corp.,GCI Holdings LLC,130534,GCI Holdings LLC,PA,420659503004029,60,0,0.0,0.0,1
+154,67091590,54694,12369286,"HNS License Sub, LLC",HughesNet,"Hughes Network Systems, LLC",130627,"Hughes Network Systems, LLC",TN,471779309001057,60,1,25.0,3.0,1
+155,49882960,54694,12369286,"HNS License Sub, LLC",HughesNet,"Hughes Network Systems, LLC",130627,"Hughes Network Systems, LLC",IL,171635033224031,60,1,25.0,3.0,1
+156,47775468,55262,18756155,"VSAT Systems, LLC",Skycasters,"VSAT Systems, LLC",300167,"VSAT Systems, LLC",FL,121170211001022,60,1,2.0,1.3,1
+157,43736179,59349,1568880,GCI Communication Corp.,GCI Communication Corp.,GCI Holdings LLC,130534,GCI Holdings LLC,CA,60375337032016,60,0,0.0,0.0,1
+158,61501293,54694,12369286,"HNS License Sub, LLC",HughesNet,"Hughes Network Systems, LLC",130627,"Hughes Network Systems, LLC",NC,371830537241082,60,1,25.0,3.0,1
+159,3182631,55027,6254403,Crown Castle Fiber LLC,Crown Castle Fiber,Crown Castle International Corp.,400092,Crown Castle International Corp.,PA,420034706001001,50,0,0.0,0.0,1
+160,40562635,67058,3801651,"SOUTHWESTERN BELL TELEPHONE COMPANY, L.P.",AT&T Southwest,AT&T Inc.,130077,AT&T Inc.,TX,481210215194023,11,1,1.5,0.384,0
+161,10593705,56004,4963088,"ViaSat, Inc.",Viasat Inc,"ViaSat, Inc.",290111,"ViaSat, Inc.",FL,121113820082013,60,1,35.0,3.0,1
+162,62458665,59349,1568880,GCI Communication Corp.,GCI Communication Corp.,GCI Holdings LLC,130534,GCI Holdings LLC,OH,391419558001010,60,0,0.0,0.0,1
+163,25066688,58076,5257522,CASS CABLE TV INC,Cass Cable TV Inc,"Cass Communications Management, Inc.",130208,"Cass Communications Management, Inc.",IL,171699702002069,42,1,50.0,5.0,1
+164,12392618,56004,4963088,"ViaSat, Inc.",Viasat Inc,"ViaSat, Inc.",290111,"ViaSat, Inc.",KY,211359302001186,60,1,35.0,3.0,1
+165,71293945,59349,1568880,GCI Communication Corp.,GCI Communication Corp.,GCI Holdings LLC,130534,GCI Holdings LLC,WA,530479707004050,60,0,0.0,0.0,1
+166,29754861,58876,18626853,"CenturyLink, Inc.",CenturyLink,"CenturyLink, Inc.",130228,"CenturyLink, Inc.",FL,120970422002002,12,1,30.0,1.5,1
+167,49992400,55262,18756155,"VSAT Systems, LLC",Skycasters,"VSAT Systems, LLC",300167,"VSAT Systems, LLC",IL,170190111001043,60,1,2.0,1.3,1
+168,6710932,55574,3768165,"COMCAST CABLE COMMUNICATIONS, LLC",Comcast,Comcast Corporation,130317,Comcast Corporation,MA,250092141003021,43,1,987.0,35.0,1
+169,41068401,67058,3801651,"SOUTHWESTERN BELL TELEPHONE COMPANY, L.P.",AT&T Southwest,AT&T Inc.,130077,AT&T Inc.,TX,484639505001030,11,1,18.0,0.768,0
+170,18167557,56004,4963088,"ViaSat, Inc.",Viasat Inc,"ViaSat, Inc.",290111,"ViaSat, Inc.",TX,483610205003001,60,1,100.0,3.0,1
+171,16918374,56004,4963088,"ViaSat, Inc.",Viasat Inc,"ViaSat, Inc.",290111,"ViaSat, Inc.",PA,421239703001069,60,1,100.0,3.0,1
+172,35930527,63345,1731470,"Puerto Rico Telephone Company, Inc.",PRT_CLARO,América Móvil,170001,América Móvil,PR,720915704003001,11,1,16.0,1.0,1
+173,38530086,67056,1857952,"BellSouth Telecommunications, Inc.",AT&T North Carolina,AT&T Inc.,130077,AT&T Inc.,NC,371590520002046,11,1,18.0,0.768,0
+174,15025963,56004,4963088,"ViaSat, Inc.",Viasat Inc,"ViaSat, Inc.",290111,"ViaSat, Inc.",NJ,340230061041005,60,1,35.0,3.0,1
+175,68371348,54694,12369286,"HNS License Sub, LLC",HughesNet,"Hughes Network Systems, LLC",130627,"Hughes Network Systems, LLC",TX,480879503001384,60,1,25.0,3.0,1
+176,37829313,67056,1857952,"BellSouth Telecommunications, Inc.",AT&T Georgia,AT&T Inc.,130077,AT&T Inc.,GA,132859601004073,10,1,6.0,0.512,0
+177,71232830,59349,1568880,GCI Communication Corp.,GCI Communication Corp.,GCI Holdings LLC,130534,GCI Holdings LLC,WA,530299705002022,60,0,0.0,0.0,1
+178,41155342,67059,2946986,The Ohio Bell Telephone Company,AT&T Ohio,AT&T Inc.,130077,AT&T Inc.,OH,390490061002022,10,1,6.0,0.512,0
+179,34613124,59520,21890777,"Skybeam, Inc.",Rise Broadband,"JAB Wireless, Inc.",140048,"JAB Wireless, Inc.",CO,80410046012020,70,1,100.0,15.0,1
+180,19581095,56045,22322465,Cablevision Lightpath NJ LLC,Lightpath,"Altice USA, Inc.",130370,Altice,NJ,340230082061005,50,0,0.0,0.0,1
+181,68697217,54694,12369286,"HNS License Sub, LLC",HughesNet,"Hughes Network Systems, LLC",130627,"Hughes Network Systems, LLC",TX,482239504023033,60,1,25.0,3.0,1
+182,34611590,59520,21890777,"Skybeam, Inc.",Rise Broadband,"JAB Wireless, Inc.",140048,"JAB Wireless, Inc.",IN,180839551002063,70,1,25.0,4.0,1
+183,29014665,58757,3766144,"Knology of Alabama, Inc.",WOW,"WideOpenWest Finance, LLC",131480,"WideOpenWest Finance, LLC",FL,121030252051013,42,1,1000.0,50.0,0
+184,64287270,54694,12369286,"HNS License Sub, LLC",HughesNet,"Hughes Network Systems, LLC",130627,"Hughes Network Systems, LLC",OR,410359705002210,60,1,25.0,3.0,1
+185,44940280,55262,18756155,"VSAT Systems, LLC",Skycasters,"VSAT Systems, LLC",300167,"VSAT Systems, LLC",CA,60133300003002,60,1,2.0,1.3,1
+186,32520552,59351,3576352,Frontier Communications Corporation,Frontier Communication of Connecticut,Frontier Communications Corporation,130258,Frontier Communications Corporation,CT,90035141021053,10,1,6.0,1.0,1
+187,9035821,56004,4963088,"ViaSat, Inc.",Viasat Inc,"ViaSat, Inc.",290111,"ViaSat, Inc.",AZ,40134211025006,60,1,100.0,3.0,1
+188,63471363,59349,1568880,GCI Communication Corp.,GCI Communication Corp.,GCI Holdings LLC,130534,GCI Holdings LLC,OK,401430043012006,60,0,0.0,0.0,1
+189,30308256,58876,18626853,"CenturyLink, Inc.",CenturyLink,"CenturyLink, Inc.",130228,"CenturyLink, Inc.",NC,371010414005015,12,1,100.0,10.0,1
+190,49992522,55262,18756155,"VSAT Systems, LLC",Skycasters,"VSAT Systems, LLC",300167,"VSAT Systems, LLC",IL,170219581001082,60,1,2.0,1.3,1
+191,65319239,54694,12369286,"HNS License Sub, LLC",HughesNet,"Hughes Network Systems, LLC",130627,"Hughes Network Systems, LLC",PA,421039501022100,60,1,25.0,3.0,1
+192,24526939,57905,3316692,Verizon New Jersey Inc.,Verizon New Jersey Inc.,Verizon Communications Inc.,131425,Verizon Communications Inc.,NJ,340076026011024,10,1,10.0,1.0,1
+193,24615739,57923,3475282,Mediacom Arizona LLC,Mediacom Arizona LLC,Mediacom Communications Corp.,130804,Mediacom Communications Corp.,AZ,40210003163091,43,1,1000.0,50.0,1
+194,48063165,59349,1568880,GCI Communication Corp.,GCI Communication Corp.,GCI Holdings LLC,130534,GCI Holdings LLC,GA,132971105031018,60,0,0.0,0.0,1
+195,48478484,55262,18756155,"VSAT Systems, LLC",Skycasters,"VSAT Systems, LLC",300167,"VSAT Systems, LLC",GA,131230804003166,60,1,2.0,1.3,1
+196,5444855,55394,4372322,UNITED STATES CELLULAR CORPORATION,United States Cellular Corporation,"Telephone and Data Systems, Inc.",131310,"Telephone and Data Systems, Inc.",NE,310790014001205,70,1,2.0,0.064,0
+197,69464225,55262,18756155,"VSAT Systems, LLC",Skycasters,"VSAT Systems, LLC",300167,"VSAT Systems, LLC",TX,482012308002007,60,1,2.0,1.3,1
+198,31269254,59117,3273505,Verizon Pennsylvania LLC,Verizon Pennsylvania LLC,Verizon Communications Inc.,131425,Verizon Communications Inc.,PA,420454098033013,10,1,15.0,1.0,1
+199,18460550,56004,4963088,"ViaSat, Inc.",Viasat Inc,"ViaSat, Inc.",290111,"ViaSat, Inc.",UT,490351126102000,60,1,100.0,3.0,1
+200,47918423,59349,1568880,GCI Communication Corp.,GCI Communication Corp.,GCI Holdings LLC,130534,GCI Holdings LLC,GA,131150002021079,60,0,0.0,0.0,1
+201,29860947,58876,18626853,"CenturyLink, Inc.",CenturyLink,"CenturyLink, Inc.",130228,"CenturyLink, Inc.",FL,120830010051351,12,1,3.0,0.512,1
+202,25220145,58173,16251530,"Joink, LLC",Joink,"Joink, LLC",190211,"Joink, LLC",IN,180210406004046,70,1,50.0,6.0,1
+203,59858764,55262,18756155,"VSAT Systems, LLC",Skycasters,"VSAT Systems, LLC",300167,"VSAT Systems, LLC",NM,350250011001407,60,1,2.0,1.3,1
+204,36466254,67052,2860856,Illinois Bell Telephone Company,AT&T Illinois,AT&T Inc.,130077,AT&T Inc.,IL,170898516004016,11,1,18.0,0.768,0
+205,67392106,59349,1568880,GCI Communication Corp.,GCI Communication Corp.,GCI Holdings LLC,130534,GCI Holdings LLC,TX,480291612001069,60,0,0.0,0.0,1
+206,38764196,67056,1857952,"BellSouth Telecommunications, Inc.",AT&T Tennessee,AT&T Inc.,130077,AT&T Inc.,TN,470370104021016,10,1,6.0,0.512,0
+207,63029678,55262,18756155,"VSAT Systems, LLC",Skycasters,"VSAT Systems, LLC",300167,"VSAT Systems, LLC",OH,390630002001022,60,1,2.0,1.3,1
+208,39151488,67057,1551530,AT&T California,AT&T California,AT&T Inc.,130077,AT&T Inc.,CA,60372260021041,11,1,6.0,0.512,0
+209,26316004,58623,25646373,"Charter Communications, Inc.",Charter Communications Inc,Charter Communications,130235,Charter Communications,TX,484910208052030,43,1,940.0,35.0,1
+210,34381630,59386,18092593,"Visionary Communications, Inc",Visionary Broadband,"Visionary Communications, Inc.",300171,"Visionary Communications, Inc.",CO,80370003021162,70,1,50.0,5.0,1
+211,3479870,55158,16087298,"Critical Hub Networks, Inc.",OpticoFiber,"Critical Hub Networks, Inc.",300042,"Critical Hub Networks, Inc.",PR,721270096031001,50,1,1000.0,1000.0,1
+212,69419649,55262,18756155,"VSAT Systems, LLC",Skycasters,"VSAT Systems, LLC",300167,"VSAT Systems, LLC",TX,481677262001426,60,1,2.0,1.3,1
+213,51489629,54694,12369286,"HNS License Sub, LLC",HughesNet,"Hughes Network Systems, LLC",130627,"Hughes Network Systems, LLC",IA,190990408004021,60,1,25.0,3.0,1
+214,52295765,55262,18756155,"VSAT Systems, LLC",Skycasters,"VSAT Systems, LLC",300167,"VSAT Systems, LLC",KS,200150204002021,60,1,2.0,1.3,1
+215,27796017,58623,25646373,"Charter Communications, Inc.",Charter Communications Inc,Charter Communications,130235,Charter Communications,MI,260539503001062,43,1,940.0,35.0,1
+216,40703744,67058,3801651,"SOUTHWESTERN BELL TELEPHONE COMPANY, L.P.",AT&T Southwest,AT&T Inc.,130077,AT&T Inc.,TX,482013335003020,50,1,1000.0,1000.0,0
+217,50646912,59349,1568880,GCI Communication Corp.,GCI Communication Corp.,GCI Holdings LLC,130534,GCI Holdings LLC,IN,181670105003058,60,0,0.0,0.0,1
+218,22233863,56991,25151754,Mercury Wireless Indiana LLC,"Mercury Wireless Indiana, LLC.","Mercury Wireless, Inc.",190236,"Mercury Wireless, Inc.",IN,180010301001064,70,1,7.0,1.0,1
+219,66104282,54694,12369286,"HNS License Sub, LLC",HughesNet,"Hughes Network Systems, LLC",130627,"Hughes Network Systems, LLC",SC,450350103002035,60,1,25.0,3.0,1
+220,15738445,56004,4963088,"ViaSat, Inc.",Viasat Inc,"ViaSat, Inc.",290111,"ViaSat, Inc.",OH,390170006006015,60,1,35.0,3.0,1
+221,6056869,55574,3768165,"COMCAST CABLE COMMUNICATIONS, LLC",Comcast,Comcast Corporation,130317,Comcast Corporation,CO,81010006002046,43,1,987.0,35.0,1
+222,1181161,54444,2638641,North Dakota Telephone Company,North Dakota Telephone Company,North Dakota Telephone Company,130885,North Dakota Telephone Company,ND,380959515002044,50,1,1000.0,1000.0,1
+223,34312926,59358,22491120,Cascades Digital Forensics LLC,WIFIBER,WIFIBER,310017,Cascades Computing,WA,530750007003022,70,1,25.0,8.0,1
+224,28226609,58623,25646373,"Charter Communications, Inc.",Charter Communications Inc,Charter Communications,130235,Charter Communications,CA,60710114033026,43,1,940.0,35.0,1
+225,7127947,55574,3768165,"COMCAST CABLE COMMUNICATIONS, LLC",Comcast,Comcast Corporation,130317,Comcast Corporation,PA,420059517002100,42,1,300.0,10.0,1
+226,23932151,57759,27461565,Yomura Fiber Holdings Inc,Yomura Fiber Holdings Inc,Yomura Fiber Holdings Inc.,380151,Yomura Fiber Holdings Inc.,GA,131210088001031,70,1,100.0,100.0,1
+227,5867733,55574,3768165,"COMCAST CABLE COMMUNICATIONS, LLC",Comcast,Comcast Corporation,130317,Comcast Corporation,CA,60014251042038,43,1,987.0,35.0,1
+228,48974034,55262,18756155,"VSAT Systems, LLC",Skycasters,"VSAT Systems, LLC",300167,"VSAT Systems, LLC",ID,160119503001034,60,1,2.0,1.3,1
+229,35085115,59538,3474327,"Cable One, Inc.",Cable ONE,"Cable One, Inc.",130183,"Cable One, Inc.",OK,401370003001055,42,1,1000.0,50.0,1
+230,32185723,59351,3576352,Frontier Communications Corporation,CTC Tennessee,Frontier Communications Corporation,130258,Frontier Communications Corporation,TN,471839681012006,12,1,45.0,3.0,1
+231,35090830,59538,3474327,"Cable One, Inc.",Cable ONE,"Cable One, Inc.",130183,"Cable One, Inc.",OK,400659686004025,42,1,1000.0,50.0,1
+232,2615314,54860,4319414,"NuVox, Inc.","Windstream NuVox, Inc.","Windstream Holdings, Inc.",131413,"Windstream Holdings, Inc.",TN,470930021002005,30,0,0.0,0.0,1
+233,40201489,67058,3801651,"SOUTHWESTERN BELL TELEPHONE COMPANY, L.P.",AT&T Southwest,AT&T Inc.,130077,AT&T Inc.,MO,291892116003007,50,1,1000.0,1000.0,0
+234,17981709,56004,4963088,"ViaSat, Inc.",Viasat Inc,"ViaSat, Inc.",290111,"ViaSat, Inc.",TX,482179611002111,60,1,35.0,3.0,1
+235,60504418,54694,12369286,"HNS License Sub, LLC",HughesNet,"Hughes Network Systems, LLC",130627,"Hughes Network Systems, LLC",NY,360790119002002,60,1,25.0,3.0,1
+236,55839406,54694,12369286,"HNS License Sub, LLC",HughesNet,"Hughes Network Systems, LLC",130627,"Hughes Network Systems, LLC",MN,270977807002030,60,1,25.0,3.0,1
+237,47238871,54694,12369286,"HNS License Sub, LLC",HughesNet,"Hughes Network Systems, LLC",130627,"Hughes Network Systems, LLC",FL,121010308002035,60,1,25.0,3.0,1
+238,12057778,56004,4963088,"ViaSat, Inc.",Viasat Inc,"ViaSat, Inc.",290111,"ViaSat, Inc.",KS,200039536001415,60,1,100.0,3.0,1
+239,9223338,56004,4963088,"ViaSat, Inc.",Viasat Inc,"ViaSat, Inc.",290111,"ViaSat, Inc.",CA,60170316002003,60,1,100.0,3.0,1
+240,10939922,56004,4963088,"ViaSat, Inc.",Viasat Inc,"ViaSat, Inc.",290111,"ViaSat, Inc.",GA,133130008001096,60,1,35.0,3.0,1
+241,12862048,56004,4963088,"ViaSat, Inc.",Viasat Inc,"ViaSat, Inc.",290111,"ViaSat, Inc.",MD,240178503001013,60,1,35.0,3.0,1
+242,54342142,54694,12369286,"HNS License Sub, LLC",HughesNet,"Hughes Network Systems, LLC",130627,"Hughes Network Systems, LLC",MA,250173683001000,60,1,25.0,3.0,1
+243,36809801,67053,2904654,Indiana Bell Telephone Company,AT&T Indiana,AT&T Inc.,130077,AT&T Inc.,IN,180973203012000,11,1,18.0,0.768,0
+244,10955158,56004,4963088,"ViaSat, Inc.",Viasat Inc,"ViaSat, Inc.",290111,"ViaSat, Inc.",HI,150010211064049,60,1,35.0,3.0,1
+245,71688732,55262,18756155,"VSAT Systems, LLC",Skycasters,"VSAT Systems, LLC",300167,"VSAT Systems, LLC",WA,530610420053014,60,1,2.0,1.3,1
+246,62829859,54694,12369286,"HNS License Sub, LLC",HughesNet,"Hughes Network Systems, LLC",130627,"Hughes Network Systems, LLC",OH,391517113111036,60,1,25.0,3.0,1
+247,27928846,58623,25646373,"Charter Communications, Inc.",Charter Communications Inc,Charter Communications,130235,Charter Communications,MO,291399701003050,43,1,940.0,35.0,1
+248,57894136,54694,12369286,"HNS License Sub, LLC",HughesNet,"Hughes Network Systems, LLC",130627,"Hughes Network Systems, LLC",MT,300979670001803,60,1,25.0,3.0,1
+249,70270938,55262,18756155,"VSAT Systems, LLC",Skycasters,"VSAT Systems, LLC",300167,"VSAT Systems, LLC",UT,490419751004112,60,1,2.0,1.3,1
+250,7585845,55574,3768165,"COMCAST CABLE COMMUNICATIONS, LLC",Comcast,Comcast Corporation,130317,Comcast Corporation,WA,530630005003017,43,1,987.0,35.0,1
+251,9527998,56004,4963088,"ViaSat, Inc.",Viasat Inc,"ViaSat, Inc.",290111,"ViaSat, Inc.",CA,60610210383006,60,1,100.0,3.0,1
+252,69970942,55262,18756155,"VSAT Systems, LLC",Skycasters,"VSAT Systems, LLC",300167,"VSAT Systems, LLC",TX,485059504002020,60,1,2.0,1.3,1
+253,48809093,59349,1568880,GCI Communication Corp.,GCI Communication Corp.,GCI Holdings LLC,130534,GCI Holdings LLC,ID,160879702004095,60,0,0.0,0.0,1
+254,47279977,54694,12369286,"HNS License Sub, LLC",HughesNet,"Hughes Network Systems, LLC",130627,"Hughes Network Systems, LLC",FL,121050146002018,60,1,25.0,3.0,1
+255,42308276,59349,1568880,GCI Communication Corp.,GCI Communication Corp.,GCI Holdings LLC,130534,GCI Holdings LLC,AZ,40030003033057,60,0,0.0,0.0,1
+256,35102894,59538,3474327,"Cable One, Inc.",Cable ONE,"Cable One, Inc.",130183,"Cable One, Inc.",MO,291450205012017,42,1,1000.0,50.0,1
+257,23315995,57349,27385558,Nuvisions,Nuvisions,"Nuvisions Solutions, LLC",370079,"Nuvisions Solutions, LLC",NY,360610016005001,30,1,100.0,100.0,1
+258,13171044,56004,4963088,"ViaSat, Inc.",Viasat Inc,"ViaSat, Inc.",290111,"ViaSat, Inc.",MI,260830001002042,60,1,35.0,3.0,1
+259,64876845,59349,1568880,GCI Communication Corp.,GCI Communication Corp.,GCI Holdings LLC,130534,GCI Holdings LLC,PA,420950106006047,60,0,0.0,0.0,1
+260,2300081,54696,17565847,"ATG Communications, LLC",ATG Communications,"ATG Communications, LLC",170006,"ATG Communications, LLC",GA,132450109062000,70,0,0.0,0.0,1
+261,12983390,56004,4963088,"ViaSat, Inc.",Viasat Inc,"ViaSat, Inc.",290111,"ViaSat, Inc.",ME,230079706012024,60,1,35.0,3.0,1
+262,24772811,57969,18861252,"Velocity Communications, Inc.","Velocity Communications, Inc.","Velocity Communications, Inc.",350110,"Velocity Communications, Inc.",CA,60890126013291,70,1,20.0,2.0,1
+263,5791992,55554,2212314,Kingdom Telephone Company,KTIS,Kingdom Telephone Company,130697,Kingdom Telephone Company,MO,290270702002015,70,1,4.0,1.0,1
+264,22156639,56980,2064145,Shenandoah Telecommunications Company,Shentel,Shenandoah Telecommunications Company,131181,Shenandoah Telecommunications Company,VA,511552101004010,43,1,1000.0,10.0,1
+265,44298962,54694,12369286,"HNS License Sub, LLC",HughesNet,"Hughes Network Systems, LLC",130627,"Hughes Network Systems, LLC",CA,60230109023020,60,1,25.0,3.0,1
+266,58784383,55262,18756155,"VSAT Systems, LLC",Skycasters,"VSAT Systems, LLC",300167,"VSAT Systems, LLC",NV,320030056133030,60,1,2.0,1.3,1
+267,41362880,67059,2946986,The Ohio Bell Telephone Company,AT&T Ohio,AT&T Inc.,130077,AT&T Inc.,OH,390479259002124,70,1,10.0,1.0,0
+268,64109156,59349,1568880,GCI Communication Corp.,GCI Communication Corp.,GCI Holdings LLC,130534,GCI Holdings LLC,OR,410390014001192,60,0,0.0,0.0,1
+269,30590181,58876,18626853,"CenturyLink, Inc.",CenturyLink,"CenturyLink, Inc.",130228,"CenturyLink, Inc.",UT,490111264022032,10,1,1.5,0.5,1
+270,32610619,59351,3576352,Frontier Communications Corporation,Frontier Communication of Connecticut,Frontier Communications Corporation,130258,Frontier Communications Corporation,CT,90093481222030,11,1,18.0,1.0,1
+271,67022170,54694,12369286,"HNS License Sub, LLC",HughesNet,"Hughes Network Systems, LLC",130627,"Hughes Network Systems, LLC",TN,471239255023026,60,1,25.0,3.0,1
+272,66474904,54694,12369286,"HNS License Sub, LLC",HughesNet,"Hughes Network Systems, LLC",130627,"Hughes Network Systems, LLC",SD,460079412001171,60,1,25.0,3.0,1
+273,3106128,55027,6254403,Crown Castle Fiber LLC,Crown Castle Fiber,Crown Castle International Corp.,400092,Crown Castle International Corp.,NY,360271300033015,50,0,0.0,0.0,1
+274,17913400,56004,4963088,"ViaSat, Inc.",Viasat Inc,"ViaSat, Inc.",290111,"ViaSat, Inc.",TX,482014106001060,60,1,100.0,3.0,1
+275,13044575,56004,4963088,"ViaSat, Inc.",Viasat Inc,"ViaSat, Inc.",290111,"ViaSat, Inc.",MI,260119703002020,60,1,35.0,3.0,1
+276,49155840,59349,1568880,GCI Communication Corp.,GCI Communication Corp.,GCI Holdings LLC,130534,GCI Holdings LLC,IL,170315501001082,60,0,0.0,0.0,1
+277,26349042,58623,25646373,"Charter Communications, Inc.",Charter Communications Inc,Charter Communications,130235,Charter Communications,WA,530770013002023,43,1,940.0,35.0,1
+278,8409236,55986,17191487,ShawneeLEC,ShawneeLec,"Shawnee Communications, Inc.",131180,"Shawnee Communications, Inc.",IL,171399769001012,70,1,6.0,1.5,1
+279,34631251,59520,21890777,"Skybeam, Inc.",Rise Broadband,"JAB Wireless, Inc.",140048,"JAB Wireless, Inc.",TX,481810018021022,70,1,25.0,4.0,1
+280,40452372,67058,3801651,"SOUTHWESTERN BELL TELEPHONE COMPANY, L.P.",AT&T Southwest,AT&T Inc.,130077,AT&T Inc.,TX,480610124021011,11,1,12.0,0.512,0
+281,17884020,56004,4963088,"ViaSat, Inc.",Viasat Inc,"ViaSat, Inc.",290111,"ViaSat, Inc.",TX,482012415003006,60,1,100.0,3.0,1
+282,9271000,56004,4963088,"ViaSat, Inc.",Viasat Inc,"ViaSat, Inc.",290111,"ViaSat, Inc.",CA,60270008001641,60,1,100.0,3.0,1
+283,1948623,54592,4325205,Monmouth Telephone & Telegraph,Monmouth Telephone & Telegraph,Monmouth Internet Corporation,170067,Monmouth Internet Corporation,NJ,340130197004000,50,0,0.0,0.0,1
+284,45671793,59349,1568880,GCI Communication Corp.,GCI Communication Corp.,GCI Holdings LLC,130534,GCI Holdings LLC,CO,80410080002012,60,0,0.0,0.0,1
+285,63813454,55262,18756155,"VSAT Systems, LLC",Skycasters,"VSAT Systems, LLC",300167,"VSAT Systems, LLC",OK,400399610003178,60,1,2.0,1.3,1
+286,62021063,54694,12369286,"HNS License Sub, LLC",HughesNet,"Hughes Network Systems, LLC",130627,"Hughes Network Systems, LLC",ND,380819742003028,60,1,25.0,3.0,1
+287,36506380,67052,2860856,Illinois Bell Telephone Company,AT&T Illinois,AT&T Inc.,130077,AT&T Inc.,IL,170318339002021,11,1,18.0,0.768,0
+288,73112618,54694,12369286,"HNS License Sub, LLC",HughesNet,"Hughes Network Systems, LLC",130627,"Hughes Network Systems, LLC",PR,721055203001026,60,1,25.0,3.0,1
+289,46967392,54694,12369286,"HNS License Sub, LLC",HughesNet,"Hughes Network Systems, LLC",130627,"Hughes Network Systems, LLC",FL,120174509022037,60,1,25.0,3.0,1
+290,63505165,54694,12369286,"HNS License Sub, LLC",HughesNet,"Hughes Network Systems, LLC",130627,"Hughes Network Systems, LLC",OK,400099662002203,60,1,25.0,3.0,1
+291,25238741,58178,19819408,BM Service Corp. dba Rock Solid Internet & Telephone,Rock Solid Internet & Telephone,BM Service Corp.,320125,BM Service Corp.,TX,482599701001026,70,1,25.0,3.0,1
+292,2750897,54945,3707775,Chester Telephone Company,Chester Telephone Company,Chester Telephone Company,130242,Chester Telephone Company,SC,450230209002050,12,1,50.0,5.0,1
+293,41552445,59349,1568880,GCI Communication Corp.,GCI Communication Corp.,GCI Holdings LLC,130534,GCI Holdings LLC,AL,10030114012026,60,0,0.0,0.0,1
+294,71827058,59349,1568880,GCI Communication Corp.,GCI Communication Corp.,GCI Holdings LLC,130534,GCI Holdings LLC,WV,540719705003070,60,0,0.0,0.0,1
+295,15235192,56004,4963088,"ViaSat, Inc.",Viasat Inc,"ViaSat, Inc.",290111,"ViaSat, Inc.",NM,350459428024024,60,1,35.0,3.0,1
+296,10998088,56004,4963088,"ViaSat, Inc.",Viasat Inc,"ViaSat, Inc.",290111,"ViaSat, Inc.",IA,190279604002048,60,1,35.0,3.0,1
+297,29851901,58876,18626853,"CenturyLink, Inc.",CenturyLink,"CenturyLink, Inc.",130228,"CenturyLink, Inc.",FL,120730016021003,12,1,40.0,2.0,1
+298,56475327,54694,12369286,"HNS License Sub, LLC",HughesNet,"Hughes Network Systems, LLC",130627,"Hughes Network Systems, LLC",MS,281159504002047,60,1,25.0,3.0,1
+299,18274771,56004,4963088,"ViaSat, Inc.",Viasat Inc,"ViaSat, Inc.",290111,"ViaSat, Inc.",TX,484391114042033,60,1,100.0,3.0,1
+300,27452256,58623,25646373,"Charter Communications, Inc.",Charter Communications Inc,Charter Communications,130235,Charter Communications,NC,371350112021045,43,1,940.0,35.0,1
+301,60168631,59349,1568880,GCI Communication Corp.,GCI Communication Corp.,GCI Holdings LLC,130534,GCI Holdings LLC,NY,360810079002000,60,0,0.0,0.0,1
+302,10349405,56004,4963088,"ViaSat, Inc.",Viasat Inc,"ViaSat, Inc.",290111,"ViaSat, Inc.",FL,120632111003171,60,1,35.0,3.0,1
+303,43144161,59349,1568880,GCI Communication Corp.,GCI Communication Corp.,GCI Holdings LLC,130534,GCI Holdings LLC,AR,51310101022119,60,0,0.0,0.0,1
+304,31727791,59209,5283221,"Massillon Cable TV, Inc.",MCTV,"Massillon Cable TV, Inc.",130788,"Massillon Cable TV, Inc.",OH,391690017003024,42,1,100.0,10.0,1
+305,9003327,56004,4963088,"ViaSat, Inc.",Viasat Inc,"ViaSat, Inc.",290111,"ViaSat, Inc.",AZ,40130715171010,60,1,35.0,3.0,1
+306,9437927,56004,4963088,"ViaSat, Inc.",Viasat Inc,"ViaSat, Inc.",290111,"ViaSat, Inc.",CA,60390005063034,60,1,100.0,3.0,1
+307,60912607,55262,18756155,"VSAT Systems, LLC",Skycasters,"VSAT Systems, LLC",300167,"VSAT Systems, LLC",NY,361031477011029,60,1,2.0,1.3,1
+308,10410215,56004,4963088,"ViaSat, Inc.",Viasat Inc,"ViaSat, Inc.",290111,"ViaSat, Inc.",FL,120830005021115,60,1,100.0,3.0,1
+309,19855183,56300,19027440,CSC Holdings LLC,Cablevision,"Altice USA, Inc.",130370,Altice,NJ,340030270001016,42,1,300.0,35.0,1
+310,55302650,55262,18756155,"VSAT Systems, LLC",Skycasters,"VSAT Systems, LLC",300167,"VSAT Systems, LLC",MI,260937446001053,60,1,2.0,1.3,1
+311,2142076,54623,22069793,"Google Fiber Missouri, LLC","Google Fiber Missouri, LLC",Alphabet Inc.,240041,Alphabet Inc.,MO,290950142041035,50,1,1000.0,1000.0,1
+312,52536511,59349,1568880,GCI Communication Corp.,GCI Communication Corp.,GCI Holdings LLC,130534,GCI Holdings LLC,KY,210472014002138,60,0,0.0,0.0,1
+313,48300717,54694,12369286,"HNS License Sub, LLC",HughesNet,"Hughes Network Systems, LLC",130627,"Hughes Network Systems, LLC",GA,132450108004647,60,1,25.0,3.0,1
+314,72939079,54694,12369286,"HNS License Sub, LLC",HughesNet,"Hughes Network Systems, LLC",130627,"Hughes Network Systems, LLC",WY,560210012001037,60,1,25.0,3.0,1
+315,46655217,59349,1568880,GCI Communication Corp.,GCI Communication Corp.,GCI Holdings LLC,130534,GCI Holdings LLC,FL,120730026051067,60,0,0.0,0.0,1
+316,11786559,56004,4963088,"ViaSat, Inc.",Viasat Inc,"ViaSat, Inc.",290111,"ViaSat, Inc.",IL,172030306013067,60,1,35.0,3.0,1
+317,25233001,58178,19819408,BM Service Corp. dba Rock Solid Internet & Telephone,Rock Solid Internet & Telephone,BM Service Corp.,320125,BM Service Corp.,TX,483250001022009,70,1,25.0,3.0,1
+318,19533946,56027,7738446,"US Signal Company, LLC",US Signal Company,"US Signal Company, LLC",130996,"US Signal Company, LLC",IL,170318266005006,30,0,0.0,0.0,1
+319,34467033,59431,1940022,"Carolina West Wireless, Inc.",Carolina West Wireless,North Carolina RSA 3 Cellular Telephone Company,130926,North Carolina RSA 3 Cellular Telephone Company,NC,370230205001035,70,1,25.0,3.0,1
+320,32486398,59351,3576352,Frontier Communications Corporation,Frontier Communication Northwest Washington  GTE,Frontier Communications Corporation,130258,Frontier Communications Corporation,WA,530610534001038,11,1,12.0,1.0,1
+321,71199230,59349,1568880,GCI Communication Corp.,GCI Communication Corp.,GCI Holdings LLC,130534,GCI Holdings LLC,WA,530079603001062,60,0,0.0,0.0,1
+322,64292584,54694,12369286,"HNS License Sub, LLC",HughesNet,"Hughes Network Systems, LLC",130627,"Hughes Network Systems, LLC",OR,410379601002694,60,1,25.0,3.0,1
+323,45179717,55262,18756155,"VSAT Systems, LLC",Skycasters,"VSAT Systems, LLC",300167,"VSAT Systems, LLC",CA,60450108011059,60,1,2.0,1.3,1
+324,55140902,54694,12369286,"HNS License Sub, LLC",HughesNet,"Hughes Network Systems, LLC",130627,"Hughes Network Systems, LLC",MI,261635561002004,60,1,25.0,3.0,1
+325,46883612,59349,1568880,GCI Communication Corp.,GCI Communication Corp.,GCI Holdings LLC,130534,GCI Holdings LLC,FL,121270818002025,60,0,0.0,0.0,1
+326,57072549,54694,12369286,"HNS License Sub, LLC",HughesNet,"Hughes Network Systems, LLC",130627,"Hughes Network Systems, LLC",MO,290470212062015,60,1,25.0,3.0,1
+327,26581120,58623,25646373,"Charter Communications, Inc.",Charter Communications Inc,Charter Communications,130235,Charter Communications,TX,480850311003005,43,1,940.0,35.0,1
+328,36937785,67054,2776771,Michigan Bell Telephone Company,AT&T Michigan,AT&T Inc.,130077,AT&T Inc.,MI,260810120042043,10,1,6.0,0.512,0
+329,73081412,54694,12369286,"HNS License Sub, LLC",HughesNet,"Hughes Network Systems, LLC",130627,"Hughes Network Systems, LLC",PR,720252020001009,60,1,25.0,3.0,1
+330,42845463,55262,18756155,"VSAT Systems, LLC",Skycasters,"VSAT Systems, LLC",300167,"VSAT Systems, LLC",AZ,40131036052007,60,1,2.0,1.3,1
+331,42553665,54694,12369286,"HNS License Sub, LLC",HughesNet,"Hughes Network Systems, LLC",130627,"Hughes Network Systems, LLC",AZ,40050011024057,60,1,25.0,3.0,1
+332,28133163,58623,25646373,"Charter Communications, Inc.",Charter Communications Inc,Charter Communications,130235,Charter Communications,KY,211110110022000,43,1,940.0,35.0,1
+333,54255540,59349,1568880,GCI Communication Corp.,GCI Communication Corp.,GCI Holdings LLC,130534,GCI Holdings LLC,MA,250277581025006,60,0,0.0,0.0,1
+334,38447609,67056,1857952,"BellSouth Telecommunications, Inc.",AT&T North Carolina,AT&T Inc.,130077,AT&T Inc.,NC,371619607002016,10,1,6.0,0.512,0
+335,21588495,56843,3469442,Verizon New York Inc.,Verizon New York Inc.,Verizon Communications Inc.,131425,Verizon Communications Inc.,NY,360290134005022,50,1,940.0,880.0,1
+336,7193384,55574,3768165,"COMCAST CABLE COMMUNICATIONS, LLC",Comcast,Comcast Corporation,130317,Comcast Corporation,PA,420619506002005,43,1,987.0,35.0,1
+337,48895,53788,3723822,"Level  3 Communications, LLC",CenturyLink,"CenturyLink, Inc.",130228,"CenturyLink, Inc.",FL,120559604001036,50,0,0.0,0.0,1
+338,52821749,55262,18756155,"VSAT Systems, LLC",Skycasters,"VSAT Systems, LLC",300167,"VSAT Systems, LLC",KY,210399603001002,60,1,2.0,1.3,1
+339,72126586,59349,1568880,GCI Communication Corp.,GCI Communication Corp.,GCI Holdings LLC,130534,GCI Holdings LLC,WI,550079602002240,60,0,0.0,0.0,1
+340,15487705,56004,4963088,"ViaSat, Inc.",Viasat Inc,"ViaSat, Inc.",290111,"ViaSat, Inc.",NY,360550128002010,60,1,35.0,3.0,1
+341,33984464,59351,3576352,Frontier Communications Corporation,Frontier Communications Corporation,Frontier Communications Corporation,130258,Frontier Communications Corporation,CA,60379008032007,10,1,3.0,0.384,1
+342,20838111,56628,4346474,GEUS Cable & Internet,GEUS,GEUS,130540,GEUS,TX,482319610001084,40,1,100.0,10.0,1
+343,43055527,59349,1568880,GCI Communication Corp.,GCI Communication Corp.,GCI Holdings LLC,130534,GCI Holdings LLC,AR,50534704003030,60,0,0.0,0.0,1
+344,70177415,54694,12369286,"HNS License Sub, LLC",HughesNet,"Hughes Network Systems, LLC",130627,"Hughes Network Systems, LLC",UT,490490101033134,60,1,25.0,3.0,1
+345,42043937,55262,18756155,"VSAT Systems, LLC",Skycasters,"VSAT Systems, LLC",300167,"VSAT Systems, LLC",AL,10179545004037,60,1,2.0,1.3,1
+346,54336232,54694,12369286,"HNS License Sub, LLC",HughesNet,"Hughes Network Systems, LLC",130627,"Hughes Network Systems, LLC",MA,250173528002004,60,1,25.0,3.0,1
+347,32770760,59351,3576352,Frontier Communications Corporation,Frontier Communication of the Carolinas North Carolina  Contel,Frontier Communications Corporation,130258,Frontier Communications Corporation,NC,371119708003003,10,1,6.0,1.0,1
+348,66004239,59349,1568880,GCI Communication Corp.,GCI Communication Corp.,GCI Holdings LLC,130534,GCI Holdings LLC,SC,450770108022003,60,0,0.0,0.0,1
+349,14163917,56004,4963088,"ViaSat, Inc.",Viasat Inc,"ViaSat, Inc.",290111,"ViaSat, Inc.",MT,300250001001418,60,1,35.0,3.0,1
+350,12569730,56004,4963088,"ViaSat, Inc.",Viasat Inc,"ViaSat, Inc.",290111,"ViaSat, Inc.",LA,220710100001009,60,1,35.0,3.0,1
+351,33507444,59351,3576352,Frontier Communications Corporation,Frontier North Wisconsin  GTE,Frontier Communications Corporation,130258,Frontier Communications Corporation,WI,550219706001140,12,1,115.0,7.0,1
+352,53597137,54694,12369286,"HNS License Sub, LLC",HughesNet,"Hughes Network Systems, LLC",130627,"Hughes Network Systems, LLC",ME,230079706022088,60,1,25.0,3.0,1
+353,12670521,56004,4963088,"ViaSat, Inc.",Viasat Inc,"ViaSat, Inc.",290111,"ViaSat, Inc.",MA,250010145003056,60,1,35.0,3.0,1
+354,60017465,59349,1568880,GCI Communication Corp.,GCI Communication Corp.,GCI Holdings LLC,130534,GCI Holdings LLC,NY,360270502041017,60,0,0.0,0.0,1
+355,33767816,59351,3576352,Frontier Communications Corporation,GTE-SW DBA VERIZON SW INC TX,Frontier Communications Corporation,130258,Frontier Communications Corporation,TX,481130182051000,11,1,12.0,1.0,1
+356,2391517,54737,1607175,"South Central Utah Telephone Association, Inc.",South Central Communications,"South Central Utah Telephone Association, Inc.",131219,"South Central Utah Telephone Association, Inc.",AZ,40050021001060,70,0,0.0,0.0,1
+357,27792885,58623,25646373,"Charter Communications, Inc.",Charter Communications Inc,Charter Communications,130235,Charter Communications,MI,260490116103003,43,1,940.0,35.0,1
+358,62752510,54694,12369286,"HNS License Sub, LLC",HughesNet,"Hughes Network Systems, LLC",130627,"Hughes Network Systems, LLC",OH,391034173002010,60,1,25.0,3.0,1
+359,52177931,54694,12369286,"HNS License Sub, LLC",HughesNet,"Hughes Network Systems, LLC",130627,"Hughes Network Systems, LLC",KS,201231766001061,60,1,25.0,3.0,1
+360,52345842,55262,18756155,"VSAT Systems, LLC",Skycasters,"VSAT Systems, LLC",300167,"VSAT Systems, LLC",KS,200639552001175,60,1,2.0,1.3,1
+361,60564819,54694,12369286,"HNS License Sub, LLC",HughesNet,"Hughes Network Systems, LLC",130627,"Hughes Network Systems, LLC",NY,361031122062012,60,1,25.0,3.0,1
+362,29422076,58876,18626853,"CenturyLink, Inc.",CenturyLink,"CenturyLink, Inc.",130228,"CenturyLink, Inc.",AL,10570203001014,30,0,0.0,0.0,1
+363,61253888,54694,12369286,"HNS License Sub, LLC",HughesNet,"Hughes Network Systems, LLC",130627,"Hughes Network Systems, LLC",NC,370099707001026,60,1,25.0,3.0,1
+364,33887030,59351,3576352,Frontier Communications Corporation,Frontier Communications Corporation,Frontier Communications Corporation,130258,Frontier Communications Corporation,CA,60770051351040,10,1,6.0,1.0,1
+365,62420889,59349,1568880,GCI Communication Corp.,GCI Communication Corp.,GCI Holdings LLC,130534,GCI Holdings LLC,OH,391131501004003,60,0,0.0,0.0,1
+366,10531525,56004,4963088,"ViaSat, Inc.",Viasat Inc,"ViaSat, Inc.",290111,"ViaSat, Inc.",FL,121010317052030,60,1,100.0,3.0,1
+367,56976411,59349,1568880,GCI Communication Corp.,GCI Communication Corp.,GCI Holdings LLC,130534,GCI Holdings LLC,MO,292114802002196,60,0,0.0,0.0,1
+368,42545113,54694,12369286,"HNS License Sub, LLC",HughesNet,"Hughes Network Systems, LLC",130627,"Hughes Network Systems, LLC",AZ,40030003011049,60,1,25.0,3.0,1
+369,55686138,59349,1568880,GCI Communication Corp.,GCI Communication Corp.,GCI Holdings LLC,130534,GCI Holdings LLC,MN,271574904003067,60,0,0.0,0.0,1
+370,322039,53920,21701891,AMG Technology Investment Group,Nextlink Residential,AMG Technology Investment Group LLC,290010,AMG Technology Investment Group LLC,TX,481210206022012,70,1,50.0,10.0,1
+371,67968810,59349,1568880,GCI Communication Corp.,GCI Communication Corp.,GCI Holdings LLC,130534,GCI Holdings LLC,TX,483479509002047,60,0,0.0,0.0,1
+372,35469368,59852,1834696,Cox Communications,Cox Communications,"Cox Communications, Inc.",130360,"Cox Communications, Inc.",FL,120010011002017,43,1,1000.0,35.0,0
+373,28931088,58751,6043269,"WideOpenWest Cleveland, LLC",WOW,"WideOpenWest Finance, LLC",131480,"WideOpenWest Finance, LLC",IL,170317302023010,42,1,1000.0,50.0,0
+374,66917726,54694,12369286,"HNS License Sub, LLC",HughesNet,"Hughes Network Systems, LLC",130627,"Hughes Network Systems, LLC",TN,470370156293015,60,1,25.0,3.0,1
+375,15648974,56004,4963088,"ViaSat, Inc.",Viasat Inc,"ViaSat, Inc.",290111,"ViaSat, Inc.",NY,361031583202025,60,1,35.0,3.0,1
+376,16669240,56004,4963088,"ViaSat, Inc.",Viasat Inc,"ViaSat, Inc.",290111,"ViaSat, Inc.",PA,420350301001035,60,1,35.0,3.0,1
+377,21711991,56843,3469442,Verizon New York Inc.,Verizon New York Inc.,Verizon Communications Inc.,131425,Verizon Communications Inc.,NY,360850170091012,10,1,1.5,0.384,1
+378,48122456,54694,12369286,"HNS License Sub, LLC",HughesNet,"Hughes Network Systems, LLC",130627,"Hughes Network Systems, LLC",GA,130510108034024,60,1,25.0,3.0,1
+379,37443391,67056,1857952,"BellSouth Telecommunications, Inc.",AT&T Alabama,AT&T Inc.,130077,AT&T Inc.,AL,10890020001033,50,1,1000.0,1000.0,0
+380,37261879,67055,1552173,Nevada Bell Telephone Company,AT&T Nevada,AT&T Inc.,130077,AT&T Inc.,NV,320199601022046,11,1,12.0,0.512,0
+381,23144742,57292,7566961,"TRANSWORLD NETWORK, CORP",TRANSWORLD NETWORK CORP,"PCC Holdings, Inc.",131016,"PCC Holdings, Inc.",NM,350239700001519,70,1,10.0,5.0,1
+382,62406758,59349,1568880,GCI Communication Corp.,GCI Communication Corp.,GCI Holdings LLC,130534,GCI Holdings LLC,OH,391093501003000,60,0,0.0,0.0,1
+383,40778881,67058,3801651,"SOUTHWESTERN BELL TELEPHONE COMPANY, L.P.",AT&T Southwest,AT&T Inc.,130077,AT&T Inc.,TX,482015543021006,12,1,100.0,20.0,0
+384,42156566,55262,18756155,"VSAT Systems, LLC",Skycasters,"VSAT Systems, LLC",300167,"VSAT Systems, LLC",AL,10890004034031,60,1,2.0,1.3,1
+385,55528140,59349,1568880,GCI Communication Corp.,GCI Communication Corp.,GCI Holdings LLC,130534,GCI Holdings LLC,MN,270471801001153,60,0,0.0,0.0,1
+386,47987617,59349,1568880,GCI Communication Corp.,GCI Communication Corp.,GCI Holdings LLC,130534,GCI Holdings LLC,GA,131790102051044,60,0,0.0,0.0,1
+387,14655290,56004,4963088,"ViaSat, Inc.",Viasat Inc,"ViaSat, Inc.",290111,"ViaSat, Inc.",ND,380799517003123,60,1,35.0,3.0,1
+388,18826316,56004,4963088,"ViaSat, Inc.",Viasat Inc,"ViaSat, Inc.",290111,"ViaSat, Inc.",VT,500179594001027,60,1,100.0,3.0,1
+389,22764835,57154,1607225,Viaero Wireless,"NE Colorado Cellular, Inc.","NE Colorado Cellular, Inc.",130886,"NE Colorado Cellular, Inc.",CO,80239727001086,70,1,15.0,5.0,1
+390,52245797,54694,12369286,"HNS License Sub, LLC",HughesNet,"Hughes Network Systems, LLC",130627,"Hughes Network Systems, LLC",KS,201770030011028,60,1,25.0,3.0,1
+391,36958504,67054,2776771,Michigan Bell Telephone Company,AT&T Michigan,AT&T Inc.,130077,AT&T Inc.,MI,260610001002007,10,1,1.5,0.128,0
+392,30139554,58876,18626853,"CenturyLink, Inc.",CenturyLink,"CenturyLink, Inc.",130228,"CenturyLink, Inc.",MT,300490006002050,12,1,40.0,2.0,1
+393,65971578,59349,1568880,GCI Communication Corp.,GCI Communication Corp.,GCI Holdings LLC,130534,GCI Holdings LLC,SC,450559706023032,60,0,0.0,0.0,1
+394,18631931,56004,4963088,"ViaSat, Inc.",Viasat Inc,"ViaSat, Inc.",290111,"ViaSat, Inc.",VA,510872014033003,60,1,100.0,3.0,1
+395,31563237,59148,17535386,"VTX Communications, LLC",VTXC,"Valley Telephone Cooperative, Inc. (TX)",340001,"Valley Telephone Cooperative, Inc. (TX)",TX,482499507004185,50,1,1000.0,1000.0,1
+396,51958360,59349,1568880,GCI Communication Corp.,GCI Communication Corp.,GCI Holdings LLC,130534,GCI Holdings LLC,KS,201339517003017,60,0,0.0,0.0,1
+397,63841036,55262,18756155,"VSAT Systems, LLC",Skycasters,"VSAT Systems, LLC",300167,"VSAT Systems, LLC",OK,400612793001028,60,1,2.0,1.3,1
+398,24798024,57973,2621951,Midcontinent Communications,Midcontinent Communications,Midcontinent Communications,130821,Midcontinent Communications,ND,380170401002134,40,1,1000.0,20.0,1
+399,59324120,55262,18756155,"VSAT Systems, LLC",Skycasters,"VSAT Systems, LLC",300167,"VSAT Systems, LLC",NJ,340030543006000,60,1,2.0,1.3,1
+400,30703792,58876,18626853,"CenturyLink, Inc.",CenturyLink,"CenturyLink, Inc.",130228,"CenturyLink, Inc.",WA,530330302021005,12,1,80.0,10.0,1
+401,36313118,67052,2860856,Illinois Bell Telephone Company,AT&T Illinois,AT&T Inc.,130077,AT&T Inc.,IL,170318094001020,10,1,6.0,0.512,0
+402,45247091,55262,18756155,"VSAT Systems, LLC",Skycasters,"VSAT Systems, LLC",300167,"VSAT Systems, LLC",CA,60590994023017,60,1,2.0,1.3,1
+403,43770688,59349,1568880,GCI Communication Corp.,GCI Communication Corp.,GCI Holdings LLC,130534,GCI Holdings LLC,CA,60379011023032,60,0,0.0,0.0,1
+404,17092713,56004,4963088,"ViaSat, Inc.",Viasat Inc,"ViaSat, Inc.",290111,"ViaSat, Inc.",SC,450559705002023,60,1,100.0,3.0,1
+405,12324925,56004,4963088,"ViaSat, Inc.",Viasat Inc,"ViaSat, Inc.",290111,"ViaSat, Inc.",KY,210539701002067,60,1,35.0,3.0,1
+406,72743259,55262,18756155,"VSAT Systems, LLC",Skycasters,"VSAT Systems, LLC",300167,"VSAT Systems, LLC",WI,551010020022007,60,1,2.0,1.3,1
+407,17604059,56004,4963088,"ViaSat, Inc.",Viasat Inc,"ViaSat, Inc.",290111,"ViaSat, Inc.",TX,480610102031058,60,1,100.0,3.0,1
+408,14113763,56004,4963088,"ViaSat, Inc.",Viasat Inc,"ViaSat, Inc.",290111,"ViaSat, Inc.",MS,281399501001110,60,1,100.0,3.0,1
+409,2166032,54653,4940664,Diode Cable Company,DIODE COMMUNICATIONS,DTC Holding Company,150250,DTC Holding Company,NE,310590916002219,70,1,2.0,0.512,1
+410,41331790,67059,2946986,The Ohio Bell Telephone Company,AT&T Ohio,AT&T Inc.,130077,AT&T Inc.,OH,390490077101017,12,1,75.0,20.0,0
+411,17121602,56004,4963088,"ViaSat, Inc.",Viasat Inc,"ViaSat, Inc.",290111,"ViaSat, Inc.",SC,450750106001079,60,1,35.0,3.0,1
+412,60323170,54694,12369286,"HNS License Sub, LLC",HughesNet,"Hughes Network Systems, LLC",130627,"Hughes Network Systems, LLC",NY,360099616003030,60,1,25.0,3.0,1
+413,1782399,54547,3783123,"Valor Telecommunications of Texas, LLC",Valor Telecommunications of Texas LP,"Windstream Holdings, Inc.",131413,"Windstream Holdings, Inc.",TX,484250002001060,11,1,12.0,0.76,0
+414,11692649,56004,4963088,"ViaSat, Inc.",Viasat Inc,"ViaSat, Inc.",290111,"ViaSat, Inc.",IL,171610222003014,60,1,35.0,3.0,1
+415,9700691,56004,4963088,"ViaSat, Inc.",Viasat Inc,"ViaSat, Inc.",290111,"ViaSat, Inc.",CA,60770038033025,60,1,100.0,3.0,1
+416,12760370,56004,4963088,"ViaSat, Inc.",Viasat Inc,"ViaSat, Inc.",290111,"ViaSat, Inc.",MA,250214012001042,60,1,100.0,3.0,1
+417,46209678,59349,1568880,GCI Communication Corp.,GCI Communication Corp.,GCI Holdings LLC,130534,GCI Holdings LLC,CT,90076702002004,60,0,0.0,0.0,1
+418,25981836,58531,16278970,"Wisper ISP, INC",Wisper ISP,Wisper ISP Inc.,140105,Wisper ISP Inc.,MO,291892216263007,70,1,25.0,4.0,1
+419,31168112,59117,3273505,Verizon Pennsylvania LLC,Verizon Pennsylvania LLC,Verizon Communications Inc.,131425,Verizon Communications Inc.,PA,421239714001083,10,1,5.0,0.768,1
+420,33650668,59351,3576352,Frontier Communications Corporation,Frontier West Virginia,Frontier Communications Corporation,130258,Frontier Communications Corporation,WV,540390020004020,12,1,115.0,7.0,1
+421,48299475,54694,12369286,"HNS License Sub, LLC",HughesNet,"Hughes Network Systems, LLC",130627,"Hughes Network Systems, LLC",GA,132450107071013,60,1,25.0,3.0,1
+422,16124826,56004,4963088,"ViaSat, Inc.",Viasat Inc,"ViaSat, Inc.",290111,"ViaSat, Inc.",OK,400310025002149,60,1,35.0,3.0,1
+423,42592388,54694,12369286,"HNS License Sub, LLC",HughesNet,"Hughes Network Systems, LLC",130627,"Hughes Network Systems, LLC",AZ,40130506033198,60,1,25.0,3.0,1
+424,50612938,59349,1568880,GCI Communication Corp.,GCI Communication Corp.,GCI Holdings LLC,130534,GCI Holdings LLC,IN,181410102002015,60,0,0.0,0.0,1
+425,48736061,59349,1568880,GCI Communication Corp.,GCI Communication Corp.,GCI Holdings LLC,130534,GCI Holdings LLC,ID,160399602001543,60,0,0.0,0.0,1
+426,43353350,55262,18756155,"VSAT Systems, LLC",Skycasters,"VSAT Systems, LLC",300167,"VSAT Systems, LLC",AR,50070213053023,60,1,2.0,1.3,1
+427,68547787,54694,12369286,"HNS License Sub, LLC",HughesNet,"Hughes Network Systems, LLC",130627,"Hughes Network Systems, LLC",TX,481770001002011,60,1,25.0,3.0,1
+428,33252884,59351,3576352,Frontier Communications Corporation,Frontier North Michigan  GTE,Frontier Communications Corporation,130258,Frontier Communications Corporation,MI,260490130011043,11,1,18.0,1.0,1
+429,40069418,67058,3801651,"SOUTHWESTERN BELL TELEPHONE COMPANY, L.P.",AT&T Southwest,AT&T Inc.,130077,AT&T Inc.,MO,291892120012017,11,1,18.0,0.768,0
+430,51211503,59349,1568880,GCI Communication Corp.,GCI Communication Corp.,GCI Holdings LLC,130534,GCI Holdings LLC,IA,190279606002117,60,0,0.0,0.0,1
+431,68620396,54694,12369286,"HNS License Sub, LLC",HughesNet,"Hughes Network Systems, LLC",130627,"Hughes Network Systems, LLC",TX,482013502001015,60,1,25.0,3.0,1
+432,33361229,59351,3576352,Frontier Communications Corporation,Frontier North Ohio  GTE,Frontier Communications Corporation,130258,Frontier Communications Corporation,OH,390017702003068,11,1,18.0,1.0,1
+433,6904272,55574,3768165,"COMCAST CABLE COMMUNICATIONS, LLC",Comcast,Comcast Corporation,130317,Comcast Corporation,MN,271630709072033,43,1,987.0,35.0,1
+434,54990271,54694,12369286,"HNS License Sub, LLC",HughesNet,"Hughes Network Systems, LLC",130627,"Hughes Network Systems, LLC",MI,260910607002033,60,1,25.0,3.0,1
+435,38836241,67056,1857952,"BellSouth Telecommunications, Inc.",AT&T Tennessee,AT&T Inc.,130077,AT&T Inc.,TN,471490411022009,11,1,18.0,0.768,0
+436,20526922,56535,11291671,"BalsamWest FiberNET, LLC","BalsamWest FiberNET, LLC","BalsamWest FiberNET, LLC",240006,"BalsamWest FiberNET, LLC",NC,371139703013022,50,0,0.0,0.0,1
+437,21887275,56847,3628971,Verizon New England Inc.,Verizon New England Inc.,Verizon Communications Inc.,131425,Verizon Communications Inc.,MA,250214211003006,10,1,10.0,1.0,1
+438,42123409,55262,18756155,"VSAT Systems, LLC",Skycasters,"VSAT Systems, LLC",300167,"VSAT Systems, LLC",AL,10730109004035,60,1,2.0,1.3,1
+439,19113597,56004,4963088,"ViaSat, Inc.",Viasat Inc,"ViaSat, Inc.",290111,"ViaSat, Inc.",WI,550439606003119,60,1,35.0,3.0,1
+440,40130670,67058,3801651,"SOUTHWESTERN BELL TELEPHONE COMPANY, L.P.",AT&T Southwest,AT&T Inc.,130077,AT&T Inc.,MO,290693607002007,11,1,18.0,0.768,0
+441,71822035,59349,1568880,GCI Communication Corp.,GCI Communication Corp.,GCI Holdings LLC,130534,GCI Holdings LLC,WV,540679502003166,60,0,0.0,0.0,1
+442,4607748,55394,4372322,UNITED STATES CELLULAR CORPORATION,United States Cellular Corporation,"Telephone and Data Systems, Inc.",131310,"Telephone and Data Systems, Inc.",IA,190350804002030,70,1,2.0,0.064,0
+443,11682113,56004,4963088,"ViaSat, Inc.",Viasat Inc,"ViaSat, Inc.",290111,"ViaSat, Inc.",IL,171499525003171,60,1,35.0,3.0,1
+444,44495394,54694,12369286,"HNS License Sub, LLC",HughesNet,"Hughes Network Systems, LLC",130627,"Hughes Network Systems, LLC",CA,60470013013026,60,1,25.0,3.0,1
+445,11389185,56004,4963088,"ViaSat, Inc.",Viasat Inc,"ViaSat, Inc.",290111,"ViaSat, Inc.",IL,170312503002002,60,1,35.0,3.0,1
+446,64005698,55262,18756155,"VSAT Systems, LLC",Skycasters,"VSAT Systems, LLC",300167,"VSAT Systems, LLC",OK,401539535002035,60,1,2.0,1.3,1
+447,34139473,59351,3576352,Frontier Communications Corporation,Frontier Communications Corporation,Frontier Communications Corporation,130258,Frontier Communications Corporation,FL,120570121062024,10,1,6.0,1.0,1
+448,73007551,55262,18756155,"VSAT Systems, LLC",Skycasters,"VSAT Systems, LLC",300167,"VSAT Systems, LLC",WY,560119503001358,60,1,2.0,1.3,1
+449,68463439,54694,12369286,"HNS License Sub, LLC",HughesNet,"Hughes Network Systems, LLC",130627,"Hughes Network Systems, LLC",TX,481279504001949,60,1,25.0,3.0,1
+450,64366368,54694,12369286,"HNS License Sub, LLC",HughesNet,"Hughes Network Systems, LLC",130627,"Hughes Network Systems, LLC",OR,410619702003705,60,1,25.0,3.0,1
+451,71121678,55262,18756155,"VSAT Systems, LLC",Skycasters,"VSAT Systems, LLC",300167,"VSAT Systems, LLC",VA,511910102002015,60,1,2.0,1.3,1
+452,290736,53920,21701891,AMG Technology Investment Group,Nextlink Residential,AMG Technology Investment Group LLC,290010,AMG Technology Investment Group LLC,NE,311399791002008,70,1,20.0,5.0,1
+453,4342160,55394,4372322,UNITED STATES CELLULAR CORPORATION,United States Cellular Corporation,"Telephone and Data Systems, Inc.",131310,"Telephone and Data Systems, Inc.",WV,540839665002108,70,1,2.0,0.064,0
+454,23776486,57630,18544403,"DSLbyAir, LLC",DSLbyAir,"DSLbyAir, LLC",310035,"DSLbyAir, LLC",MS,281139501021091,70,1,50.0,50.0,1
+455,8681867,56004,4963088,"ViaSat, Inc.",Viasat Inc,"ViaSat, Inc.",290111,"ViaSat, Inc.",AL,11030053012025,60,1,35.0,3.0,1
+456,56407709,54694,12369286,"HNS License Sub, LLC",HughesNet,"Hughes Network Systems, LLC",130627,"Hughes Network Systems, LLC",MS,280490113002009,60,1,25.0,3.0,1
+457,1920327,54592,4325205,Monmouth Telephone & Telegraph,Monmouth Telephone & Telegraph,Monmouth Internet Corporation,170067,Monmouth Internet Corporation,NJ,340076084043028,30,0,0.0,0.0,1
+458,46764491,59349,1568880,GCI Communication Corp.,GCI Communication Corp.,GCI Holdings LLC,130534,GCI Holdings LLC,FL,120990003042029,60,0,0.0,0.0,1
+459,45734241,59349,1568880,GCI Communication Corp.,GCI Communication Corp.,GCI Holdings LLC,130534,GCI Holdings LLC,CO,80859663005048,60,0,0.0,0.0,1
+460,13141094,56004,4963088,"ViaSat, Inc.",Viasat Inc,"ViaSat, Inc.",290111,"ViaSat, Inc.",MI,260710002001687,60,1,100.0,3.0,1
+461,2277674,54694,12369286,"HNS License Sub, LLC",HughesNet,"Hughes Network Systems, LLC",130627,"Hughes Network Systems, LLC",HI,150030086091001,60,1,2.0,0.2,1
+462,43844178,59349,1568880,GCI Communication Corp.,GCI Communication Corp.,GCI Holdings LLC,130534,GCI Holdings LLC,CA,60590524111013,60,0,0.0,0.0,1
+463,17940316,56004,4963088,"ViaSat, Inc.",Viasat Inc,"ViaSat, Inc.",290111,"ViaSat, Inc.",TX,482015516003013,60,1,100.0,3.0,1
+464,32117907,59351,3576352,Frontier Communications Corporation,CTC Minnesota Lakes,Frontier Communications Corporation,130258,Frontier Communications Corporation,MN,270812010011167,12,1,25.0,2.0,1
+465,26893153,58623,25646373,"Charter Communications, Inc.",Charter Communications Inc,Charter Communications,130235,Charter Communications,SC,450510510001032,43,1,940.0,35.0,1
+466,32737421,59351,3576352,Frontier Communications Corporation,Frontier Communication of Pennsylvania,Frontier Communications Corporation,130258,Frontier Communications Corporation,PA,420710126013039,10,1,6.0,1.0,1
+467,34981276,59520,21890777,"Skybeam, Inc.",Rise Broadband,"JAB Wireless, Inc.",140048,"JAB Wireless, Inc.",IL,170190102045009,70,1,25.0,4.0,1
+468,63884480,55262,18756155,"VSAT Systems, LLC",Skycasters,"VSAT Systems, LLC",300167,"VSAT Systems, LLC",OK,400939551001405,60,1,2.0,1.3,1
+469,66677709,59349,1568880,GCI Communication Corp.,GCI Communication Corp.,GCI Holdings LLC,130534,GCI Holdings LLC,TN,470370101062026,60,0,0.0,0.0,1
+470,56134621,55262,18756155,"VSAT Systems, LLC",Skycasters,"VSAT Systems, LLC",300167,"VSAT Systems, LLC",MN,271370105002000,60,1,2.0,1.3,1
+471,50184403,55262,18756155,"VSAT Systems, LLC",Skycasters,"VSAT Systems, LLC",300167,"VSAT Systems, LLC",IL,170898522023012,60,1,2.0,1.3,1
+472,9470971,56004,4963088,"ViaSat, Inc.",Viasat Inc,"ViaSat, Inc.",290111,"ViaSat, Inc.",CA,60530105011012,60,1,35.0,3.0,1
+473,20761678,56576,4266664,"San Carlos Apache Telecommunications Utility, Inc.","San Carlos Apache Telecommunications Utility, Inc.","San Carlos Apache Telecommunications Utility, Inc.",190428,"San Carlos Apache Telecommunications Utility, Inc.",AZ,40079404001150,11,1,4.0,1.0,1
+474,8277320,55941,18525139,Cruzio Media Inc.,Cruzio Internet,"Cruzio Holdings, LLC",300043,"Cruzio Holdings, LLC",CA,60855033222004,70,1,30.0,30.0,1
+475,29093894,58767,20444741,"NTUA Wireless, LLC",Choice Splash,"ATN International, Inc.",130081,"ATN International, Inc.",AZ,40179400103522,70,1,9.0,2.0,1
+476,7929747,55800,3794765,Harlan Municipal Utilities,Harlan Municipal Utilities,Harlan Municipal Utilities,170050,Harlan Municipal Utilities,IA,191659604002032,41,1,300.0,10.0,1
+477,12482495,56004,4963088,"ViaSat, Inc.",Viasat Inc,"ViaSat, Inc.",290111,"ViaSat, Inc.",LA,220170249002151,60,1,100.0,3.0,1
+478,34134992,59351,3576352,Frontier Communications Corporation,Frontier Communications Corporation,Frontier Communications Corporation,130258,Frontier Communications Corporation,FL,120570103042004,10,1,6.0,1.0,1
+479,33726239,59351,3576352,Frontier Communications Corporation,GTE-SW DBA VERIZON SW INC TX,Frontier Communications Corporation,130258,Frontier Communications Corporation,TX,481210216282030,10,1,6.0,1.0,1
+480,18868684,56004,4963088,"ViaSat, Inc.",Viasat Inc,"ViaSat, Inc.",290111,"ViaSat, Inc.",WA,530150016005004,60,1,100.0,3.0,1
+481,1783884,54547,3783123,"Valor Telecommunications of Texas, LLC",Valor Telecommunications of Texas LP,"Windstream Holdings, Inc.",131413,"Windstream Holdings, Inc.",TX,484459501003178,11,1,3.0,0.38,0
+482,8610970,56004,4963088,"ViaSat, Inc.",Viasat Inc,"ViaSat, Inc.",290111,"ViaSat, Inc.",AL,10770110005004,60,1,35.0,3.0,1
+483,61329556,54694,12369286,"HNS License Sub, LLC",HughesNet,"Hughes Network Systems, LLC",130627,"Hughes Network Systems, LLC",NC,370630020181045,60,1,25.0,3.0,1
+484,5816472,55572,4533105,"UBTA-UBET Communications, Inc.",STRATA Networks,UBTA-UBET Communications,131387,UBTA-UBET Communications,UT,490139403001322,11,1,6.0,1.0,1
+485,29337462,58862,8245839,"WaveDivision Holdings, LLC",Wave,"WaveDivision Holdings, LLC",130079,"Radiate Holdings, LP",WA,530330074011004,43,1,1000.0,10.0,1
+486,64441790,55262,18756155,"VSAT Systems, LLC",Skycasters,"VSAT Systems, LLC",300167,"VSAT Systems, LLC",OR,410192000003022,60,1,2.0,1.3,1
+487,24060716,57777,13358395,"Etheric Networks, Inc.","Etheric Networks, Inc.","Etheric Networks, Inc.",360030,"Etheric Networks, Inc.",CA,60871105022010,70,1,50.0,50.0,1
+488,4836229,55394,4372322,UNITED STATES CELLULAR CORPORATION,United States Cellular Corporation,"Telephone and Data Systems, Inc.",131310,"Telephone and Data Systems, Inc.",IL,171379515002172,70,1,2.0,0.064,0
+489,25965133,58530,8669897,BTC Broadband,BTC Broadband,Bixby Telephone Company,130130,Bixby Telephone Company,OK,401430090082041,50,0,0.0,0.0,1
+490,18746756,56004,4963088,"ViaSat, Inc.",Viasat Inc,"ViaSat, Inc.",290111,"ViaSat, Inc.",VA,511970501005081,60,1,100.0,3.0,1
+491,40497686,67058,3801651,"SOUTHWESTERN BELL TELEPHONE COMPANY, L.P.",AT&T Southwest,AT&T Inc.,130077,AT&T Inc.,TX,481130063011000,11,1,3.0,0.384,0
+492,43533154,59349,1568880,GCI Communication Corp.,GCI Communication Corp.,GCI Holdings LLC,130534,GCI Holdings LLC,CA,60014445003013,60,0,0.0,0.0,1
+493,4099547,55394,4372322,UNITED STATES CELLULAR CORPORATION,United States Cellular Corporation,"Telephone and Data Systems, Inc.",131310,"Telephone and Data Systems, Inc.",SD,461270203003156,70,1,2.0,0.064,0
+494,63700914,54694,12369286,"HNS License Sub, LLC",HughesNet,"Hughes Network Systems, LLC",130627,"Hughes Network Systems, LLC",OK,401299600001480,60,1,25.0,3.0,1
+495,19796341,56262,6073647,"Parker FiberNet, LLC","Parker FiberNet, LLC","DKSL, Inc.",300115,"DKSL, Inc.",GA,131299703003056,50,0,0.0,0.0,1
+496,48082684,54694,12369286,"HNS License Sub, LLC",HughesNet,"Hughes Network Systems, LLC",130627,"Hughes Network Systems, LLC",GA,130019505002064,60,1,25.0,3.0,1
+497,13412450,56004,4963088,"ViaSat, Inc.",Viasat Inc,"ViaSat, Inc.",290111,"ViaSat, Inc.",MN,270359513012071,60,1,35.0,3.0,1
+498,51729057,55262,18756155,"VSAT Systems, LLC",Skycasters,"VSAT Systems, LLC",300167,"VSAT Systems, LLC",IA,191250306002001,60,1,2.0,1.3,1
+499,5579414,55436,17306663,Vector Data Systems LLC,Vector Data Systems LLC,Vector Data Systems LLC,170089,Vector Data Systems LLC,MD,240338031002016,70,0,0.0,0.0,1
+500,4419846,55394,4372322,UNITED STATES CELLULAR CORPORATION,United States Cellular Corporation,"Telephone and Data Systems, Inc.",131310,"Telephone and Data Systems, Inc.",WI,550630103001053,70,1,2.0,0.064,0
+501,37995609,67056,1857952,"BellSouth Telecommunications, Inc.",AT&T Georgia,AT&T Inc.,130077,AT&T Inc.,GA,131210088002010,50,1,1000.0,1000.0,0
+502,36499287,67052,2860856,Illinois Bell Telephone Company,AT&T Illinois,AT&T Inc.,130077,AT&T Inc.,IL,170311904021029,11,1,18.0,0.768,0
+503,70263670,55262,18756155,"VSAT Systems, LLC",Skycasters,"VSAT Systems, LLC",300167,"VSAT Systems, LLC",UT,490379420002986,60,1,2.0,1.3,1
+504,37221095,67054,2776771,Michigan Bell Telephone Company,AT&T Michigan,AT&T Inc.,130077,AT&T Inc.,MI,260490127031003,70,1,10.0,1.0,0
+505,31617780,59149,3806668,"Telepak Networks, Inc.",Telepak Networks Inc,"Telapex, Inc.",131302,"Telapex, Inc.",MS,281439502003028,50,1,1000.0,1000.0,1
+506,44344298,54694,12369286,"HNS License Sub, LLC",HughesNet,"Hughes Network Systems, LLC",130627,"Hughes Network Systems, LLC",CA,60290060063076,60,1,25.0,3.0,1
+507,8529961,56004,4963088,"ViaSat, Inc.",Viasat Inc,"ViaSat, Inc.",290111,"ViaSat, Inc.",AL,10399621001006,60,1,35.0,3.0,1
+508,40895627,67058,3801651,"SOUTHWESTERN BELL TELEPHONE COMPANY, L.P.",AT&T Southwest,AT&T Inc.,130077,AT&T Inc.,TX,483396901001027,10,1,6.0,0.512,0
+509,34491892,59483,21234265,"VPNet, Inc.","VPNet, Inc.","VPNet, Inc.",370135,"VPNet, Inc.",PR,720757104001020,70,1,50.0,50.0,1
+510,18096601,56004,4963088,"ViaSat, Inc.",Viasat Inc,"ViaSat, Inc.",290111,"ViaSat, Inc.",TX,483079505002053,60,1,35.0,3.0,1
+511,30646598,58876,18626853,"CenturyLink, Inc.",CenturyLink,"CenturyLink, Inc.",130228,"CenturyLink, Inc.",VA,511410303022036,12,1,40.0,2.0,1
+512,10701832,56004,4963088,"ViaSat, Inc.",Viasat Inc,"ViaSat, Inc.",290111,"ViaSat, Inc.",GA,130530201001154,60,1,35.0,3.0,1
+513,72815001,55262,18756155,"VSAT Systems, LLC",Skycasters,"VSAT Systems, LLC",300167,"VSAT Systems, LLC",WI,551410117005001,60,1,2.0,1.3,1
+514,31155592,59117,3273505,Verizon Pennsylvania LLC,Verizon Pennsylvania LLC,Verizon Communications Inc.,131425,Verizon Communications Inc.,PA,421298069002004,10,1,1.5,0.384,1
+515,27496939,58623,25646373,"Charter Communications, Inc.",Charter Communications Inc,Charter Communications,130235,Charter Communications,MO,295101162001007,43,1,940.0,35.0,1
+516,68503985,54694,12369286,"HNS License Sub, LLC",HughesNet,"Hughes Network Systems, LLC",130627,"Hughes Network Systems, LLC",TX,481450005002056,60,1,25.0,3.0,1
+517,8111847,55835,16893455,"Kansas Broadband Internet, Inc.",Kansas Broadband Internet,"Kansas Broadband Internet, Inc.",300077,"Kansas Broadband Internet, Inc.",KS,201690011004099,70,1,10.0,2.0,0
+518,50406588,59349,1568880,GCI Communication Corp.,GCI Communication Corp.,GCI Holdings LLC,130534,GCI Holdings LLC,IN,180010304002081,60,0,0.0,0.0,1
+519,58865171,59349,1568880,GCI Communication Corp.,GCI Communication Corp.,GCI Holdings LLC,130534,GCI Holdings LLC,NH,330099607001011,60,0,0.0,0.0,1
+520,17911420,56004,4963088,"ViaSat, Inc.",Viasat Inc,"ViaSat, Inc.",290111,"ViaSat, Inc.",TX,482013437002002,60,1,100.0,3.0,1
+521,38271176,67056,1857952,"BellSouth Telecommunications, Inc.",AT&T Louisiana,AT&T Inc.,130077,AT&T Inc.,LA,220499702004013,70,1,10.0,1.0,0
+522,48900997,54694,12369286,"HNS License Sub, LLC",HughesNet,"Hughes Network Systems, LLC",130627,"Hughes Network Systems, LLC",ID,160539705003479,60,1,25.0,3.0,1
+523,27828838,58623,25646373,"Charter Communications, Inc.",Charter Communications Inc,Charter Communications,130235,Charter Communications,MI,261158325002023,43,1,940.0,35.0,1
+524,67485081,59349,1568880,GCI Communication Corp.,GCI Communication Corp.,GCI Holdings LLC,130534,GCI Holdings LLC,TX,480850312022036,60,0,0.0,0.0,1
+525,29056337,58757,3766144,"Knology of Alabama, Inc.",WOW,"WideOpenWest Finance, LLC",131480,"WideOpenWest Finance, LLC",FL,121030268091005,50,1,1000.0,50.0,1
+526,24432030,57905,3316692,Verizon New Jersey Inc.,Verizon New Jersey Inc.,Verizon Communications Inc.,131425,Verizon Communications Inc.,NJ,340297227011006,50,1,940.0,880.0,1
+527,55549158,59349,1568880,GCI Communication Corp.,GCI Communication Corp.,GCI Holdings LLC,130534,GCI Holdings LLC,MN,270531012001019,60,0,0.0,0.0,1
+528,52533121,59349,1568880,GCI Communication Corp.,GCI Communication Corp.,GCI Holdings LLC,130534,GCI Holdings LLC,KY,210439606004010,60,0,0.0,0.0,1
+529,53308551,54694,12369286,"HNS License Sub, LLC",HughesNet,"Hughes Network Systems, LLC",130627,"Hughes Network Systems, LLC",LA,221139506002051,60,1,25.0,3.0,1
+530,61628301,55262,18756155,"VSAT Systems, LLC",Skycasters,"VSAT Systems, LLC",300167,"VSAT Systems, LLC",NC,370810113004022,60,1,2.0,1.3,1
+531,55747571,54694,12369286,"HNS License Sub, LLC",HughesNet,"Hughes Network Systems, LLC",130627,"Hughes Network Systems, LLC",MN,270332702001091,60,1,25.0,3.0,1
+532,50849638,54694,12369286,"HNS License Sub, LLC",HughesNet,"Hughes Network Systems, LLC",130627,"Hughes Network Systems, LLC",IN,181239524001010,60,1,25.0,3.0,1
+533,60320706,54694,12369286,"HNS License Sub, LLC",HughesNet,"Hughes Network Systems, LLC",130627,"Hughes Network Systems, LLC",NY,360099607022025,60,1,25.0,3.0,1
+534,19909206,56300,19027440,CSC Holdings LLC,Cablevision,"Altice USA, Inc.",130370,Altice,NY,360594055005010,42,1,400.0,35.0,1
+535,6178728,55574,3768165,"COMCAST CABLE COMMUNICATIONS, LLC",Comcast,Comcast Corporation,130317,Comcast Corporation,FL,120710401201020,42,1,200.0,10.0,1
+536,11937532,56004,4963088,"ViaSat, Inc.",Viasat Inc,"ViaSat, Inc.",290111,"ViaSat, Inc.",IN,180973103092018,60,1,100.0,3.0,1
+537,41703900,59349,1568880,GCI Communication Corp.,GCI Communication Corp.,GCI Holdings LLC,130534,GCI Holdings LLC,AL,10950301001088,60,0,0.0,0.0,1
+538,41194973,67059,2946986,The Ohio Bell Telephone Company,AT&T Ohio,AT&T Inc.,130077,AT&T Inc.,OH,391650325011009,10,1,6.0,0.512,0
+539,5912966,55574,3768165,"COMCAST CABLE COMMUNICATIONS, LLC",Comcast,Comcast Corporation,130317,Comcast Corporation,CA,60450110021013,42,1,250.0,10.0,1
+540,68904306,54694,12369286,"HNS License Sub, LLC",HughesNet,"Hughes Network Systems, LLC",130627,"Hughes Network Systems, LLC",TX,483899501001713,60,1,25.0,3.0,1
+541,17100950,56004,4963088,"ViaSat, Inc.",Viasat Inc,"ViaSat, Inc.",290111,"ViaSat, Inc.",SC,450619202002098,60,1,100.0,3.0,1
+542,20231877,56438,15540669,Missouri Network Alliance LLC,Missouri Network Alliance LLC,"Bluebird Network, LLC",300002,"Bluebird Network, LLC",MO,290190011033011,50,0,0.0,0.0,1
+543,20230029,56438,15540669,Missouri Network Alliance LLC,Missouri Network Alliance LLC,"Bluebird Network, LLC",300002,"Bluebird Network, LLC",MO,290079502003428,50,0,0.0,0.0,1
+544,33971486,59351,3576352,Frontier Communications Corporation,Frontier Communications Corporation,Frontier Communications Corporation,130258,Frontier Communications Corporation,CA,60376209013000,50,1,115.0,115.0,1
+545,19557046,56027,7738446,"US Signal Company, LLC",US Signal Company,"US Signal Company, LLC",130996,"US Signal Company, LLC",MI,260810012002001,30,0,0.0,0.0,1
+546,25118737,58128,3728680,Roberts County Telephone Cooperative Association,RCTech,Roberts County Telephone Cooperative Association,131122,Roberts County Telephone Cooperative Association,SD,461099504001135,11,1,50.0,5.0,1
+547,67601996,59349,1568880,GCI Communication Corp.,GCI Communication Corp.,GCI Holdings LLC,130534,GCI Holdings LLC,TX,481390602143042,60,0,0.0,0.0,1
+548,72697508,55262,18756155,"VSAT Systems, LLC",Skycasters,"VSAT Systems, LLC",300167,"VSAT Systems, LLC",WI,550779603003121,60,1,2.0,1.3,1
+549,64272232,54694,12369286,"HNS License Sub, LLC",HughesNet,"Hughes Network Systems, LLC",130627,"Hughes Network Systems, LLC",OR,410319400001106,60,1,25.0,3.0,1
+550,28247006,58623,25646373,"Charter Communications, Inc.",Charter Communications Inc,Charter Communications,130235,Charter Communications,CA,60871218002009,43,1,940.0,35.0,1
+551,69020916,54694,12369286,"HNS License Sub, LLC",HughesNet,"Hughes Network Systems, LLC",130627,"Hughes Network Systems, LLC",TX,484559503001108,60,1,25.0,3.0,1
+552,31431006,59124,16079766,"Sonic Telecom, LLC",Sonic.net,"Sonic Telecom, LLC",190425,"Sonic Telecom, LLC",CA,60014516012007,20,0,0.0,0.0,1
+553,12244543,56004,4963088,"ViaSat, Inc.",Viasat Inc,"ViaSat, Inc.",290111,"ViaSat, Inc.",KS,201730057004007,60,1,35.0,3.0,1
+554,41297666,67059,2946986,The Ohio Bell Telephone Company,AT&T Ohio,AT&T Inc.,130077,AT&T Inc.,OH,390950036002020,11,1,6.0,0.512,0
+555,21157366,56685,17551359,Consolidated Communications of Vermont Company LLC,Consolidated Communications,"Consolidated Communications, Inc.",130335,"Consolidated Communications, Inc.",VT,500039704001009,11,1,7.0,1.0,1
+556,26049646,58531,16278970,"Wisper ISP, INC",Wisper ISP,Wisper ISP Inc.,140105,Wisper ISP Inc.,IL,171635043035003,70,1,25.0,4.0,1
+557,21832239,56847,3628971,Verizon New England Inc.,Verizon New England Inc.,Verizon Communications Inc.,131425,Verizon Communications Inc.,MA,250092541003025,50,1,940.0,880.0,1
+558,33124824,59351,3576352,Frontier Communications Corporation,Frontier North Indiana  GTE,Frontier Communications Corporation,130258,Frontier Communications Corporation,IN,181670009002083,10,1,3.0,0.384,1
+559,8756427,56004,4963088,"ViaSat, Inc.",Viasat Inc,"ViaSat, Inc.",290111,"ViaSat, Inc.",AR,51310010012014,60,1,35.0,3.0,1
+560,14227655,56004,4963088,"ViaSat, Inc.",Viasat Inc,"ViaSat, Inc.",290111,"ViaSat, Inc.",MT,300670005001013,60,1,35.0,3.0,1
+561,56077700,55262,18756155,"VSAT Systems, LLC",Skycasters,"VSAT Systems, LLC",300167,"VSAT Systems, LLC",MN,270977801003108,60,1,2.0,1.3,1
+562,52243749,54694,12369286,"HNS License Sub, LLC",HughesNet,"Hughes Network Systems, LLC",130627,"Hughes Network Systems, LLC",KS,201770008002016,60,1,25.0,3.0,1
+563,48865975,54694,12369286,"HNS License Sub, LLC",HughesNet,"Hughes Network Systems, LLC",130627,"Hughes Network Systems, LLC",ID,160319501002025,60,1,25.0,3.0,1
+564,21857296,56847,3628971,Verizon New England Inc.,Verizon New England Inc.,Verizon Communications Inc.,131425,Verizon Communications Inc.,MA,250173341001014,50,1,940.0,880.0,1
+565,32695779,59351,3576352,Frontier Communications Corporation,Frontier Communication of Lamar County,Frontier Communications Corporation,130258,Frontier Communications Corporation,AL,10750302001109,10,1,6.0,1.0,1
+566,26243897,58606,16966806,"Broadband VI, LLC",Broadband VI,"Broadband VI, LLC",190062,"Broadband VI, LLC",VI,780309608001048,70,1,50.0,10.0,1
+567,61625809,55262,18756155,"VSAT Systems, LLC",Skycasters,"VSAT Systems, LLC",300167,"VSAT Systems, LLC",NC,370779707011017,60,1,2.0,1.3,1
+568,57608054,55262,18756155,"VSAT Systems, LLC",Skycasters,"VSAT Systems, LLC",300167,"VSAT Systems, LLC",MO,291974702001034,60,1,2.0,1.3,1
+569,57621098,55262,18756155,"VSAT Systems, LLC",Skycasters,"VSAT Systems, LLC",300167,"VSAT Systems, LLC",MO,292090904004025,60,1,2.0,1.3,1
+570,47251768,54694,12369286,"HNS License Sub, LLC",HughesNet,"Hughes Network Systems, LLC",130627,"Hughes Network Systems, LLC",FL,121030244111053,60,1,25.0,3.0,1
+571,40750115,67058,3801651,"SOUTHWESTERN BELL TELEPHONE COMPANY, L.P.",AT&T Southwest,AT&T Inc.,130077,AT&T Inc.,TX,482015116004015,50,1,1000.0,1000.0,0
+572,39391737,67057,1551530,AT&T California,AT&T California,AT&T Inc.,130077,AT&T Inc.,CA,60670077023020,11,1,18.0,0.768,0
+573,58822168,55262,18756155,"VSAT Systems, LLC",Skycasters,"VSAT Systems, LLC",300167,"VSAT Systems, LLC",NV,320239601002718,60,1,2.0,1.3,1
+574,53886448,54694,12369286,"HNS License Sub, LLC",HughesNet,"Hughes Network Systems, LLC",130627,"Hughes Network Systems, LLC",MD,240199702002217,60,1,25.0,3.0,1
+575,54593235,59349,1568880,GCI Communication Corp.,GCI Communication Corp.,GCI Holdings LLC,130534,GCI Holdings LLC,MI,260350002001246,60,0,0.0,0.0,1
+576,49439261,59349,1568880,GCI Communication Corp.,GCI Communication Corp.,GCI Holdings LLC,130534,GCI Holdings LLC,IL,171610233002011,60,0,0.0,0.0,1
+577,41149916,67059,2946986,The Ohio Bell Telephone Company,AT&T Ohio,AT&T Inc.,130077,AT&T Inc.,OH,390170105001017,10,1,3.0,0.384,0
+578,31657809,59195,9558909,"DigitalPath, Inc",DigitalPath,"DigitalPath, Inc.",190123,"DigitalPath, Inc.",CA,60070024002183,70,1,10.0,2.0,1
+579,21061631,56663,16022618,"Consolidated Communications of Northern New England, LLC",Consolidated Communications,"Consolidated Communications, Inc.",130335,"Consolidated Communications, Inc.",ME,230179664003077,12,1,80.0,20.0,1
+580,1288449,54471,2535532,Missouri RSA No. 5 Partnership,Chariton Valley Wireless,Chariton Valley Telephone Corporation,130234,Chariton Valley Telephone Corporation,MO,291754901001194,70,1,5.0,2.0,1
+581,10036935,56004,4963088,"ViaSat, Inc.",Viasat Inc,"ViaSat, Inc.",290111,"ViaSat, Inc.",CO,81010015001048,60,1,35.0,3.0,1
+582,37428504,67056,1857952,"BellSouth Telecommunications, Inc.",AT&T Alabama,AT&T Inc.,130077,AT&T Inc.,AL,11250123032015,12,1,50.0,10.0,0
+583,41556020,59349,1568880,GCI Communication Corp.,GCI Communication Corp.,GCI Holdings LLC,130534,GCI Holdings LLC,AL,10059505002033,60,0,0.0,0.0,1
+584,4867519,55394,4372322,UNITED STATES CELLULAR CORPORATION,United States Cellular Corporation,"Telephone and Data Systems, Inc.",131310,"Telephone and Data Systems, Inc.",IL,171878703004055,70,1,2.0,0.064,0
+585,63340774,59349,1568880,GCI Communication Corp.,GCI Communication Corp.,GCI Holdings LLC,130534,GCI Holdings LLC,OK,400710002012000,60,0,0.0,0.0,1
+586,39682259,67057,1551530,AT&T California,AT&T California,AT&T Inc.,130077,AT&T Inc.,CA,61070023033009,10,1,6.0,0.512,0
+587,19010662,56004,4963088,"ViaSat, Inc.",Viasat Inc,"ViaSat, Inc.",290111,"ViaSat, Inc.",WA,530659514002033,60,1,35.0,3.0,1
+588,10987426,56004,4963088,"ViaSat, Inc.",Viasat Inc,"ViaSat, Inc.",290111,"ViaSat, Inc.",IA,190150207004007,60,1,100.0,3.0,1
+589,67517577,59349,1568880,GCI Communication Corp.,GCI Communication Corp.,GCI Holdings LLC,130534,GCI Holdings LLC,TX,481119501001765,60,0,0.0,0.0,1
+590,40633753,67058,3801651,"SOUTHWESTERN BELL TELEPHONE COMPANY, L.P.",AT&T Southwest,AT&T Inc.,130077,AT&T Inc.,TX,481677262001272,11,1,3.0,0.384,0
+591,18943755,56004,4963088,"ViaSat, Inc.",Viasat Inc,"ViaSat, Inc.",290111,"ViaSat, Inc.",WA,530419720001116,60,1,35.0,3.0,1
+592,46659298,59349,1568880,GCI Communication Corp.,GCI Communication Corp.,GCI Holdings LLC,130534,GCI Holdings LLC,FL,120759705004157,60,0,0.0,0.0,1
+593,68475896,54694,12369286,"HNS License Sub, LLC",HughesNet,"Hughes Network Systems, LLC",130627,"Hughes Network Systems, LLC",TX,481379503002472,60,1,25.0,3.0,1
+594,5424861,55394,4372322,UNITED STATES CELLULAR CORPORATION,United States Cellular Corporation,"Telephone and Data Systems, Inc.",131310,"Telephone and Data Systems, Inc.",NE,310550074632003,70,1,2.0,0.064,0
+595,43641539,59349,1568880,GCI Communication Corp.,GCI Communication Corp.,GCI Holdings LLC,130534,GCI Holdings LLC,CA,60290051041034,60,0,0.0,0.0,1
+596,19654795,56122,1684166,"Big Bend Telephone Company, Inc.",Big Bend Telephone Company,"Nevill Holdings, Inc.",130123,"Nevill Holdings, Inc.",TX,480439505001187,60,1,3.0,0.5,1
+597,53619178,54694,12369286,"HNS License Sub, LLC",HughesNet,"Hughes Network Systems, LLC",130627,"Hughes Network Systems, LLC",ME,230190310001113,60,1,25.0,3.0,1
+598,21595862,56843,3469442,Verizon New York Inc.,Verizon New York Inc.,Verizon Communications Inc.,131425,Verizon Communications Inc.,NY,360390809003064,10,1,5.0,0.768,1
+599,40134046,67058,3801651,"SOUTHWESTERN BELL TELEPHONE COMPANY, L.P.",AT&T Southwest,AT&T Inc.,130077,AT&T Inc.,MO,295101141023010,11,1,25.0,2.0,0
+600,72498971,54694,12369286,"HNS License Sub, LLC",HughesNet,"Hughes Network Systems, LLC",130627,"Hughes Network Systems, LLC",WI,550939605002037,60,1,25.0,3.0,1
+601,35506091,59852,1834696,Cox Communications,Cox Communications,"Cox Communications, Inc.",130360,"Cox Communications, Inc.",NE,311530103021032,43,1,1000.0,35.0,1
+602,27134342,58623,25646373,"Charter Communications, Inc.",Charter Communications Inc,Charter Communications,130235,Charter Communications,OH,390599779002010,43,1,940.0,35.0,1
+603,69866193,55262,18756155,"VSAT Systems, LLC",Skycasters,"VSAT Systems, LLC",300167,"VSAT Systems, LLC",TX,484410123002018,60,1,2.0,1.3,1
+604,11954911,56004,4963088,"ViaSat, Inc.",Viasat Inc,"ViaSat, Inc.",290111,"ViaSat, Inc.",IN,180990208001074,60,1,100.0,3.0,1
+605,38326687,67056,1857952,"BellSouth Telecommunications, Inc.",AT&T Mississippi,AT&T Inc.,130077,AT&T Inc.,MS,280119501002011,10,1,6.0,0.512,0
+606,36587128,67052,2860856,Illinois Bell Telephone Company,AT&T Illinois,AT&T Inc.,130077,AT&T Inc.,IL,171830105002036,12,1,50.0,10.0,0
+607,25248544,58181,27216944,"WiFires Communications, LLC",Wifires,"WiFires Communications, LLC",380149,"WiFires Communications, LLC",TX,482770001013000,70,1,72.0,7.0,1
+608,28221039,58623,25646373,"Charter Communications, Inc.",Charter Communications Inc,Charter Communications,130235,Charter Communications,CA,60710100181054,43,1,940.0,35.0,1
+609,69703386,55262,18756155,"VSAT Systems, LLC",Skycasters,"VSAT Systems, LLC",300167,"VSAT Systems, LLC",TX,483319505003074,60,1,2.0,1.3,1
+610,67830518,59349,1568880,GCI Communication Corp.,GCI Communication Corp.,GCI Holdings LLC,130534,GCI Holdings LLC,TX,482319610002031,60,0,0.0,0.0,1
+611,13348804,56004,4963088,"ViaSat, Inc.",Viasat Inc,"ViaSat, Inc.",290111,"ViaSat, Inc.",MI,261635724001012,60,1,100.0,3.0,1
+612,9990579,56004,4963088,"ViaSat, Inc.",Viasat Inc,"ViaSat, Inc.",290111,"ViaSat, Inc.",CO,80690001002058,60,1,35.0,3.0,1
+613,23725208,57618,2323731,"KanOkla Communications, Inc.",KanOkla Networks,"KanOkla Telephone Association, Inc.",130684,"KanOkla Telephone Association, Inc.",KS,200150206003182,70,1,40.0,10.0,1
+614,22376620,57023,2590073,Western Iowa Telephone Association,Western Iowa Telephone Association,Western Iowa Telephone Association,131472,Western Iowa Telephone Association,IA,191339604003127,11,1,10.0,0.5,0
+615,4664874,55394,4372322,UNITED STATES CELLULAR CORPORATION,United States Cellular Corporation,"Telephone and Data Systems, Inc.",131310,"Telephone and Data Systems, Inc.",IA,190979505004007,70,1,2.0,0.064,0
+616,31365000,59117,3273505,Verizon Pennsylvania LLC,Verizon Pennsylvania LLC,Verizon Communications Inc.,131425,Verizon Communications Inc.,PA,420034340001020,10,1,15.0,1.0,1
+617,29359468,58872,3222213,Palmerton Telephone Co,Palmerton Telephone CO,"Pencor Services, Inc.",131026,"Pencor Services, Inc.",PA,420250209003001,10,1,10.0,1.0,1
+618,68667656,54694,12369286,"HNS License Sub, LLC",HughesNet,"Hughes Network Systems, LLC",130627,"Hughes Network Systems, LLC",TX,482139508003050,60,1,25.0,3.0,1
+619,7334363,55574,3768165,"COMCAST CABLE COMMUNICATIONS, LLC",Comcast,Comcast Corporation,130317,Comcast Corporation,TN,471490409031084,43,1,987.0,35.0,1
+620,30929795,58888,19023977,"Triad Wireless, LLC",Triad Wireless LLC,"Triad Wireless, LLC",350105,"Triad Wireless, LLC",AZ,40136168001007,70,1,300.0,50.0,1
+621,2181167,54676,6121354,"Wheatland Electric Cooperative, Inc",Wheatland Broadband Services,"Wheatland Electric Cooperative, Inc.",190407,"Wheatland Electric Cooperative, Inc.",KS,200759586001076,70,1,25.0,5.0,1
+622,10155317,56004,4963088,"ViaSat, Inc.",Viasat Inc,"ViaSat, Inc.",290111,"ViaSat, Inc.",DE,100030135013009,60,1,100.0,3.0,1
+623,42987571,55262,18756155,"VSAT Systems, LLC",Skycasters,"VSAT Systems, LLC",300167,"VSAT Systems, LLC",AZ,40270010043002,60,1,2.0,1.3,1
+624,25474059,58301,8209074,"Smart City Solutions, LLC",Smart City Solutions II LLC,"Smart City Finance, LLC",130795,Court Square Capital Partners,FL,120950171071012,50,0,0.0,0.0,1
+625,19536877,56027,7738446,"US Signal Company, LLC",US Signal Company,"US Signal Company, LLC",130996,"US Signal Company, LLC",IN,180890124006017,30,0,0.0,0.0,1
+626,12268972,56004,4963088,"ViaSat, Inc.",Viasat Inc,"ViaSat, Inc.",290111,"ViaSat, Inc.",KS,201879641001042,60,1,35.0,3.0,1
+627,6892309,55574,3768165,"COMCAST CABLE COMMUNICATIONS, LLC",Comcast,Comcast Corporation,130317,Comcast Corporation,MN,270531034001013,43,1,987.0,35.0,1
+628,35827256,60990,15784663,Suddenlink Communications,Suddenlink Communications,"Altice USA, Inc.",130370,Altice,LA,221159505001020,43,1,75.0,10.0,1
+629,66305119,55262,18756155,"VSAT Systems, LLC",Skycasters,"VSAT Systems, LLC",300167,"VSAT Systems, LLC",SC,450510401051010,60,1,2.0,1.3,1
+630,62512340,59349,1568880,GCI Communication Corp.,GCI Communication Corp.,GCI Holdings LLC,130534,GCI Holdings LLC,OH,391610209002018,60,0,0.0,0.0,1
+631,47797461,55262,18756155,"VSAT Systems, LLC",Skycasters,"VSAT Systems, LLC",300167,"VSAT Systems, LLC",FL,121270901012064,60,1,2.0,1.3,1
+632,69280410,55262,18756155,"VSAT Systems, LLC",Skycasters,"VSAT Systems, LLC",300167,"VSAT Systems, LLC",TX,481130084007010,60,1,2.0,1.3,1
+633,68634181,54694,12369286,"HNS License Sub, LLC",HughesNet,"Hughes Network Systems, LLC",130627,"Hughes Network Systems, LLC",TX,482014545013017,60,1,25.0,3.0,1
+634,19243344,56004,4963088,"ViaSat, Inc.",Viasat Inc,"ViaSat, Inc.",290111,"ViaSat, Inc.",WI,551199603003082,60,1,100.0,3.0,1
+635,45408039,55262,18756155,"VSAT Systems, LLC",Skycasters,"VSAT Systems, LLC",300167,"VSAT Systems, LLC",CA,60730209021040,60,1,2.0,1.3,1
+636,36863292,67053,2904654,Indiana Bell Telephone Company,AT&T Indiana,AT&T Inc.,130077,AT&T Inc.,IN,180890304001102,12,1,50.0,10.0,0
+637,9923076,56004,4963088,"ViaSat, Inc.",Viasat Inc,"ViaSat, Inc.",290111,"ViaSat, Inc.",CO,80310046013006,60,1,100.0,3.0,1
+638,29264669,58861,1700863,"Pioneer Telephone Cooperative, Inc.","Pioneer Telephone Cooperative, Inc.",Pioneer Telephone Cooperative (OK),131045,Pioneer Telephone Cooperative (OK),OK,401499654002269,70,1,3.0,1.0,1
+639,2788731,54998,17139189,Desert Winds Wireless,Desert Winds Wireless,Desert Winds Wireless LLC,270032,Desert Winds Wireless LLC,WA,530199701001070,20,1,100.0,100.0,1
+640,32340671,59351,3576352,Frontier Communications Corporation,Commonwealth of Pennsylvania,Frontier Communications Corporation,130258,Frontier Communications Corporation,PA,421150323004015,11,1,12.0,1.0,1
+641,61065452,59349,1568880,GCI Communication Corp.,GCI Communication Corp.,GCI Holdings LLC,130534,GCI Holdings LLC,NC,370670041031036,60,0,0.0,0.0,1
+642,69278703,55262,18756155,"VSAT Systems, LLC",Skycasters,"VSAT Systems, LLC",300167,"VSAT Systems, LLC",TX,481130076051034,60,1,2.0,1.3,1
+643,7783293,55685,21025002,EagleZip.com LLC,EagleZip.com,EagleZip.com LLC,360025,EagleZip.com LLC,NY,360130307004006,70,1,20.0,5.0,1
+644,68607036,54694,12369286,"HNS License Sub, LLC",HughesNet,"Hughes Network Systems, LLC",130627,"Hughes Network Systems, LLC",TX,482013144001011,60,1,25.0,3.0,1
+645,50761458,54694,12369286,"HNS License Sub, LLC",HughesNet,"Hughes Network Systems, LLC",130627,"Hughes Network Systems, LLC",IN,180719675004102,60,1,25.0,3.0,1
+646,23016921,57268,3745734,North State Telephone Company dba North State Communications,North State Communications,North-State Telephone Co. (NC),130949,North-State Telephone Co. (NC),NC,370570609001001,50,1,1000.0,1000.0,1
+647,66288704,55262,18756155,"VSAT Systems, LLC",Skycasters,"VSAT Systems, LLC",300167,"VSAT Systems, LLC",SC,450439205053008,60,1,2.0,1.3,1
+648,58278983,54694,12369286,"HNS License Sub, LLC",HughesNet,"Hughes Network Systems, LLC",130627,"Hughes Network Systems, LLC",NE,310550054004014,60,1,25.0,3.0,1
+649,49821292,54694,12369286,"HNS License Sub, LLC",HughesNet,"Hughes Network Systems, LLC",130627,"Hughes Network Systems, LLC",IL,171179567004051,60,1,25.0,3.0,1
+650,6721947,55574,3768165,"COMCAST CABLE COMMUNICATIONS, LLC",Comcast,Comcast Corporation,130317,Comcast Corporation,MA,250138121041024,43,1,987.0,35.0,1
+651,69525590,55262,18756155,"VSAT Systems, LLC",Skycasters,"VSAT Systems, LLC",300167,"VSAT Systems, LLC",TX,482015521011012,60,1,2.0,1.3,1
+652,21480262,56823,11496445,Evertek,"Evertek, Inc.",Evertek Enterprises,131394,Evertek Enterprises,IA,190219604001016,70,1,25.0,3.0,1
+653,41134965,67059,2946986,The Ohio Bell Telephone Company,AT&T Ohio,AT&T Inc.,130077,AT&T Inc.,OH,390450306002032,10,1,6.0,0.512,0
+654,11662909,56004,4963088,"ViaSat, Inc.",Viasat Inc,"ViaSat, Inc.",290111,"ViaSat, Inc.",IL,171359576003109,60,1,35.0,3.0,1
+655,20740731,56573,19156843,North Coast Wireless Communications,"North Coast Wireless Communications, LLC.",North Coast Wireless Communications,410073,North Coast Wireless Communications,OH,390930104001051,70,1,25.0,3.0,1
+656,70996158,55262,18756155,"VSAT Systems, LLC",Skycasters,"VSAT Systems, LLC",300167,"VSAT Systems, LLC",VA,510619302062002,60,1,2.0,1.3,1
+657,40855559,67058,3801651,"SOUTHWESTERN BELL TELEPHONE COMPANY, L.P.",AT&T Southwest,AT&T Inc.,130077,AT&T Inc.,TX,483030005002050,12,1,100.0,20.0,0
+658,65949012,59349,1568880,GCI Communication Corp.,GCI Communication Corp.,GCI Holdings LLC,130534,GCI Holdings LLC,SC,450450024041069,60,0,0.0,0.0,1
+659,36248610,67052,2860856,Illinois Bell Telephone Company,AT&T Illinois,AT&T Inc.,130077,AT&T Inc.,IL,170318127001002,10,1,6.0,0.512,0
+660,5153227,55394,4372322,UNITED STATES CELLULAR CORPORATION,United States Cellular Corporation,"Telephone and Data Systems, Inc.",131310,"Telephone and Data Systems, Inc.",MO,291190704002037,70,1,2.0,0.064,0
+661,65775415,55262,18756155,"VSAT Systems, LLC",Skycasters,"VSAT Systems, LLC",300167,"VSAT Systems, LLC",PA,421298023041010,60,1,2.0,1.3,1
+662,67541038,59349,1568880,GCI Communication Corp.,GCI Communication Corp.,GCI Holdings LLC,130534,GCI Holdings LLC,TX,481130143121008,60,0,0.0,0.0,1
+663,35254931,59789,7494776,"Consolidated Communications Holdings, Inc.",Consolidated Communications,"Consolidated Communications, Inc.",130335,"Consolidated Communications, Inc.",IL,171359578001017,11,1,30.0,3.0,1
+664,46532288,59349,1568880,GCI Communication Corp.,GCI Communication Corp.,GCI Holdings LLC,130534,GCI Holdings LLC,FL,120299702001257,60,0,0.0,0.0,1
+665,56816973,59349,1568880,GCI Communication Corp.,GCI Communication Corp.,GCI Holdings LLC,130534,GCI Holdings LLC,MO,290950139012054,60,0,0.0,0.0,1
+666,58433721,55262,18756155,"VSAT Systems, LLC",Skycasters,"VSAT Systems, LLC",300167,"VSAT Systems, LLC",NE,310279772001434,60,1,2.0,1.3,1
+667,71149391,55262,18756155,"VSAT Systems, LLC",Skycasters,"VSAT Systems, LLC",300167,"VSAT Systems, LLC",VA,516708203002051,60,1,2.0,1.3,1
+668,31707953,59208,3271798,Verizon Delaware LLC,Verizon Delaware LLC,Verizon Communications Inc.,131425,Verizon Communications Inc.,DE,100030013004025,10,1,15.0,1.0,1
+669,27409281,58623,25646373,"Charter Communications, Inc.",Charter Communications Inc,Charter Communications,130235,Charter Communications,NC,370919501005031,43,1,940.0,35.0,1
+670,23284396,57329,22950802,"Cibola, LLC",Cibola LLC dba Cibola Wireless,"Cibola, LLC",290025,"Cibola, LLC",NM,350010046021005,70,1,10.0,2.0,1
+671,46660331,59349,1568880,GCI Communication Corp.,GCI Communication Corp.,GCI Holdings LLC,130534,GCI Holdings LLC,FL,120779501002098,60,0,0.0,0.0,1
+672,49169411,59349,1568880,GCI Communication Corp.,GCI Communication Corp.,GCI Holdings LLC,130534,GCI Holdings LLC,IL,170318007002003,60,0,0.0,0.0,1
+673,47332899,54694,12369286,"HNS License Sub, LLC",HughesNet,"Hughes Network Systems, LLC",130627,"Hughes Network Systems, LLC",FL,121239502002051,60,1,25.0,3.0,1
+674,63402229,59349,1568880,GCI Communication Corp.,GCI Communication Corp.,GCI Holdings LLC,130534,GCI Holdings LLC,OK,401091069144006,60,0,0.0,0.0,1
+675,36245517,67052,2860856,Illinois Bell Telephone Company,AT&T Illinois,AT&T Inc.,130077,AT&T Inc.,IL,170312505007023,10,1,1.5,0.128,0
+676,6033735,55574,3768165,"COMCAST CABLE COMMUNICATIONS, LLC",Comcast,Comcast Corporation,130317,Comcast Corporation,CO,80410011041048,43,1,987.0,35.0,1
+677,14541711,56004,4963088,"ViaSat, Inc.",Viasat Inc,"ViaSat, Inc.",290111,"ViaSat, Inc.",NC,371830543024030,60,1,100.0,3.0,1
+678,66567701,55262,18756155,"VSAT Systems, LLC",Skycasters,"VSAT Systems, LLC",300167,"VSAT Systems, LLC",SD,460179402002169,60,1,2.0,1.3,1
+679,66551915,54694,12369286,"HNS License Sub, LLC",HughesNet,"Hughes Network Systems, LLC",130627,"Hughes Network Systems, LLC",SD,461270201003045,60,1,25.0,3.0,1
+680,14743611,56004,4963088,"ViaSat, Inc.",Viasat Inc,"ViaSat, Inc.",290111,"ViaSat, Inc.",NE,310519778001064,60,1,100.0,3.0,1
+681,871757,54278,11563277,LasVegas.Net,LV.Net,LV.Net,290065,LV.Net,NV,320030036432014,70,1,50.0,10.0,1
+682,12858911,56004,4963088,"ViaSat, Inc.",Viasat Inc,"ViaSat, Inc.",290111,"ViaSat, Inc.",MD,240150307001009,60,1,100.0,3.0,1
+683,38234601,67056,1857952,"BellSouth Telecommunications, Inc.",AT&T Louisiana,AT&T Inc.,130077,AT&T Inc.,LA,220979613003073,11,1,18.0,0.768,0
+684,36242716,67052,2860856,Illinois Bell Telephone Company,AT&T Illinois,AT&T Inc.,130077,AT&T Inc.,IL,170318019012006,10,1,0.768,0.128,0
+685,44550339,54694,12369286,"HNS License Sub, LLC",HughesNet,"Hughes Network Systems, LLC",130627,"Hughes Network Systems, LLC",CA,60590874041003,60,1,25.0,3.0,1
+686,12232630,56004,4963088,"ViaSat, Inc.",Viasat Inc,"ViaSat, Inc.",290111,"ViaSat, Inc.",KS,201639746001591,60,1,35.0,3.0,1
+687,12666187,56004,4963088,"ViaSat, Inc.",Viasat Inc,"ViaSat, Inc.",290111,"ViaSat, Inc.",MA,250010125024011,60,1,35.0,3.0,1
+688,36335976,67052,2860856,Illinois Bell Telephone Company,AT&T Illinois,AT&T Inc.,130077,AT&T Inc.,IL,170898519044030,10,1,6.0,0.512,0
+689,54808984,59349,1568880,GCI Communication Corp.,GCI Communication Corp.,GCI Holdings LLC,130534,GCI Holdings LLC,MI,261590113004005,60,0,0.0,0.0,1
+690,46459477,59349,1568880,GCI Communication Corp.,GCI Communication Corp.,GCI Holdings LLC,130534,GCI Holdings LLC,FL,120050009001034,60,0,0.0,0.0,1
+691,70184547,54694,12369286,"HNS License Sub, LLC",HughesNet,"Hughes Network Systems, LLC",130627,"Hughes Network Systems, LLC",UT,490490105053006,60,1,25.0,3.0,1
+692,5155352,55394,4372322,UNITED STATES CELLULAR CORPORATION,United States Cellular Corporation,"Telephone and Data Systems, Inc.",131310,"Telephone and Data Systems, Inc.",MO,291219603003144,70,1,2.0,0.064,0
+693,14614499,56004,4963088,"ViaSat, Inc.",Viasat Inc,"ViaSat, Inc.",290111,"ViaSat, Inc.",ND,380499556001383,60,1,35.0,3.0,1
+694,32435709,59351,3576352,Frontier Communications Corporation,Frontier Communication Northwest Washington  Contel,Frontier Communications Corporation,130258,Frontier Communications Corporation,WA,530579511001085,11,1,12.0,1.0,1
+695,68034692,59349,1568880,GCI Communication Corp.,GCI Communication Corp.,GCI Holdings LLC,130534,GCI Holdings LLC,TX,483970405061004,60,0,0.0,0.0,1
+696,22010327,56920,7415706,"Limitless Mobile, LLC",Limitless Mobile,"Tower Bridge Mobile Holdings, LLC",300085,"Tower Bridge Mobile Holdings, LLC",PA,420810107004102,70,1,10.0,2.0,1
+697,60925076,55262,18756155,"VSAT Systems, LLC",Skycasters,"VSAT Systems, LLC",300167,"VSAT Systems, LLC",NY,361031907064011,60,1,2.0,1.3,1
+698,63352145,59349,1568880,GCI Communication Corp.,GCI Communication Corp.,GCI Holdings LLC,130534,GCI Holdings LLC,OK,400790401982040,60,0,0.0,0.0,1
+699,6945988,55574,3768165,"COMCAST CABLE COMMUNICATIONS, LLC",Comcast,Comcast Corporation,130317,Comcast Corporation,NH,330150510002046,43,1,987.0,35.0,1
+700,7461394,55574,3768165,"COMCAST CABLE COMMUNICATIONS, LLC",Comcast,Comcast Corporation,130317,Comcast Corporation,VT,500219623004001,42,0,0.0,0.0,1
+701,47514141,55262,18756155,"VSAT Systems, LLC",Skycasters,"VSAT Systems, LLC",300167,"VSAT Systems, LLC",FL,120570139122005,60,1,2.0,1.3,1
+702,46023575,55262,18756155,"VSAT Systems, LLC",Skycasters,"VSAT Systems, LLC",300167,"VSAT Systems, LLC",CO,80310021003013,60,1,2.0,1.3,1
+703,65424893,55262,18756155,"VSAT Systems, LLC",Skycasters,"VSAT Systems, LLC",300167,"VSAT Systems, LLC",PA,420035625004027,60,1,2.0,1.3,1
+704,69431346,55262,18756155,"VSAT Systems, LLC",Skycasters,"VSAT Systems, LLC",300167,"VSAT Systems, LLC",TX,481810007002019,60,1,2.0,1.3,1
+705,45603043,59349,1568880,GCI Communication Corp.,GCI Communication Corp.,GCI Holdings LLC,130534,GCI Holdings LLC,CO,80050071011067,60,0,0.0,0.0,1
+706,46418824,55262,18756155,"VSAT Systems, LLC",Skycasters,"VSAT Systems, LLC",300167,"VSAT Systems, LLC",DE,100030107022040,60,1,2.0,1.3,1
+707,44204364,59349,1568880,GCI Communication Corp.,GCI Communication Corp.,GCI Holdings LLC,130534,GCI Holdings LLC,CA,61150409011208,60,0,0.0,0.0,1
+708,64700274,59349,1568880,GCI Communication Corp.,GCI Communication Corp.,GCI Holdings LLC,130534,GCI Holdings LLC,PA,420333304002042,60,0,0.0,0.0,1
+709,58252739,54694,12369286,"HNS License Sub, LLC",HughesNet,"Hughes Network Systems, LLC",130627,"Hughes Network Systems, LLC",NE,310359621002279,60,1,25.0,3.0,1
+710,37982182,67056,1857952,"BellSouth Telecommunications, Inc.",AT&T Georgia,AT&T Inc.,130077,AT&T Inc.,GA,131679602004052,70,1,10.0,1.0,0
+711,53960129,54694,12369286,"HNS License Sub, LLC",HughesNet,"Hughes Network Systems, LLC",130627,"Hughes Network Systems, LLC",MD,240479515001111,60,1,25.0,3.0,1
+712,45541828,55262,18756155,"VSAT Systems, LLC",Skycasters,"VSAT Systems, LLC",300167,"VSAT Systems, LLC",CA,61010511002066,60,1,2.0,1.3,1
+713,35871646,61892,11210416,"Hunt Telecommunications, LLC",Hunt Telecommunications,Uniti Group Inc.,150221,Uniti Group Inc.,LA,221070002001307,70,1,1.0,0.512,1
+714,8068252,55823,11548526,PenTeleData Limited Partnership I,PenTeleData Limited Partnership I,"Pencor Services, Inc.",131026,"Pencor Services, Inc.",PA,420893003044063,50,0,0.0,0.0,1
+715,12358237,56004,4963088,"ViaSat, Inc.",Viasat Inc,"ViaSat, Inc.",290111,"ViaSat, Inc.",KY,211010207021009,60,1,35.0,3.0,1
+716,21847761,56847,3628971,Verizon New England Inc.,Verizon New England Inc.,Verizon Communications Inc.,131425,Verizon Communications Inc.,MA,250173111002007,10,1,15.0,1.0,1
+717,23022889,57280,2426831,Cheyenne River Sioux Tribe Telephone Authority,Cheyenne River Sioux Tribe Telephone Authority,Cheyenne River Sioux Tribe Telephone Authority,130243,Cheyenne River Sioux Tribe Telephone Authority,SD,460419417002264,50,1,100.0,25.0,1
+718,9646389,56004,4963088,"ViaSat, Inc.",Viasat Inc,"ViaSat, Inc.",290111,"ViaSat, Inc.",CA,60730021003005,60,1,100.0,3.0,1
+719,54834494,59349,1568880,GCI Communication Corp.,GCI Communication Corp.,GCI Holdings LLC,130534,GCI Holdings LLC,MI,261635548001002,60,0,0.0,0.0,1
+720,38822107,67056,1857952,"BellSouth Telecommunications, Inc.",AT&T Tennessee,AT&T Inc.,130077,AT&T Inc.,TN,471251018021020,11,1,18.0,0.768,0
+721,46810489,59349,1568880,GCI Communication Corp.,GCI Communication Corp.,GCI Holdings LLC,130534,GCI Holdings LLC,FL,121030273202035,60,0,0.0,0.0,1
+722,7358346,55574,3768165,"COMCAST CABLE COMMUNICATIONS, LLC",Comcast,Comcast Corporation,130317,Comcast Corporation,TX,480370115021087,43,1,987.0,35.0,1
+723,68469356,54694,12369286,"HNS License Sub, LLC",HughesNet,"Hughes Network Systems, LLC",130627,"Hughes Network Systems, LLC",TX,481339502006096,60,1,25.0,3.0,1
+724,29327275,58862,8245839,"WaveDivision Holdings, LLC",Wave,"WaveDivision Holdings, LLC",130079,"Radiate Holdings, LP",OR,410470103051018,41,1,35.0,3.0,1
+725,16589677,56004,4963088,"ViaSat, Inc.",Viasat Inc,"ViaSat, Inc.",290111,"ViaSat, Inc.",PA,420099611002141,60,1,35.0,3.0,1
+726,23569838,57499,5806872,"Basin 2 Way Radio, Inc.",Basin 2 Way,"Basin 2 Way Radio, Inc.",300016,"Basin 2 Way Radio, Inc.",TX,482279509001260,70,1,10.0,3.0,1
+727,15242041,56004,4963088,"ViaSat, Inc.",Viasat Inc,"ViaSat, Inc.",290111,"ViaSat, Inc.",NM,350459432014360,60,1,35.0,3.0,1
+728,25259749,58191,24912487,"Spring City Cable TV, Inc.",SpringCityCable,"Spring City Cable TV, Inc.",320126,"Spring City Cable TV, Inc.",TN,471439751002033,50,1,100.0,100.0,1
+729,6326945,55574,3768165,"COMCAST CABLE COMMUNICATIONS, LLC",Comcast,Comcast Corporation,130317,Comcast Corporation,GA,132450016013003,42,1,200.0,10.0,1
+730,15836403,56004,4963088,"ViaSat, Inc.",Viasat Inc,"ViaSat, Inc.",290111,"ViaSat, Inc.",OH,390572201003019,60,1,35.0,3.0,1
+731,37371651,67056,1857952,"BellSouth Telecommunications, Inc.",AT&T Alabama,AT&T Inc.,130077,AT&T Inc.,AL,10970050002003,11,1,1.5,0.384,0
+732,30031783,58876,18626853,"CenturyLink, Inc.",CenturyLink,"CenturyLink, Inc.",130228,"CenturyLink, Inc.",MN,271230366003012,50,1,940.0,940.0,1
+733,50935865,55262,18756155,"VSAT Systems, LLC",Skycasters,"VSAT Systems, LLC",300167,"VSAT Systems, LLC",IN,180050105003011,60,1,2.0,1.3,1
+734,72483212,54694,12369286,"HNS License Sub, LLC",HughesNet,"Hughes Network Systems, LLC",130627,"Hughes Network Systems, LLC",WI,550819508002086,60,1,25.0,3.0,1
+735,43949277,59349,1568880,GCI Communication Corp.,GCI Communication Corp.,GCI Holdings LLC,130534,GCI Holdings LLC,CA,60710046042010,60,0,0.0,0.0,1
+736,753322,54173,14694327,StarTouch Broadband,StarTouch Inc,StarTouch Broadband,190342,StarTouch Broadband,WA,530619400014090,70,1,20.0,20.0,1
+737,63885605,55262,18756155,"VSAT Systems, LLC",Skycasters,"VSAT Systems, LLC",300167,"VSAT Systems, LLC",OK,400939552001461,60,1,2.0,1.3,1
+738,18216810,56004,4963088,"ViaSat, Inc.",Viasat Inc,"ViaSat, Inc.",290111,"ViaSat, Inc.",TX,483999505002054,60,1,100.0,3.0,1
+739,28679877,58624,24535437,"Resound Networks, LLC",Resound Networks LLC,"Resound Networks, LLC",340061,"Resound Networks, LLC",TX,484459503001033,70,1,100.0,15.0,0
+740,21822196,56847,3628971,Verizon New England Inc.,Verizon New England Inc.,Verizon Communications Inc.,131425,Verizon Communications Inc.,MA,250092033022027,10,1,5.0,0.768,1
+741,44675358,54694,12369286,"HNS License Sub, LLC",HughesNet,"Hughes Network Systems, LLC",130627,"Hughes Network Systems, LLC",CA,60710121032173,60,1,25.0,3.0,1
+742,36195041,67052,2860856,Illinois Bell Telephone Company,AT&T Illinois,AT&T Inc.,130077,AT&T Inc.,IL,170318297003061,10,1,0.768,0.128,0
+743,25285202,58196,16026965,"FDF Communications Co., dba BPS Networks",FDF Communications Company,FDF Communications Co.,130492,FDF Communications Co.,AR,50930102002035,70,1,25.0,3.0,1
+744,62589363,54694,12369286,"HNS License Sub, LLC",HughesNet,"Hughes Network Systems, LLC",130627,"Hughes Network Systems, LLC",OH,390319609001021,60,1,25.0,3.0,1
+745,72659532,55262,18756155,"VSAT Systems, LLC",Skycasters,"VSAT Systems, LLC",300167,"VSAT Systems, LLC",WI,550511802001080,60,1,2.0,1.3,1
+746,3546348,55258,3741253,Dickey Rural Telephone Cooperative,Dickey Rural Telephone Cooperative,Dickey Rural Telephone Cooperative,130405,Dickey Rural Telephone Cooperative,ND,380459721002245,50,1,1000.0,1000.0,1
+747,25634773,58430,1912138,Wilkes Telephone Membership Corporation - Belhaven,RIVERSTREET NETWORKS,Wilkes Telephone Membership Corporation,131486,Wilkes Telephone Membership Corporation,NC,370139307002083,50,1,100.0,10.0,1
+748,11514528,56004,4963088,"ViaSat, Inc.",Viasat Inc,"ViaSat, Inc.",290111,"ViaSat, Inc.",IL,170550404004059,60,1,100.0,3.0,1
+749,57617454,55262,18756155,"VSAT Systems, LLC",Skycasters,"VSAT Systems, LLC",300167,"VSAT Systems, LLC",MO,292074705003077,60,1,2.0,1.3,1
+750,69643906,55262,18756155,"VSAT Systems, LLC",Skycasters,"VSAT Systems, LLC",300167,"VSAT Systems, LLC",TX,482819501003061,60,1,2.0,1.3,1
+751,16191962,56004,4963088,"ViaSat, Inc.",Viasat Inc,"ViaSat, Inc.",290111,"ViaSat, Inc.",OK,400790405001121,60,1,35.0,3.0,1
+752,24922360,58025,24286270,Metro Wireless Intl,Metro Wireless International Inc.,Metro Wireless International Inc.,360054,Metro Wireless International Inc.,MI,261635628001016,70,0,0.0,0.0,1
+753,8884540,56004,4963088,"ViaSat, Inc.",Viasat Inc,"ViaSat, Inc.",290111,"ViaSat, Inc.",AR,50850208001002,60,1,35.0,3.0,1
+754,41695937,59349,1568880,GCI Communication Corp.,GCI Communication Corp.,GCI Holdings LLC,130534,GCI Holdings LLC,AL,10890110223007,60,0,0.0,0.0,1
+755,31082939,59023,4948105,TDS TELECOMMUNICATIONS CORPORATION,TDS TELECOM,"Telephone and Data Systems, Inc.",131310,"Telephone and Data Systems, Inc.",WI,550571001001177,10,1,5.0,0.512,1
+756,60341257,54694,12369286,"HNS License Sub, LLC",HughesNet,"Hughes Network Systems, LLC",130627,"Hughes Network Systems, LLC",NY,360191008003064,60,1,25.0,3.0,1
+757,44270955,54694,12369286,"HNS License Sub, LLC",HughesNet,"Hughes Network Systems, LLC",130627,"Hughes Network Systems, LLC",CA,60190026012009,60,1,25.0,3.0,1
+758,59636784,54694,12369286,"HNS License Sub, LLC",HughesNet,"Hughes Network Systems, LLC",130627,"Hughes Network Systems, LLC",NM,350010038072077,60,1,25.0,3.0,1
+759,45520897,55262,18756155,"VSAT Systems, LLC",Skycasters,"VSAT Systems, LLC",300167,"VSAT Systems, LLC",CA,60971501001021,60,1,2.0,1.3,1
+760,62907441,55262,18756155,"VSAT Systems, LLC",Skycasters,"VSAT Systems, LLC",300167,"VSAT Systems, LLC",OH,390110405001038,60,1,2.0,1.3,1
+761,24776540,57969,18861252,"Velocity Communications, Inc.","Velocity Communications, Inc.","Velocity Communications, Inc.",350110,"Velocity Communications, Inc.",CA,60230005003035,70,1,20.0,2.0,1
+762,21805784,56847,3628971,Verizon New England Inc.,Verizon New England Inc.,Verizon Communications Inc.,131425,Verizon Communications Inc.,MA,250010143005016,10,1,5.0,0.768,1
+763,65614969,55262,18756155,"VSAT Systems, LLC",Skycasters,"VSAT Systems, LLC",300167,"VSAT Systems, LLC",PA,420710133013052,60,1,2.0,1.3,1
+764,5484480,55394,4372322,UNITED STATES CELLULAR CORPORATION,United States Cellular Corporation,"Telephone and Data Systems, Inc.",131310,"Telephone and Data Systems, Inc.",NE,311259661002075,70,1,2.0,0.064,0
+765,4530006,55394,4372322,UNITED STATES CELLULAR CORPORATION,United States Cellular Corporation,"Telephone and Data Systems, Inc.",131310,"Telephone and Data Systems, Inc.",WI,551410110005041,70,1,2.0,0.064,0
+766,40335240,67058,3801651,"SOUTHWESTERN BELL TELEPHONE COMPANY, L.P.",AT&T Southwest,AT&T Inc.,130077,AT&T Inc.,OK,400370211013091,11,1,5.0,0.6,0
+767,26506386,58623,25646373,"Charter Communications, Inc.",Charter Communications Inc,Charter Communications,130235,Charter Communications,TN,471251011021013,43,1,940.0,35.0,1
+768,63517411,54694,12369286,"HNS License Sub, LLC",HughesNet,"Hughes Network Systems, LLC",130627,"Hughes Network Systems, LLC",OK,400151623001104,60,1,25.0,3.0,1
+769,9992611,56004,4963088,"ViaSat, Inc.",Viasat Inc,"ViaSat, Inc.",290111,"ViaSat, Inc.",CO,80690013014028,60,1,35.0,3.0,1
+770,13323041,56004,4963088,"ViaSat, Inc.",Viasat Inc,"ViaSat, Inc.",290111,"ViaSat, Inc.",MI,261614640002007,60,1,100.0,3.0,1
+771,63318762,59349,1568880,GCI Communication Corp.,GCI Communication Corp.,GCI Holdings LLC,130534,GCI Holdings LLC,OK,400496819001136,60,0,0.0,0.0,1
+772,35381032,59852,1834696,Cox Communications,Cox Communications,"Cox Communications, Inc.",130360,"Cox Communications, Inc.",CA,60376704061021,43,1,1000.0,35.0,0
+773,3342648,55076,3726759,"F&B Communications, Inc.",F&B Communications Inc.,"F&B Communications, Inc.",130473,"F&B Communications, Inc.",IA,190314501001064,50,1,1000.0,1000.0,1
+774,23957938,57760,14176929,Phoenix Internet,PhoenixInternet,"Gutierrez-Palmenberg, Inc.",300063,"Gutierrez-Palmenberg, Inc.",AZ,40131136012013,70,1,15.0,1.0,1
+775,45500281,55262,18756155,"VSAT Systems, LLC",Skycasters,"VSAT Systems, LLC",300167,"VSAT Systems, LLC",CA,60910100001257,60,1,2.0,1.3,1
+776,56659850,55262,18756155,"VSAT Systems, LLC",Skycasters,"VSAT Systems, LLC",300167,"VSAT Systems, LLC",MS,281359503002029,60,1,2.0,1.3,1
+777,44169062,59349,1568880,GCI Communication Corp.,GCI Communication Corp.,GCI Holdings LLC,130534,GCI Holdings LLC,CA,61070004022010,60,0,0.0,0.0,1
+778,34542148,59520,21890777,"Skybeam, Inc.",Rise Broadband,"JAB Wireless, Inc.",140048,"JAB Wireless, Inc.",IL,170910108003017,70,1,5.0,1.0,1
+779,11581385,56004,4963088,"ViaSat, Inc.",Viasat Inc,"ViaSat, Inc.",290111,"ViaSat, Inc.",IL,170978616031062,60,1,100.0,3.0,1
+780,2898188,55027,6254403,Crown Castle Fiber LLC,Crown Castle Fiber,Crown Castle International Corp.,400092,Crown Castle International Corp.,CA,60371439011009,50,0,0.0,0.0,1
+781,61388877,54694,12369286,"HNS License Sub, LLC",HughesNet,"Hughes Network Systems, LLC",130627,"Hughes Network Systems, LLC",NC,371010410011054,60,1,25.0,3.0,1
+782,1375225,54480,3473709,AT&T Mobility Puerto Rico Inc.,Centennial,AT&T Inc.,130077,AT&T Inc.,PR,720891401023023,50,0,0.0,0.0,1
+783,52008239,59349,1568880,GCI Communication Corp.,GCI Communication Corp.,GCI Holdings LLC,130534,GCI Holdings LLC,KS,201730103001014,60,0,0.0,0.0,1
+784,69970818,55262,18756155,"VSAT Systems, LLC",Skycasters,"VSAT Systems, LLC",300167,"VSAT Systems, LLC",TX,485059504001114,60,1,2.0,1.3,1
+785,50354216,55262,18756155,"VSAT Systems, LLC",Skycasters,"VSAT Systems, LLC",300167,"VSAT Systems, LLC",IL,171830007002003,60,1,2.0,1.3,1
+786,66090797,54694,12369286,"HNS License Sub, LLC",HughesNet,"Hughes Network Systems, LLC",130627,"Hughes Network Systems, LLC",SC,450230208003065,60,1,25.0,3.0,1
+787,47119775,54694,12369286,"HNS License Sub, LLC",HughesNet,"Hughes Network Systems, LLC",130627,"Hughes Network Systems, LLC",FL,120810007051053,60,1,25.0,3.0,1
+788,72506060,54694,12369286,"HNS License Sub, LLC",HughesNet,"Hughes Network Systems, LLC",130627,"Hughes Network Systems, LLC",WI,550979613002085,60,1,25.0,3.0,1
+789,50641336,59349,1568880,GCI Communication Corp.,GCI Communication Corp.,GCI Holdings LLC,130534,GCI Holdings LLC,IN,181650202001411,60,0,0.0,0.0,1
+790,67611018,59349,1568880,GCI Communication Corp.,GCI Communication Corp.,GCI Holdings LLC,130534,GCI Holdings LLC,TX,481410034021031,60,0,0.0,0.0,1
+791,48518277,55262,18756155,"VSAT Systems, LLC",Skycasters,"VSAT Systems, LLC",300167,"VSAT Systems, LLC",GA,131639601002011,60,1,2.0,1.3,1
+792,31024028,59023,4948105,TDS TELECOMMUNICATIONS CORPORATION,TDS TELECOM,"Telephone and Data Systems, Inc.",131310,"Telephone and Data Systems, Inc.",MS,280419501003142,10,1,5.0,0.512,0
+793,8043988,55823,11548526,PenTeleData Limited Partnership I,PenTeleData Limited Partnership I,"Pencor Services, Inc.",131026,"Pencor Services, Inc.",PA,420370503001039,50,0,0.0,0.0,1
+794,6017039,55574,3768165,"COMCAST CABLE COMMUNICATIONS, LLC",Comcast,Comcast Corporation,130317,Comcast Corporation,CO,80130132101028,43,1,987.0,35.0,1
+795,1814600,54561,3749645,Walnut Telephone Company,Marne Elk Horn,Marne & Elk Horn Telephone Company,130782,Marne & Elk Horn Telephone Company,IA,191550215021166,50,1,200.0,20.0,1
+796,59737370,54694,12369286,"HNS License Sub, LLC",HughesNet,"Hughes Network Systems, LLC",130627,"Hughes Network Systems, LLC",NM,350399441003119,60,1,25.0,3.0,1
+797,49188175,59349,1568880,GCI Communication Corp.,GCI Communication Corp.,GCI Holdings LLC,130534,GCI Holdings LLC,IL,170318112002036,60,0,0.0,0.0,1
+798,42742907,54694,12369286,"HNS License Sub, LLC",HughesNet,"Hughes Network Systems, LLC",130627,"Hughes Network Systems, LLC",AZ,40250015003166,60,1,25.0,3.0,1
+799,68963360,54694,12369286,"HNS License Sub, LLC",HughesNet,"Hughes Network Systems, LLC",130627,"Hughes Network Systems, LLC",TX,484391065112015,60,1,25.0,3.0,1
+800,48363631,55262,18756155,"VSAT Systems, LLC",Skycasters,"VSAT Systems, LLC",300167,"VSAT Systems, LLC",GA,130199703003040,60,1,2.0,1.3,1
+801,10427237,56004,4963088,"ViaSat, Inc.",Viasat Inc,"ViaSat, Inc.",290111,"ViaSat, Inc.",FL,120860003013003,60,1,35.0,3.0,1
+802,2408096,54778,18795427,"CNSP, Internet, dba NMSURF","CNSP, Inc. dba NMSURF(Bernalillo)",CNSP Internet,360105,CNSP Internet,NM,350010036003034,70,1,25.0,10.0,1
+803,28334524,58623,25646373,"Charter Communications, Inc.",Charter Communications Inc,Charter Communications,130235,Charter Communications,FL,120570119024007,43,1,940.0,35.0,1
+804,51784427,55262,18756155,"VSAT Systems, LLC",Skycasters,"VSAT Systems, LLC",300167,"VSAT Systems, LLC",IA,191690101002006,60,1,2.0,1.3,1
+805,60106036,59349,1568880,GCI Communication Corp.,GCI Communication Corp.,GCI Holdings LLC,130534,GCI Holdings LLC,NY,360594143041009,60,0,0.0,0.0,1
+806,21966594,56855,9118415,"Dobson Technologies, Transport and Telecom Solutions",Dobson Technologies,"Dobson Technologies, Inc.",130425,"Dobson Technologies, Inc.",OK,400790403022025,50,0,0.0,0.0,1
+807,26177925,58584,25360173,"Plains Internet, LLC",Plains Internet,"Plains Internet, LLC",340059,"Plains Internet, LLC",TX,481899502001003,70,1,25.0,3.0,1
+808,16837339,56004,4963088,"ViaSat, Inc.",Viasat Inc,"ViaSat, Inc.",290111,"ViaSat, Inc.",PA,420912051001006,60,1,35.0,3.0,1
+809,55056939,54694,12369286,"HNS License Sub, LLC",HughesNet,"Hughes Network Systems, LLC",130627,"Hughes Network Systems, LLC",MI,261251520003001,60,1,25.0,3.0,1
+810,24860870,58020,6823991,"Sunset Fiber, LLC",OptiNet,"Point Broadband Fiber Holding, LLC",340070,"Point Broadband Fiber Holding, LLC",TN,471630402002092,50,1,1000.0,50.0,1
+811,58617783,59349,1568880,GCI Communication Corp.,GCI Communication Corp.,GCI Holdings LLC,130534,GCI Holdings LLC,NV,320030057032062,60,0,0.0,0.0,1
+812,36205401,67052,2860856,Illinois Bell Telephone Company,AT&T Illinois,AT&T Inc.,130077,AT&T Inc.,IL,170318248003051,10,1,0.768,0.128,0
+813,33276230,59351,3576352,Frontier Communications Corporation,Frontier North Michigan  GTE,Frontier Communications Corporation,130258,Frontier Communications Corporation,MI,261476585001099,11,1,18.0,1.0,1
+814,65254108,54694,12369286,"HNS License Sub, LLC",HughesNet,"Hughes Network Systems, LLC",130627,"Hughes Network Systems, LLC",PA,420850301003002,60,1,25.0,3.0,1
+815,62132092,55262,18756155,"VSAT Systems, LLC",Skycasters,"VSAT Systems, LLC",300167,"VSAT Systems, LLC",ND,380639590004054,60,1,2.0,1.3,1
+816,49276850,59349,1568880,GCI Communication Corp.,GCI Communication Corp.,GCI Holdings LLC,130534,GCI Holdings LLC,IL,170630002002114,60,0,0.0,0.0,1
+817,33425675,59351,3576352,Frontier Communications Corporation,Frontier North Ohio  GTE,Frontier Communications Corporation,130258,Frontier Communications Corporation,OH,390170101014023,12,1,70.0,3.0,1
+818,3101832,55027,6254403,Crown Castle Fiber LLC,Crown Castle Fiber,Crown Castle International Corp.,400092,Crown Castle International Corp.,NY,360050157002001,50,0,0.0,0.0,1
+819,21180171,56685,17551359,Consolidated Communications of Vermont Company LLC,Consolidated Communications,"Consolidated Communications, Inc.",130335,"Consolidated Communications, Inc.",VT,500239550002092,11,1,25.0,2.0,1
+820,25537453,58367,22810253,Aerux Boardband,Aerux Broadband,Aerux Boardband,370154,Aerux Boardband,CO,80050825001002,70,1,100.0,100.0,1
+821,3442309,55128,16775181,"TRAVELLER MULTIMEDIA NETWORK, LLC.",TRAVELLER MULTIMEDIA NETWORK LLC.,"TRAVELLER MULTIMEDIA NETWORK, LLC.",400136,"Traveller Multimedia Network, LLC",AL,10890023001004,70,0,0.0,0.0,1
+822,51081737,55262,18756155,"VSAT Systems, LLC",Skycasters,"VSAT Systems, LLC",300167,"VSAT Systems, LLC",IN,180973613001013,60,1,2.0,1.3,1
+823,18339259,56004,4963088,"ViaSat, Inc.",Viasat Inc,"ViaSat, Inc.",290111,"ViaSat, Inc.",TX,484659504003035,60,1,35.0,3.0,1
+824,5030250,55394,4372322,UNITED STATES CELLULAR CORPORATION,United States Cellular Corporation,"Telephone and Data Systems, Inc.",131310,"Telephone and Data Systems, Inc.",ME,230079706022055,70,1,2.0,0.064,0
+825,8452529,55996,16098931,"Amplex Electric, Inc.",Amplex Wireless,"Amplex Electric, Inc.",130059,"Amplex Electric, Inc.",OH,391230509001063,70,1,25.0,3.0,1
+826,54922093,54694,12369286,"HNS License Sub, LLC",HughesNet,"Hughes Network Systems, LLC",130627,"Hughes Network Systems, LLC",MI,260490112131006,60,1,25.0,3.0,1
+827,51771423,55262,18756155,"VSAT Systems, LLC",Skycasters,"VSAT Systems, LLC",300167,"VSAT Systems, LLC",IA,191610803002026,60,1,2.0,1.3,1
+828,13930045,56004,4963088,"ViaSat, Inc.",Viasat Inc,"ViaSat, Inc.",290111,"ViaSat, Inc.",MO,292090906022102,60,1,35.0,3.0,1
+829,324666,53920,21701891,AMG Technology Investment Group,Nextlink Residential,AMG Technology Investment Group LLC,290010,AMG Technology Investment Group LLC,TX,481339504001217,70,1,50.0,10.0,1
+830,38217205,67056,1857952,"BellSouth Telecommunications, Inc.",AT&T Louisiana,AT&T Inc.,130077,AT&T Inc.,LA,220710025031018,11,1,12.0,0.512,0
+831,67273403,55262,18756155,"VSAT Systems, LLC",Skycasters,"VSAT Systems, LLC",300167,"VSAT Systems, LLC",TN,471439752002080,60,1,2.0,1.3,1
+832,21666422,56843,3469442,Verizon New York Inc.,Verizon New York Inc.,Verizon Communications Inc.,131425,Verizon Communications Inc.,NY,360670111022005,10,1,5.0,0.768,1
+833,15106180,56004,4963088,"ViaSat, Inc.",Viasat Inc,"ViaSat, Inc.",290111,"ViaSat, Inc.",NM,350010007102047,60,1,100.0,3.0,1
+834,55103141,54694,12369286,"HNS License Sub, LLC",HughesNet,"Hughes Network Systems, LLC",130627,"Hughes Network Systems, LLC",MI,261490415001000,60,1,25.0,3.0,1
+835,20001507,56358,3744463,"TRI County Telephone Association, Inc.",TRI COUNTY,"Tri County Telephone Association, Inc.",131366,"Tri County Telephone Association, Inc.",WY,560179679001705,50,1,1000.0,1000.0,1
+836,26319114,58623,25646373,"Charter Communications, Inc.",Charter Communications Inc,Charter Communications,130235,Charter Communications,VT,500059572002030,43,1,940.0,35.0,1
+837,67035450,54694,12369286,"HNS License Sub, LLC",HughesNet,"Hughes Network Systems, LLC",130627,"Hughes Network Systems, LLC",TN,471410004001023,60,1,25.0,3.0,1
+838,27715529,58623,25646373,"Charter Communications, Inc.",Charter Communications Inc,Charter Communications,130235,Charter Communications,ME,230050030001042,43,1,940.0,35.0,1
+839,51666412,55262,18756155,"VSAT Systems, LLC",Skycasters,"VSAT Systems, LLC",300167,"VSAT Systems, LLC",IA,190610105001002,60,1,2.0,1.3,1
+840,57407316,55262,18756155,"VSAT Systems, LLC",Skycasters,"VSAT Systems, LLC",300167,"VSAT Systems, LLC",MO,290554503022031,60,1,2.0,1.3,1
+841,37081001,67054,2776771,Michigan Bell Telephone Company,AT&T Michigan,AT&T Inc.,130077,AT&T Inc.,MI,260650039011029,11,1,18.0,0.768,0
+842,71173688,55262,18756155,"VSAT Systems, LLC",Skycasters,"VSAT Systems, LLC",300167,"VSAT Systems, LLC",VA,517700003003059,60,1,2.0,1.3,1
+843,67252837,55262,18756155,"VSAT Systems, LLC",Skycasters,"VSAT Systems, LLC",300167,"VSAT Systems, LLC",TN,471190112001213,60,1,2.0,1.3,1
+844,7173354,55574,3768165,"COMCAST CABLE COMMUNICATIONS, LLC",Comcast,Comcast Corporation,130317,Comcast Corporation,PA,420430206001011,43,1,987.0,35.0,1
+845,38548502,67056,1857952,"BellSouth Telecommunications, Inc.",AT&T North Carolina,AT&T Inc.,130077,AT&T Inc.,NC,371910004021003,12,1,25.0,5.0,0
+846,54968542,54694,12369286,"HNS License Sub, LLC",HughesNet,"Hughes Network Systems, LLC",130627,"Hughes Network Systems, LLC",MI,260799502001165,60,1,25.0,3.0,1
+847,20173477,56413,2930980,W A T C H TV,Watch Communications,Benton Ridge Telephone Company,130116,Benton Ridge Telephone Company,IN,181630102012019,70,1,3.0,0.768,1
+848,62825530,54694,12369286,"HNS License Sub, LLC",HughesNet,"Hughes Network Systems, LLC",130627,"Hughes Network Systems, LLC",OH,391517007004026,60,1,25.0,3.0,1
+849,33588457,59351,3576352,Frontier Communications Corporation,Frontier West Virginia,Frontier Communications Corporation,130258,Frontier Communications Corporation,WV,540459568003034,10,1,6.0,1.0,1
+850,51347991,59349,1568880,GCI Communication Corp.,GCI Communication Corp.,GCI Holdings LLC,130534,GCI Holdings LLC,IA,191599502003035,60,0,0.0,0.0,1
+851,53941640,54694,12369286,"HNS License Sub, LLC",HughesNet,"Hughes Network Systems, LLC",130627,"Hughes Network Systems, LLC",MD,240399303003207,60,1,25.0,3.0,1
+852,32036668,59351,3576352,Frontier Communications Corporation,CTC Golden State California,Frontier Communications Corporation,130258,Frontier Communications Corporation,CA,60110005001108,11,1,18.0,1.0,1
+853,14495121,56004,4963088,"ViaSat, Inc.",Viasat Inc,"ViaSat, Inc.",290111,"ViaSat, Inc.",NC,371559618011105,60,1,100.0,3.0,1
+854,43609945,59349,1568880,GCI Communication Corp.,GCI Communication Corp.,GCI Holdings LLC,130534,GCI Holdings LLC,CA,60250101011184,60,0,0.0,0.0,1
+855,59332921,55262,18756155,"VSAT Systems, LLC",Skycasters,"VSAT Systems, LLC",300167,"VSAT Systems, LLC",NJ,340057037001010,60,1,2.0,1.3,1
+856,46352413,55262,18756155,"VSAT Systems, LLC",Skycasters,"VSAT Systems, LLC",300167,"VSAT Systems, LLC",CT,90116601021001,60,1,2.0,1.3,1
+857,67858583,59349,1568880,GCI Communication Corp.,GCI Communication Corp.,GCI Holdings LLC,130534,GCI Holdings LLC,TX,482511301002065,60,0,0.0,0.0,1
+858,26560939,58623,25646373,"Charter Communications, Inc.",Charter Communications Inc,Charter Communications,130235,Charter Communications,TX,480291907002000,43,1,940.0,35.0,1
+859,6550880,55574,3768165,"COMCAST CABLE COMMUNICATIONS, LLC",Comcast,Comcast Corporation,130317,Comcast Corporation,IN,180890113001005,42,0,0.0,0.0,1
+860,4927889,55394,4372322,UNITED STATES CELLULAR CORPORATION,United States Cellular Corporation,"Telephone and Data Systems, Inc.",131310,"Telephone and Data Systems, Inc.",KS,200790306001184,70,1,2.0,0.064,0
+861,58112555,59349,1568880,GCI Communication Corp.,GCI Communication Corp.,GCI Holdings LLC,130534,GCI Holdings LLC,NE,310779709001210,60,0,0.0,0.0,1
+862,40879781,67058,3801651,"SOUTHWESTERN BELL TELEPHONE COMPANY, L.P.",AT&T Southwest,AT&T Inc.,130077,AT&T Inc.,TX,483217303014013,11,1,18.0,0.768,0
+863,3049957,55027,6254403,Crown Castle Fiber LLC,Crown Castle Fiber,Crown Castle International Corp.,400092,Crown Castle International Corp.,MA,250173503002000,50,0,0.0,0.0,1
+864,29569947,58876,18626853,"CenturyLink, Inc.",CenturyLink,"CenturyLink, Inc.",130228,"CenturyLink, Inc.",CO,80050068581010,12,1,140.0,20.0,1
+865,62939476,55262,18756155,"VSAT Systems, LLC",Skycasters,"VSAT Systems, LLC",300167,"VSAT Systems, LLC",OH,390299512002195,60,1,2.0,1.3,1
+866,27664481,58623,25646373,"Charter Communications, Inc.",Charter Communications Inc,Charter Communications,130235,Charter Communications,NY,360550102002007,43,1,940.0,35.0,1
+867,11176496,56004,4963088,"ViaSat, Inc.",Viasat Inc,"ViaSat, Inc.",290111,"ViaSat, Inc.",IA,191919505003071,60,1,100.0,3.0,1
+868,42021694,55262,18756155,"VSAT Systems, LLC",Skycasters,"VSAT Systems, LLC",300167,"VSAT Systems, LLC",AL,10030107014070,60,1,2.0,1.3,1
+869,21092255,56663,16022618,"Consolidated Communications of Northern New England, LLC",Consolidated Communications,"Consolidated Communications, Inc.",130335,"Consolidated Communications, Inc.",NH,330059704004019,11,1,25.0,2.0,1
+870,26465406,58623,25646373,"Charter Communications, Inc.",Charter Communications Inc,Charter Communications,130235,Charter Communications,WI,551314701002042,43,1,940.0,35.0,1
+871,65795190,55262,18756155,"VSAT Systems, LLC",Skycasters,"VSAT Systems, LLC",300167,"VSAT Systems, LLC",PA,421330226004046,60,1,2.0,1.3,1
+872,26111196,58531,16278970,"Wisper ISP, INC",Wisper ISP,Wisper ISP Inc.,140105,Wisper ISP Inc.,IL,170279004023001,70,1,100.0,20.0,1
+873,55667492,59349,1568880,GCI Communication Corp.,GCI Communication Corp.,GCI Holdings LLC,130534,GCI Holdings LLC,MN,271410305022051,60,0,0.0,0.0,1
+874,43178397,54694,12369286,"HNS License Sub, LLC",HughesNet,"Hughes Network Systems, LLC",130627,"Hughes Network Systems, LLC",AR,50070209022062,60,1,25.0,3.0,1
+875,64846805,59349,1568880,GCI Communication Corp.,GCI Communication Corp.,GCI Holdings LLC,130534,GCI Holdings LLC,PA,420834209001211,60,0,0.0,0.0,1
+876,38113571,67056,1857952,"BellSouth Telecommunications, Inc.",AT&T Kentucky,AT&T Inc.,130077,AT&T Inc.,KY,211110017001021,50,1,1000.0,1000.0,0
+877,39259262,67057,1551530,AT&T California,AT&T California,AT&T Inc.,130077,AT&T Inc.,CA,60450114004000,11,1,18.0,0.768,0
+878,23356498,57371,12841458,Neptuno Media,NeptunoNetworks,"Neptuno Media, Inc.",150290,"Neptuno Media, Inc.",PR,720610404031020,70,1,25.0,25.0,1
+879,39694224,67057,1551530,AT&T California,AT&T California,AT&T Inc.,130077,AT&T Inc.,CA,61110022002004,11,1,12.0,0.512,0
+880,56811990,59349,1568880,GCI Communication Corp.,GCI Communication Corp.,GCI Holdings LLC,130534,GCI Holdings LLC,MO,290950098003012,60,0,0.0,0.0,1
+881,37371868,67056,1857952,"BellSouth Telecommunications, Inc.",AT&T Alabama,AT&T Inc.,130077,AT&T Inc.,AL,10439649004039,11,1,18.0,0.768,0
+882,57035236,54694,12369286,"HNS License Sub, LLC",HughesNet,"Hughes Network Systems, LLC",130627,"Hughes Network Systems, LLC",MO,290210009003037,60,1,25.0,3.0,1
+883,1639448,54532,4966099,"Windstream Nebraska, Inc.",Windstream Nebraska Inc.,"Windstream Holdings, Inc.",131413,"Windstream Holdings, Inc.",NE,311090103002014,12,1,100.0,8.0,1
+884,42011935,54694,12369286,"HNS License Sub, LLC",HughesNet,"Hughes Network Systems, LLC",130627,"Hughes Network Systems, LLC",AL,11270212003081,60,1,25.0,3.0,1
+885,67251256,55262,18756155,"VSAT Systems, LLC",Skycasters,"VSAT Systems, LLC",300167,"VSAT Systems, LLC",TN,471190108022065,60,1,2.0,1.3,1
+886,60812245,55262,18756155,"VSAT Systems, LLC",Skycasters,"VSAT Systems, LLC",300167,"VSAT Systems, LLC",NY,360670150004008,60,1,2.0,1.3,1
+887,12538461,56004,4963088,"ViaSat, Inc.",Viasat Inc,"ViaSat, Inc.",290111,"ViaSat, Inc.",LA,220550014101051,60,1,35.0,3.0,1
+888,17153822,56004,4963088,"ViaSat, Inc.",Viasat Inc,"ViaSat, Inc.",290111,"ViaSat, Inc.",SC,450850005002096,60,1,100.0,3.0,1
+889,72540225,54694,12369286,"HNS License Sub, LLC",HughesNet,"Hughes Network Systems, LLC",130627,"Hughes Network Systems, LLC",WI,551199605002035,60,1,25.0,3.0,1
+890,37155460,67054,2776771,Michigan Bell Telephone Company,AT&T Michigan,AT&T Inc.,130077,AT&T Inc.,MI,261251838003005,12,1,100.0,20.0,0
+891,68056971,59349,1568880,GCI Communication Corp.,GCI Communication Corp.,GCI Holdings LLC,130534,GCI Holdings LLC,TX,484230002014013,60,0,0.0,0.0,1
+892,31083286,59034,22745335,Telegia Communications Inc.,"Telegia Communications, Inc.","Telegia Communications, Inc.",320124,"Telegia Communications, Inc.",MD,240217516001007,70,1,30.0,15.0,1
+893,62261862,59349,1568880,GCI Communication Corp.,GCI Communication Corp.,GCI Holdings LLC,130534,GCI Holdings LLC,OH,390375701022001,60,0,0.0,0.0,1
+894,18053409,56004,4963088,"ViaSat, Inc.",Viasat Inc,"ViaSat, Inc.",290111,"ViaSat, Inc.",TX,482719501001729,60,1,35.0,3.0,1
+895,25049317,58039,5184247,MCC Missouri LLC,MCC Missouri LLC,Mediacom Communications Corp.,130804,Mediacom Communications Corp.,MO,290770048011030,43,1,1000.0,50.0,1
+896,30559943,58876,18626853,"CenturyLink, Inc.",CenturyLink,"CenturyLink, Inc.",130228,"CenturyLink, Inc.",TX,480270231042008,11,1,10.0,0.768,1
+897,29136780,58768,9572884,"Commnet Four Corners, LLC",Choice Splash,"ATN International, Inc.",130081,"ATN International, Inc.",AZ,40179633003061,70,1,9.0,2.0,1
+898,37659256,67056,1857952,"BellSouth Telecommunications, Inc.",AT&T Florida,AT&T Inc.,130077,AT&T Inc.,FL,121079509001006,12,1,50.0,10.0,0
+899,13914125,56004,4963088,"ViaSat, Inc.",Viasat Inc,"ViaSat, Inc.",290111,"ViaSat, Inc.",MO,291974701001025,60,1,35.0,3.0,1
+900,3755681,55387,20831053,Bolt Internet,Bolt Internet,Bolt Internet Inc.,240009,Bolt Internet Inc.,AZ,40250006061053,70,1,25.0,5.0,1
+901,20853098,56631,6221287,"Harbor Communications, LLC",Harbor Communications,Harbor Communications,130587,Harbor Communications,AL,10030109053000,70,1,20.0,20.0,1
+902,14685103,56004,4963088,"ViaSat, Inc.",Viasat Inc,"ViaSat, Inc.",290111,"ViaSat, Inc.",ND,381039600001655,60,1,35.0,3.0,1
+903,33773311,59351,3576352,Frontier Communications Corporation,GTE-SW DBA VERIZON SW INC TX,Frontier Communications Corporation,130258,Frontier Communications Corporation,TX,481210217531036,11,1,6.0,1.0,1
+904,27636751,58623,25646373,"Charter Communications, Inc.",Charter Communications Inc,Charter Communications,130235,Charter Communications,NY,360319605982038,50,0,0.0,0.0,1
+905,8469400,56004,4963088,"ViaSat, Inc.",Viasat Inc,"ViaSat, Inc.",290111,"ViaSat, Inc.",AK,21100003002013,60,1,35.0,3.0,1
+906,26739803,58623,25646373,"Charter Communications, Inc.",Charter Communications Inc,Charter Communications,130235,Charter Communications,TX,484391055102016,43,1,940.0,35.0,1
+907,55092186,54694,12369286,"HNS License Sub, LLC",HughesNet,"Hughes Network Systems, LLC",130627,"Hughes Network Systems, LLC",MI,261450106003006,60,1,25.0,3.0,1
+908,41862524,54694,12369286,"HNS License Sub, LLC",HughesNet,"Hughes Network Systems, LLC",130627,"Hughes Network Systems, LLC",AL,10630600002151,60,1,25.0,3.0,1
+909,59631310,54694,12369286,"HNS License Sub, LLC",HughesNet,"Hughes Network Systems, LLC",130627,"Hughes Network Systems, LLC",NM,350010007142015,60,1,25.0,3.0,1
+910,28505657,58623,25646373,"Charter Communications, Inc.",Charter Communications Inc,Charter Communications,130235,Charter Communications,AZ,40270111103015,43,1,940.0,35.0,1
+911,18368492,56004,4963088,"ViaSat, Inc.",Viasat Inc,"ViaSat, Inc.",290111,"ViaSat, Inc.",TX,484817409002063,60,1,35.0,3.0,1
+912,14505838,56004,4963088,"ViaSat, Inc.",Viasat Inc,"ViaSat, Inc.",290111,"ViaSat, Inc.",NC,371619610002058,60,1,35.0,3.0,1
+913,39592884,67057,1551530,AT&T California,AT&T California,AT&T Inc.,130077,AT&T Inc.,CA,60855086012012,10,1,3.0,0.384,0
+914,29887835,58876,18626853,"CenturyLink, Inc.",CenturyLink,"CenturyLink, Inc.",130228,"CenturyLink, Inc.",IA,190719703001129,12,1,10.0,1.0,1
+915,37760691,67056,1857952,"BellSouth Telecommunications, Inc.",AT&T Florida,AT&T Inc.,130077,AT&T Inc.,FL,120110108001018,50,1,1000.0,1000.0,0
+916,45938834,54694,12369286,"HNS License Sub, LLC",HughesNet,"Hughes Network Systems, LLC",130627,"Hughes Network Systems, LLC",CO,80959676003070,60,1,25.0,3.0,1
+917,61616630,55262,18756155,"VSAT Systems, LLC",Skycasters,"VSAT Systems, LLC",300167,"VSAT Systems, LLC",NC,370690605021043,60,1,2.0,1.3,1
+918,32974668,59351,3576352,Frontier Communications Corporation,Frontier North Illinois  GTE,Frontier Communications Corporation,130258,Frontier Communications Corporation,IL,171179560003067,11,1,18.0,1.0,1
+919,49299041,59349,1568880,GCI Communication Corp.,GCI Communication Corp.,GCI Holdings LLC,130534,GCI Holdings LLC,IL,170810506001003,60,0,0.0,0.0,1
+920,46577986,59349,1568880,GCI Communication Corp.,GCI Communication Corp.,GCI Holdings LLC,130534,GCI Holdings LLC,FL,120530409012008,60,0,0.0,0.0,1
+921,8655044,56004,4963088,"ViaSat, Inc.",Viasat Inc,"ViaSat, Inc.",290111,"ViaSat, Inc.",AL,10970023013001,60,1,100.0,3.0,1
+922,5041231,55394,4372322,UNITED STATES CELLULAR CORPORATION,United States Cellular Corporation,"Telephone and Data Systems, Inc.",131310,"Telephone and Data Systems, Inc.",ME,230139705001004,70,1,2.0,0.064,0
+923,49283753,59349,1568880,GCI Communication Corp.,GCI Communication Corp.,GCI Holdings LLC,130534,GCI Holdings LLC,IL,170679543005051,60,0,0.0,0.0,1
+924,4769866,55394,4372322,UNITED STATES CELLULAR CORPORATION,United States Cellular Corporation,"Telephone and Data Systems, Inc.",131310,"Telephone and Data Systems, Inc.",IA,191870002001043,70,1,2.0,0.064,0
+925,55526940,59349,1568880,GCI Communication Corp.,GCI Communication Corp.,GCI Holdings LLC,130534,GCI Holdings LLC,MN,270459604003092,60,0,0.0,0.0,1
+926,29236679,58857,2549665,Steelville Telephone Exchange Inc,"Steelville Telephone Exchange, Inc.","Steelville Telephone Exchange, Inc.",131260,"Steelville Telephone Exchange, Inc.",MO,290554502001019,20,1,1000.0,1000.0,1
+927,13205030,56004,4963088,"ViaSat, Inc.",Viasat Inc,"ViaSat, Inc.",290111,"ViaSat, Inc.",MI,261010005003059,60,1,100.0,3.0,1
+928,61659648,55262,18756155,"VSAT Systems, LLC",Skycasters,"VSAT Systems, LLC",300167,"VSAT Systems, LLC",NC,370999505001000,60,1,2.0,1.3,1
+929,62098333,55262,18756155,"VSAT Systems, LLC",Skycasters,"VSAT Systems, LLC",300167,"VSAT Systems, LLC",ND,380350120002102,60,1,2.0,1.3,1
+930,1736674,54547,3783123,"Valor Telecommunications of Texas, LLC",Valor Telecommunications of Texas LP,"Windstream Holdings, Inc.",131413,"Windstream Holdings, Inc.",OK,401450305091081,12,1,10.0,1.0,0
+931,46919818,54694,12369286,"HNS License Sub, LLC",HughesNet,"Hughes Network Systems, LLC",130627,"Hughes Network Systems, LLC",FL,120090606003023,60,1,25.0,3.0,1
+932,62662271,54694,12369286,"HNS License Sub, LLC",HughesNet,"Hughes Network Systems, LLC",130627,"Hughes Network Systems, LLC",OH,390572802001113,60,1,25.0,3.0,1
+933,31983940,59312,16873374,ALTIUS Communications LLC,Suncoast Broadband,ALTIUS Communications LLC,290009,ALTIUS Communications LLC,FL,120150206021036,70,1,50.0,20.0,0
+934,19630153,56076,9700188,"Colorado Valley Communications, Inc.","Colorado Valley Communications, Inc.","Colorado Valley Telephone Cooperative, Inc.",130311,"Colorado Valley Telephone Cooperative, Inc.",TX,480897505001210,70,1,8.0,1.0,1
+935,43861032,59349,1568880,GCI Communication Corp.,GCI Communication Corp.,GCI Holdings LLC,130534,GCI Holdings LLC,CA,60590889053016,60,0,0.0,0.0,1
+936,49719931,54694,12369286,"HNS License Sub, LLC",HughesNet,"Hughes Network Systems, LLC",130627,"Hughes Network Systems, LLC",IL,170679540002033,60,1,25.0,3.0,1
+937,49749390,54694,12369286,"HNS License Sub, LLC",HughesNet,"Hughes Network Systems, LLC",130627,"Hughes Network Systems, LLC",IL,170898529063045,60,1,25.0,3.0,1
+938,13560611,56004,4963088,"ViaSat, Inc.",Viasat Inc,"ViaSat, Inc.",290111,"ViaSat, Inc.",MN,271359703002027,60,1,35.0,3.0,1
+939,47212963,54694,12369286,"HNS License Sub, LLC",HughesNet,"Hughes Network Systems, LLC",130627,"Hughes Network Systems, LLC",FL,120970415001071,60,1,25.0,3.0,1
+940,47954758,59349,1568880,GCI Communication Corp.,GCI Communication Corp.,GCI Holdings LLC,130534,GCI Holdings LLC,GA,131370005001042,60,0,0.0,0.0,1
+941,12215779,56004,4963088,"ViaSat, Inc.",Viasat Inc,"ViaSat, Inc.",290111,"ViaSat, Inc.",KS,201490002003068,60,1,35.0,3.0,1
+942,68647960,54694,12369286,"HNS License Sub, LLC",HughesNet,"Hughes Network Systems, LLC",130627,"Hughes Network Systems, LLC",TX,482015513001011,60,1,25.0,3.0,1
+943,11453987,56004,4963088,"ViaSat, Inc.",Viasat Inc,"ViaSat, Inc.",290111,"ViaSat, Inc.",IL,170318248001056,60,1,35.0,3.0,1
+944,29147339,58768,9572884,"Commnet Four Corners, LLC",Choice Splash,"ATN International, Inc.",130081,"ATN International, Inc.",NM,350559527002243,70,1,9.0,2.0,1
+945,68932523,54694,12369286,"HNS License Sub, LLC",HughesNet,"Hughes Network Systems, LLC",130627,"Hughes Network Systems, LLC",TX,484219502001197,60,1,25.0,3.0,1
+946,54310682,54694,12369286,"HNS License Sub, LLC",HughesNet,"Hughes Network Systems, LLC",130627,"Hughes Network Systems, LLC",MA,250138112003016,60,1,25.0,3.0,1
+947,71621866,55262,18756155,"VSAT Systems, LLC",Skycasters,"VSAT Systems, LLC",300167,"VSAT Systems, LLC",WA,530330253013052,60,1,2.0,1.3,1
+948,22636806,57146,10910446,"BelWave Communications, Inc.",BelWave Communications,"BelWave Communications, Inc.",300017,"BelWave Communications, Inc.",TX,481130088025011,70,0,0.0,0.0,1
+949,51996544,59349,1568880,GCI Communication Corp.,GCI Communication Corp.,GCI Holdings LLC,130534,GCI Holdings LLC,KS,201719571003045,60,0,0.0,0.0,1
+950,48583913,55262,18756155,"VSAT Systems, LLC",Skycasters,"VSAT Systems, LLC",300167,"VSAT Systems, LLC",GA,132699501001009,60,1,2.0,1.3,1
+951,4597377,55394,4372322,UNITED STATES CELLULAR CORPORATION,United States Cellular Corporation,"Telephone and Data Systems, Inc.",131310,"Telephone and Data Systems, Inc.",IA,190279601001017,70,1,2.0,0.064,0
+952,11453708,56004,4963088,"ViaSat, Inc.",Viasat Inc,"ViaSat, Inc.",290111,"ViaSat, Inc.",IL,170318246023007,60,1,35.0,3.0,1
+953,2983826,55027,6254403,Crown Castle Fiber LLC,Crown Castle Fiber,Crown Castle International Corp.,400092,Crown Castle International Corp.,FL,120110509005012,50,0,0.0,0.0,1
+954,72980865,54694,12369286,"HNS License Sub, LLC",HughesNet,"Hughes Network Systems, LLC",130627,"Hughes Network Systems, LLC",WY,560430003022005,60,1,25.0,3.0,1
+955,832824,54208,14531073,"Allied Telecom Group, LLC",Allied Telecom Group LLC,"Allied Telecom Group, LLC",220005,"Allied Telecom Group, LLC",DC,110010056003004,30,0,0.0,0.0,1
+956,13826327,56004,4963088,"ViaSat, Inc.",Viasat Inc,"ViaSat, Inc.",290111,"ViaSat, Inc.",MO,291414704002096,60,1,100.0,3.0,1
+957,4776490,55394,4372322,UNITED STATES CELLULAR CORPORATION,United States Cellular Corporation,"Telephone and Data Systems, Inc.",131310,"Telephone and Data Systems, Inc.",IA,191930001001075,70,1,2.0,0.064,0
+958,37729321,67056,1857952,"BellSouth Telecommunications, Inc.",AT&T Florida,AT&T Inc.,130077,AT&T Inc.,FL,120990076181023,12,1,100.0,20.0,0
+959,58033202,55262,18756155,"VSAT Systems, LLC",Skycasters,"VSAT Systems, LLC",300167,"VSAT Systems, LLC",MT,301119400005169,60,1,2.0,1.3,1
+960,39165065,67057,1551530,AT&T California,AT&T California,AT&T Inc.,130077,AT&T Inc.,CA,60372944101010,12,1,100.0,20.0,0
+961,14680836,56004,4963088,"ViaSat, Inc.",Viasat Inc,"ViaSat, Inc.",290111,"ViaSat, Inc.",ND,381010110001370,60,1,35.0,3.0,1
+962,60282978,59349,1568880,GCI Communication Corp.,GCI Communication Corp.,GCI Holdings LLC,130534,GCI Holdings LLC,NY,361190070002008,60,0,0.0,0.0,1
+963,67182573,55262,18756155,"VSAT Systems, LLC",Skycasters,"VSAT Systems, LLC",300167,"VSAT Systems, LLC",TN,470619552003079,60,1,2.0,1.3,1
+964,51231222,59349,1568880,GCI Communication Corp.,GCI Communication Corp.,GCI Holdings LLC,130534,GCI Holdings LLC,IA,190470705002020,60,0,0.0,0.0,1
+965,3061513,55027,6254403,Crown Castle Fiber LLC,Crown Castle Fiber,Crown Castle International Corp.,400092,Crown Castle International Corp.,MA,250277552001026,50,0,0.0,0.0,1
+966,30364668,58876,18626853,"CenturyLink, Inc.",CenturyLink,"CenturyLink, Inc.",130228,"CenturyLink, Inc.",OH,390030136001031,12,1,3.0,0.512,1
+967,66253589,55262,18756155,"VSAT Systems, LLC",Skycasters,"VSAT Systems, LLC",300167,"VSAT Systems, LLC",SC,450190037002003,60,1,2.0,1.3,1
+968,46324994,55262,18756155,"VSAT Systems, LLC",Skycasters,"VSAT Systems, LLC",300167,"VSAT Systems, LLC",CT,90034974004007,60,1,2.0,1.3,1
+969,57326333,54694,12369286,"HNS License Sub, LLC",HughesNet,"Hughes Network Systems, LLC",130627,"Hughes Network Systems, LLC",MO,295101141022029,60,1,25.0,3.0,1
+970,51919000,59349,1568880,GCI Communication Corp.,GCI Communication Corp.,GCI Holdings LLC,130534,GCI Holdings LLC,KS,200999505003329,60,0,0.0,0.0,1
+971,837771,54219,3774494,Wittenberg Telephone Company,"Wittenberg Telephone Company, Inc.",Wittenberg Telephone Company,130919,Wittenberg Telephone Company,WI,551151008004105,11,1,5.0,1.0,1
+972,31534851,59148,17535386,"VTX Communications, LLC",VTXC,"Valley Telephone Cooperative, Inc. (TX)",340001,"Valley Telephone Cooperative, Inc. (TX)",TX,481872106043064,70,1,25.0,3.0,1
+973,3821072,55394,4372322,UNITED STATES CELLULAR CORPORATION,United States Cellular Corporation,"Telephone and Data Systems, Inc.",131310,"Telephone and Data Systems, Inc.",OK,400198921002146,70,1,2.0,0.064,0
+974,27289645,58623,25646373,"Charter Communications, Inc.",Charter Communications Inc,Charter Communications,130235,Charter Communications,NY,361059512002012,50,0,0.0,0.0,1
+975,3887671,55394,4372322,UNITED STATES CELLULAR CORPORATION,United States Cellular Corporation,"Telephone and Data Systems, Inc.",131310,"Telephone and Data Systems, Inc.",OK,400770871001188,70,1,2.0,0.064,0
+976,40981025,67058,3801651,"SOUTHWESTERN BELL TELEPHONE COMPANY, L.P.",AT&T Southwest,AT&T Inc.,130077,AT&T Inc.,TX,484391104025012,50,1,1000.0,1000.0,0
+977,66865981,59349,1568880,GCI Communication Corp.,GCI Communication Corp.,GCI Holdings LLC,130534,GCI Holdings LLC,TN,471859350003045,60,0,0.0,0.0,1
+978,65786497,55262,18756155,"VSAT Systems, LLC",Skycasters,"VSAT Systems, LLC",300167,"VSAT Systems, LLC",PA,421314005002031,60,1,2.0,1.3,1
+979,52782770,54694,12369286,"HNS License Sub, LLC",HughesNet,"Hughes Network Systems, LLC",130627,"Hughes Network Systems, LLC",KY,212039504003035,60,1,25.0,3.0,1
+980,38914916,67056,1857952,"BellSouth Telecommunications, Inc.",AT&T Tennessee,AT&T Inc.,130077,AT&T Inc.,TN,471079706005091,70,1,10.0,1.0,0
+981,38995915,67057,1551530,AT&T California,AT&T California,AT&T Inc.,130077,AT&T Inc.,CA,60070018002000,11,1,6.0,0.512,0
+982,37160904,67054,2776771,Michigan Bell Telephone Company,AT&T Michigan,AT&T Inc.,130077,AT&T Inc.,MI,261635422001002,12,1,100.0,20.0,0
+983,22649305,57146,10910446,"BelWave Communications, Inc.",BelWave Communications,"BelWave Communications, Inc.",300017,"BelWave Communications, Inc.",TX,480850305131007,70,0,0.0,0.0,1
+984,10093475,56004,4963088,"ViaSat, Inc.",Viasat Inc,"ViaSat, Inc.",290111,"ViaSat, Inc.",CT,90034808001000,60,1,100.0,3.0,1
+985,26988201,58623,25646373,"Charter Communications, Inc.",Charter Communications Inc,Charter Communications,130235,Charter Communications,NC,371559615003005,43,1,940.0,35.0,1
+986,7798396,55714,24383770,"Greenlight Networks, LLC",Greenlight Networks LLC,"Greenlight Networks, LLC",320047,"Greenlight Networks, LLC",NY,360550122023035,50,0,0.0,0.0,1
+987,55512957,59349,1568880,GCI Communication Corp.,GCI Communication Corp.,GCI Holdings LLC,130534,GCI Holdings LLC,MN,270370601032006,60,0,0.0,0.0,1
+988,24715292,57947,3571635,Mediacom Iowa LLC,Mediacom Iowa LLC,Mediacom Communications Corp.,130804,Mediacom Communications Corp.,IA,191010903002021,43,1,1000.0,50.0,1
+989,36022032,64498,17117037,"Cherry Capital Connection, LLC","Cheryy Capital Connection, LLC","Cherry Capital Connection, LLC",210018,"Cherry Capital Connection, LLC",MI,260799503001020,70,1,25.0,25.0,1
+990,47172531,54694,12369286,"HNS License Sub, LLC",HughesNet,"Hughes Network Systems, LLC",130627,"Hughes Network Systems, LLC",FL,120860122002010,60,1,25.0,3.0,1
+991,38853489,67056,1857952,"BellSouth Telecommunications, Inc.",AT&T Tennessee,AT&T Inc.,130077,AT&T Inc.,TN,471730401003001,12,1,50.0,10.0,0
+992,843432,54225,1583350,Inland Telephone Company,Inland Networks,Western Elite Incorporated Services,130651,Western Elite Incorporated Services,WA,530750010001137,11,1,10.0,1.0,1
+993,11637183,56004,4963088,"ViaSat, Inc.",Viasat Inc,"ViaSat, Inc.",290111,"ViaSat, Inc.",IL,171194002004022,60,1,100.0,3.0,1
+994,48956287,55262,18756155,"VSAT Systems, LLC",Skycasters,"VSAT Systems, LLC",300167,"VSAT Systems, LLC",ID,160010102212013,60,1,2.0,1.3,1
+995,38343519,67056,1857952,"BellSouth Telecommunications, Inc.",AT&T Mississippi,AT&T Inc.,130077,AT&T Inc.,MS,280519501002050,11,1,12.0,0.512,0
+996,36279471,67052,2860856,Illinois Bell Telephone Company,AT&T Illinois,AT&T Inc.,130077,AT&T Inc.,IL,171118708092065,10,1,6.0,0.512,0
+997,46779983,59349,1568880,GCI Communication Corp.,GCI Communication Corp.,GCI Holdings LLC,130534,GCI Holdings LLC,FL,120990078352009,60,0,0.0,0.0,1
+998,23411564,57383,13778857,"Liberty Cablevision of Puerto Rico, LLC",Liberty,Liberty Latin America,130741,Liberty Latin America,PR,720133011002007,42,1,400.0,30.0,1
+999,55246934,55262,18756155,"VSAT Systems, LLC",Skycasters,"VSAT Systems, LLC",300167,"VSAT Systems, LLC",MI,260639507001026,60,1,2.0,1.3,1

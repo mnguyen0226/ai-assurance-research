@@ -1,1 +1,1 @@
-# ai-assurance-research
+# AI Assurance Research
