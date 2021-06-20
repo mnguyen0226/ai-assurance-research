@@ -2,61 +2,66 @@
     {
         "run": 1,
         "epoch": 1,
-        "loss": 0.927253931760788,
-        "accuracy": 0.6403166666666666,
-        "epoch duration": 35.74393558502197,
-        "run duration": 53.17152786254883,
+        "loss": 0.9248326808214188,
+        "accuracy": 0.6501333333333333,
+        "epoch duration": 62.053894996643066,
+        "run duration": 69.35288000106812,
         "lr": 0.01,
         "batch_size": 1000,
         "num_workers": 0,
-        "shuffle": true
+        "shuffle": true,
+        "device": "cpu"
     },
     {
         "run": 1,
         "epoch": 2,
-        "loss": 0.5188514093557993,
-        "accuracy": 0.7978333333333333,
-        "epoch duration": 37.59573984146118,
-        "run duration": 91.22828650474548,
+        "loss": 0.5038876225550969,
+        "accuracy": 0.8085333333333333,
+        "epoch duration": 59.851633071899414,
+        "run duration": 129.52650952339172,
         "lr": 0.01,
         "batch_size": 1000,
         "num_workers": 0,
-        "shuffle": true
+        "shuffle": true,
+        "device": "cpu"
     },
     {
         "run": 1,
         "epoch": 3,
-        "loss": 0.428454527258873,
-        "accuracy": 0.8392166666666667,
-        "epoch duration": 38.03678822517395,
-        "run duration": 129.53659749031067,
+        "loss": 0.416354035337766,
+        "accuracy": 0.8471,
+        "epoch duration": 26.284247636795044,
+        "run duration": 156.12875699996948,
         "lr": 0.01,
         "batch_size": 1000,
         "num_workers": 0,
-        "shuffle": true
+        "shuffle": true,
+        "device": "cpu"
     },
     {
         "run": 1,
         "epoch": 4,
-        "loss": 0.37541989733775455,
-        "accuracy": 0.8608166666666667,
-        "epoch duration": 43.3497052192688,
-        "run duration": 173.35983514785767,
+        "loss": 0.35402051707108817,
+        "accuracy": 0.8695166666666667,
+        "epoch duration": 24.941050052642822,
+        "run duration": 181.39081406593323,
         "lr": 0.01,
         "batch_size": 1000,
         "num_workers": 0,
-        "shuffle": true
+        "shuffle": true,
+        "device": "cpu"
     },
     {
         "run": 1,
         "epoch": 5,
-        "loss": 0.33970422943433126,
-        "accuracy": 0.8743333333333333,
-        "epoch duration": 37.10602021217346,
-        "run duration": 210.866849899292,
+        "loss": 0.32709979514280957,
+        "accuracy": 0.8808833333333334,
+        "epoch duration": 25.064579486846924,
+        "run duration": 206.79319024085999,
         "lr": 0.01,
         "batch_size": 1000,
         "num_workers": 0,
-        "shuffle": true
+        "shuffle": true,
+        "device": "cpu"
     }
 ]
