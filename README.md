@@ -1,4 +1,4 @@
-# AI Assurance Research - Future Scientistq
+# AI Assurance Research - Future Scientists
 
 ## ***** Spring 2021 *****
 ### [Correlation Analysis](https://github.com/mnguyen0226/ai-assurance-research/tree/main/correlation) for Technology Metrics, Environmental Descriptors, Technology Laws (preprocessed datasets included).
