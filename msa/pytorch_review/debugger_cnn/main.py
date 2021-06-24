@@ -19,7 +19,7 @@ train_set = torchvision.datasets.FashionMNIST(
         transforms.Normalize(mean, std)
     ]))
 
-loader = DataLoader()
+loader = DataLoader(train_set, batch_size=1)
 image, label = next(iter(loader))
 
 print(image.shape)
