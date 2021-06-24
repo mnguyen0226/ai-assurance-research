@@ -5,16 +5,22 @@ import torch.optim as optim
 
 import torchvision
 import torchvision.transforms as transforms
+from torch.utils.data import DataLoader 
+
+mean = 0.2860347330570221
+std = 0.3530242443084717
 
 train_set = torchvision.datasets.FashionMNIST(
     root="./data/FashionMNIST",
     train=True,
     download=True,
     transform=transforms.Compose([ # convert image to 
-        transforms.ToTensor()
+        transforms.ToTensor(),
+        transforms.Normalize(mean, std)
     ]))
 
-image, label = train_set[0]
+loader = DataLoader()
+image, label = next(iter(loader))
 
 print(image.shape)
 
